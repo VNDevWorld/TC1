@@ -19846,13 +19846,13 @@
                 "enString": "36",
                 "frenchString": "36",
                 "germanString": "36",
-                "vnString": "30"
+                "vnString": "36"
               },
               {
                 "enString": "30",
                 "frenchString": "30",
                 "germanString": "30",
-                "vnString": "36"
+                "vnString": "30"
               },
               {
                 "enString": "32",
@@ -19868,9 +19868,9 @@
               }
             ],
             "correctAnswer": {
-              "enString": "30",
-              "frenchString": "30",
-              "germanString": "30",
+              "enString": "36",
+              "frenchString": "36",
+              "germanString": "36",
               "vnString": "36"
             },
             "hint": {
@@ -19893,13 +19893,13 @@
                 "enString": "6",
                 "frenchString": "6",
                 "germanString": "6",
-                "vnString": "5"
+                "vnString": "6"
               },
               {
                 "enString": "5",
                 "frenchString": "5",
                 "germanString": "5",
-                "vnString": "6"
+                "vnString": "5"
               },
               {
                 "enString": "7",
@@ -19915,9 +19915,9 @@
               }
             ],
             "correctAnswer": {
-              "enString": "5",
-              "frenchString": "5",
-              "germanString": "5",
+              "enString": "6",
+              "frenchString": "6",
+              "germanString": "6",
               "vnString": "6"
             },
             "hint": {
@@ -19940,7 +19940,7 @@
                 "enString": "15",
                 "frenchString": "15",
                 "germanString": "15",
-                "vnString": "17"
+                "vnString": "15"
               },
               {
                 "enString": "16",
@@ -19949,10 +19949,10 @@
                 "vnString": "16"
               },
               {
-                "enString": "18",
+                "enString": "17",
                 "frenchString": "17",
                 "germanString": "17",
-                "vnString": "15"
+                "vnString": "17"
               },
               {
                 "enString": "14",
@@ -19962,9 +19962,9 @@
               }
             ],
             "correctAnswer": {
-              "enString": "18",
-              "frenchString": "17",
-              "germanString": "17",
+              "enString": "15",
+              "frenchString": "15",
+              "germanString": "15",
               "vnString": "15"
             },
             "hint": {
@@ -19984,34 +19984,34 @@
             },
             "answers": [
               {
-                "enString": "44 cm",
-                "frenchString": "44 cm",
-                "germanString": "44 cm",
+                "enString": "42 cm",
+                "frenchString": "42 cm",
+                "germanString": "42 cm",
                 "vnString": "42 cm"
               },
               {
                 "enString": "36 cm",
-                "frenchString": "42 cm",
+                "frenchString": "36 cm",
                 "germanString": "36 cm",
                 "vnString": "36 cm"
               },
               {
-                "enString": "42 cm",
-                "frenchString": "48 cm",
-                "germanString": "42 cm",
+                "enString": "44 cm",
+                "frenchString": "44 cm",
+                "germanString": "44 cm",
                 "vnString": "44 cm"
               },
               {
                 "enString": "48 cm",
-                "frenchString": "36 cm",
+                "frenchString": "48 cm",
                 "germanString": "48 cm",
                 "vnString": "48 cm"
               }
             ],
             "correctAnswer": {
-              "enString": "42 cm",
-              "frenchString": "48 cm",
-              "germanString": "42 cm",
+              "enString": "44 cm",
+              "frenchString": "44 cm",
+              "germanString": "44 cm",
               "vnString": "44 cm"
             },
             "hint": {
@@ -20084,34 +20084,34 @@
             },
             "answers": [
               {
-                "enString": "9.6",
-                "frenchString": "960",
-                "germanString": "960",
+                "enString": "1080",
+                "frenchString": "1080",
+                "germanString": "1080",
                 "vnString": "1080"
               },
               {
-                "enString": "7.2",
+                "enString": "720",
                 "frenchString": "720",
-                "germanString": "1080",
+                "germanString": "720",
                 "vnString": "720"
               },
               {
-                "enString": "10.8",
-                "frenchString": "1080",
-                "germanString": "720",
+                "enString": "960",
+                "frenchString": "960",
+                "germanString": "960",
                 "vnString": "960"
               },
               {
-                "enString": "8.4",
+                "enString": "840",
                 "frenchString": "840",
                 "germanString": "840",
                 "vnString": "840"
               }
             ],
             "correctAnswer": {
-              "enString": "10.8",
-              "frenchString": "1080",
-              "germanString": "720",
+              "enString": "960",
+              "frenchString": "960",
+              "germanString": "960",
               "vnString": "960"
             },
             "hint": {
@@ -20131,34 +20131,34 @@
             },
             "answers": [
               {
-                "enString": "2",
-                "frenchString": "2",
-                "germanString": "2",
+                "enString": "3",
+                "frenchString": "3",
+                "germanString": "3",
                 "vnString": "3"
               },
               {
-                "enString": "3",
-                "frenchString": "1",
-                "germanString": "3",
+                "enString": "2",
+                "frenchString": "2",
+                "germanString": "2",
                 "vnString": "2"
               },
               {
                 "enString": "4",
                 "frenchString": "4",
-                "germanString": "1",
+                "germanString": "4",
                 "vnString": "4"
               },
               {
                 "enString": "1",
-                "frenchString": "3",
-                "germanString": "4",
+                "frenchString": "1",
+                "germanString": "1",
                 "vnString": "1"
               }
             ],
             "correctAnswer": {
-              "enString": "3",
-              "frenchString": "1",
-              "germanString": "3",
+              "enString": "2",
+              "frenchString": "2",
+              "germanString": "2",
               "vnString": "2"
             },
             "hint": {
@@ -20178,21 +20178,21 @@
             },
             "answers": [
               {
-                "enString": "180 minutes",
-                "frenchString": "180 minutes",
-                "germanString": "180 Minuten",
+                "enString": "200 minutes",
+                "frenchString": "200 minutes",
+                "germanString": "200 Minuten",
                 "vnString": "200 phút"
               },
               {
                 "enString": "160 minutes",
                 "frenchString": "160 minutes",
-                "germanString": "200 Minuten",
+                "germanString": "160 Minuten",
                 "vnString": "160 phút"
               },
               {
-                "enString": "200 minutes",
-                "frenchString": "200 minutes",
-                "germanString": "160 Minuten",
+                "enString": "180 minutes",
+                "frenchString": "180 minutes",
+                "germanString": "180 Minuten",
                 "vnString": "180 phút"
               },
               {
@@ -20203,9 +20203,9 @@
               }
             ],
             "correctAnswer": {
-              "enString": "200 minutes",
-              "frenchString": "200 minutes",
-              "germanString": "160 Minuten",
+              "enString": "180 minutes",
+              "frenchString": "180 minutes",
+              "germanString": "180 Minuten",
               "vnString": "180 phút"
             },
             "hint": {
@@ -20225,34 +20225,34 @@
             },
             "answers": [
               {
-                "enString": "56",
-                "frenchString": "56",
-                "germanString": "56",
+                "enString": "42",
+                "frenchString": "42",
+                "germanString": "42",
                 "vnString": "42"
               },
               {
                 "enString": "49",
-                "frenchString": "63",
-                "germanString": "42",
+                "frenchString": "49",
+                "germanString": "49",
                 "vnString": "49"
               },
               {
                 "enString": "63",
-                "frenchString": "49",
-                "germanString": "49",
+                "frenchString": "63",
+                "germanString": "63",
                 "vnString": "63"
               },
               {
-                "enString": "42",
-                "frenchString": "42",
-                "germanString": "63",
+                "enString": "56",
+                "frenchString": "56",
+                "germanString": "56",
                 "vnString": "56"
               }
             ],
             "correctAnswer": {
-              "enString": "42",
-              "frenchString": "42",
-              "germanString": "63",
+              "enString": "56",
+              "frenchString": "56",
+              "germanString": "56",
               "vnString": "56"
             },
             "hint": {
@@ -20419,15 +20419,15 @@
             },
             "answers": [
               {
-                "enString": "21",
-                "frenchString": "21",
-                "germanString": "21",
+                "enString": "20",
+                "frenchString": "20",
+                "germanString": "20",
                 "vnString": "20"
               },
               {
                 "enString": "24",
-                "frenchString": "20",
-                "germanString": "20",
+                "frenchString": "24",
+                "germanString": "24",
                 "vnString": "24"
               },
               {
@@ -20438,15 +20438,15 @@
               },
               {
                 "enString": "22",
-                "frenchString": "24",
-                "germanString": "24",
+                "frenchString": "22",
+                "germanString": "22",
                 "vnString": "22"
               }
             ],
             "correctAnswer": {
-              "enString": "20",
-              "frenchString": "22",
-              "germanString": "22",
+              "enString": "21",
+              "frenchString": "21",
+              "germanString": "21",
               "vnString": "21"
             },
             "hint": {
@@ -20466,38 +20466,38 @@
             },
             "answers": [
               {
-                "enString": "25 square cm",
-                "frenchString": "25 cm²",
-                "germanString": "25 cm²",
-                "vnString": "20 cm vuông"
-              },
-              {
-                "enString": "30 square cm",
+                "enString": "20 cm²",
                 "frenchString": "20 cm²",
                 "germanString": "20 cm²",
-                "vnString": "30 cm vuông"
+                "vnString": "20 cm²"
               },
               {
-                "enString": "20 square cm",
-                "frenchString": "30 cm²",
-                "germanString": "30 cm²",
-                "vnString": "25 cm vuông"
+                "enString": "30 cm²",
+                "frenchString": "20 cm²",
+                "germanString": "20 cm²",
+                "vnString": "30 cm²"
               },
               {
-                "enString": "35 square cm",
+                "enString": "25 cm²",
+                "frenchString": "25 cm²",
+                "germanString": "25 cm²",
+                "vnString": "25 cm²"
+              },
+              {
+                "enString": "35 cm²",
                 "frenchString": "35 cm²",
                 "germanString": "35 cm²",
-                "vnString": "35 cm vuông"
+                "vnString": "35 cm²"
               }
             ],
             "correctAnswer": {
-              "enString": "20 square cm",
-              "frenchString": "30 cm²",
-              "germanString": "30 cm²",
-              "vnString": "25 cm vuông"
+              "enString": "25 cm²",
+              "frenchString": "25 cm²",
+              "germanString": "25 cm²",
+              "vnString": "25 cm²"
             },
             "hint": {
-              "enString": "To find the area of a square with a side length of 5 cm, use the formula: Area = side length × side length. Therefore, Area = 5 cm × 5 cm = 25 square cm.",
+              "enString": "To find the area of a square with a side length of 5 cm, use the formula: Area = side length × side length. Therefore, Area = 5 cm × 5 cm = 25 cm².",
               "frenchString": "Pour trouver la superficie d'un carré avec une longueur de côté de 5 cm, utilisez la formule : Superficie = longueur du côté × longueur du côté. Donc, Superficie = 5 cm × 5 cm = 25 cm².",
               "germanString": "Um die Fläche eines Quadrats mit einer Seitenlänge von 5 cm zu finden, verwende die Formel: Fläche = Seitenlänge × Seitenlänge. Daher ist die Fläche = 5 cm × 5 cm = 25 Quadratcm.",
               "vnString": "Để tìm diện tích của một hình vuông có cạnh dài 5 cm, sử dụng công thức: Diện tích = cạnh x cạnh. Do đó, Diện tích = 5 cm x 5 cm = 25 cm²."
@@ -20566,34 +20566,34 @@
             },
             "answers": [
               {
-                "enString": "60 books",
-                "frenchString": "60 livres",
-                "germanString": "60 Bücher",
+                "enString": "55 books",
+                "frenchString": "55 livres",
+                "germanString": "55 Bücher",
                 "vnString": "55 cuốn sách"
               },
               {
                 "enString": "65 books",
                 "frenchString": "65 livres",
-                "germanString": "70 Bücher",
+                "germanString": "65 Bücher",
                 "vnString": "65 cuốn sách"
               },
               {
-                "enString": "55 books",
-                "frenchString": "70 livres",
-                "germanString": "55 Bücher",
+                "enString": "60 books",
+                "frenchString": "60 livres",
+                "germanString": "60 Bücher",
                 "vnString": "60 cuốn sách"
               },
               {
                 "enString": "70 books",
-                "frenchString": "55 livres",
-                "germanString": "65 Bücher",
+                "frenchString": "70 livres",
+                "germanString": "70 Bücher",
                 "vnString": "70 cuốn sách"
               }
             ],
             "correctAnswer": {
-              "enString": "55 books",
-              "frenchString": "70 livres",
-              "germanString": "55 Bücher",
+              "enString": "60 books",
+              "frenchString": "60 livres",
+              "germanString": "60 Bücher",
               "vnString": "60 cuốn sách"
             },
             "hint": {
@@ -20660,21 +20660,21 @@
             },
             "answers": [
               {
-                "enString": "75 colored pencils",
-                "frenchString": "75 crayons",
-                "germanString": "75 Buntstifte",
+                "enString": "70 colored pencils",
+                "frenchString": "70 crayons",
+                "germanString": "70 Buntstifte",
                 "vnString": "70 bút chì màu"
               },
               {
-                "enString": "70 colored pencils",
-                "frenchString": "70 crayons",
-                "germanString": "80 Buntstifte",
+                "enString": "75 colored pencils",
+                "frenchString": "75 crayons",
+                "germanString": "75 Buntstifte",
                 "vnString": "75 bút chì màu"
               },
               {
                 "enString": "80 colored pencils",
                 "frenchString": "80 crayons",
-                "germanString": "70 Buntstifte",
+                "germanString": "80 Buntstifte",
                 "vnString": "80 bút chì màu"
               },
               {
@@ -20685,9 +20685,9 @@
               }
             ],
             "correctAnswer": {
-              "enString": "70 colored pencils",
-              "frenchString": "70 crayons",
-              "germanString": "80 Buntstifte",
+              "enString": "75 colored pencils",
+              "frenchString": "75 crayons",
+              "germanString": "75 Buntstifte",
               "vnString": "75 bút chì màu"
             },
             "hint": {
@@ -20707,34 +20707,34 @@
             },
             "answers": [
               {
-                "enString": "48",
-                "frenchString": "48",
-                "germanString": "48",
+                "enString": "52",
+                "frenchString": "52",
+                "germanString": "52",
                 "vnString": "52"
               },
               {
-                "enString": "52",
-                "frenchString": "44",
-                "germanString": "52",
+                "enString": "48",
+                "frenchString": "48",
+                "germanString": "48",
                 "vnString": "48"
               },
               {
                 "enString": "46",
-                "frenchString": "52",
+                "frenchString": "46",
                 "germanString": "46",
                 "vnString": "46"
               },
               {
                 "enString": "44",
-                "frenchString": "46",
+                "frenchString": "44",
                 "germanString": "44",
                 "vnString": "44"
               }
             ],
             "correctAnswer": {
-              "enString": "52",
-              "frenchString": "44",
-              "germanString": "52",
+              "enString": "48",
+              "frenchString": "48",
+              "germanString": "48",
               "vnString": "48"
             },
             "hint": {
@@ -20760,34 +20760,34 @@
             },
             "answers": [
               {
-                "enString": "216 stickers",
-                "frenchString": "216 autocollants",
-                "germanString": "216 Aufkleber",
+                "enString": "220 stickers",
+                "frenchString": "220 autocollants",
+                "germanString": "220 Aufkleber",
                 "vnString": "220 nhãn dán"
               },
               {
                 "enString": "210 stickers",
                 "frenchString": "210 autocollants",
-                "germanString": "220 Aufkleber",
+                "germanString": "210 Aufkleber",
                 "vnString": "210 nhãn dán"
               },
               {
-                "enString": "220 stickers",
-                "frenchString": "230 autocollants",
-                "germanString": "230 Aufkleber",
+                "enString": "216 stickers",
+                "frenchString": "216 autocollants",
+                "germanString": "216 Aufkleber",
                 "vnString": "216 nhãn dán"
               },
               {
                 "enString": "230 stickers",
-                "frenchString": "220 autocollants",
-                "germanString": "210 Aufkleber",
+                "frenchString": "230 autocollants",
+                "germanString": "230 Aufkleber",
                 "vnString": "230 nhãn dán"
               }
             ],
             "correctAnswer": {
-              "enString": "220 stickers",
-              "frenchString": "230 autocollants",
-              "germanString": "230 Aufkleber",
+              "enString": "216 stickers",
+              "frenchString": "216 autocollants",
+              "germanString": "216 Aufkleber",
               "vnString": "216 nhãn dán"
             },
             "hint": {
@@ -20820,13 +20820,13 @@
               },
               {
                 "enString": "74",
-                "frenchString": "76",
+                "frenchString": "74",
                 "germanString": "74",
                 "vnString": "74"
               },
               {
                 "enString": "76",
-                "frenchString": "74",
+                "frenchString": "76",
                 "germanString": "76",
                 "vnString": "76"
               }
@@ -20867,14 +20867,14 @@
               },
               {
                 "enString": "212 weeks",
-                "frenchString": "200 semaines",
-                "germanString": "200 Wochen",
+                "frenchString": "212 semaines",
+                "germanString": "212 Wochen",
                 "vnString": "212 tuần"
               },
               {
                 "enString": "200 weeks",
-                "frenchString": "212 semaines",
-                "germanString": "212 Wochen",
+                "frenchString": "200 semaines",
+                "germanString": "200 Wochen",
                 "vnString": "200 tuần"
               }
             ],
@@ -20908,15 +20908,15 @@
               },
               {
                 "enString": "30 cm",
-                "frenchString": "24 cm",
+                "frenchString": "30 cm",
                 "germanString": "30 cm",
                 "vnString": "30 cm"
               },
               {
                 "enString": "24 cm",
-                "frenchString": "30 cm",
+                "frenchString": "24 cm",
                 "germanString": "24 cm",
-                "vnString": "24cm"
+                "vnString": "24 cm"
               },
               {
                 "enString": "32 cm",
@@ -20948,21 +20948,21 @@
             },
             "answers": [
               {
-                "enString": "42",
-                "frenchString": "42",
-                "germanString": "42",
+                "enString": "44",
+                "frenchString": "44",
+                "germanString": "44",
                 "vnString": "44"
               },
               {
                 "enString": "40",
                 "frenchString": "40",
-                "germanString": "44",
+                "germanString": "40",
                 "vnString": "40"
               },
               {
-                "enString": "44",
-                "frenchString": "44",
-                "germanString": "40",
+                "enString": "42",
+                "frenchString": "42",
+                "germanString": "42",
                 "vnString": "42"
               },
               {
@@ -20973,9 +20973,9 @@
               }
             ],
             "correctAnswer": {
-              "enString": "44",
-              "frenchString": "44",
-              "germanString": "40",
+              "enString": "42",
+              "frenchString": "42",
+              "germanString": "42",
               "vnString": "42"
             },
             "hint": {
@@ -21050,32 +21050,32 @@
               {
                 "enString": "8 460 542",
                 "frenchString": "8 460 542",
-                "germanString": "58",
+                "germanString": "8 460 542",
                 "vnString": "8 460 542"
               },
               {
                 "enString": "8 460 524",
                 "frenchString": "8 460 524",
-                "germanString": "58",
+                "germanString": "8 460 524",
                 "vnString": "8 460 524"
               },
               {
                 "enString": "8 459 999",
                 "frenchString": "8 459 999",
-                "germanString": "20",
+                "germanString": "8 459 999",
                 "vnString": "8 459 999"
               },
               {
                 "enString": "7 587 542",
                 "frenchString": "7 587 542",
-                "germanString": "30",
+                "germanString": "7 587 542",
                 "vnString": "7 587 542"
               }
             ],
             "correctAnswer": {
               "enString": "8 460 542",
               "frenchString": "8 460 542",
-              "germanString": "58",
+              "germanString": "8 460 542",
               "vnString": "8 460 542"
             },
             "hint": {
@@ -21097,32 +21097,32 @@
               {
                 "enString": "550 000",
                 "frenchString": "550 000",
-                "germanString": "3000",
+                "germanString": "550 000",
                 "vnString": "550 000"
               },
               {
                 "enString": "23 025 356",
                 "frenchString": "23 025 356",
-                "germanString": "300",
+                "germanString": "3 025 356",
                 "vnString": "23 025 356"
               },
               {
                 "enString": "5 278 855",
                 "frenchString": "5 278 855",
-                "germanString": "30",
+                "germanString": "5 278 855",
                 "vnString": "5 278 855"
               },
               {
                 "enString": "2 556 505",
                 "frenchString": "2 556 505",
-                "germanString": "3",
+                "germanString": "2 556 505",
                 "vnString": "2 556 505"
               }
             ],
             "correctAnswer": {
               "enString": "23 025 356",
               "frenchString": "23 025 356",
-              "germanString": "300",
+              "germanString": "23 025 356",
               "vnString": "23 025 356"
             },
             "hint": {
@@ -21144,32 +21144,32 @@
               {
                 "enString": "1010",
                 "frenchString": "1010",
-                "germanString": "103",
+                "germanString": "1010",
                 "vnString": "1010"
               },
               {
                 "enString": "100 010",
                 "frenchString": "100 010",
-                "germanString": "103",
+                "germanString": "100 010",
                 "vnString": "100 010"
               },
               {
                 "enString": "10 010",
                 "frenchString": "10 010",
-                "germanString": "103",
+                "germanString": "10 010",
                 "vnString": "10 010"
               },
               {
                 "enString": "101 000",
                 "frenchString": "101 000",
-                "germanString": "103",
+                "germanString": "101 000",
                 "vnString": "101 000"
               }
             ],
             "correctAnswer": {
               "enString": "10 010",
               "frenchString": "10 010",
-              "germanString": "103",
+              "germanString": "10 010",
               "vnString": "10 010"
             },
             "hint": {
@@ -21191,32 +21191,32 @@
               {
                 "enString": "10234",
                 "frenchString": "10234",
-                "germanString": "17",
+                "germanString": "10234",
                 "vnString": "10234"
               },
               {
                 "enString": "10002",
                 "frenchString": "10002",
-                "germanString": "16",
+                "germanString": "10002",
                 "vnString": "10002"
               },
               {
                 "enString": "100000",
                 "frenchString": "10000",
-                "germanString": "18",
+                "germanString": "10000",
                 "vnString": "10000"
               },
               {
                 "enString": "10001",
                 "frenchString": "10001",
-                "germanString": "15",
+                "germanString": "10001",
                 "vnString": "10001"
               }
             ],
             "correctAnswer": {
               "enString": "10002",
               "frenchString": "10002",
-              "germanString": "16",
+              "germanString": "10002",
               "vnString": "10002"
             },
             "hint": {
@@ -21617,10 +21617,10 @@
           {
             "id": 49,
             "question": {
-              "enString": "14 m2 = …… ..cm2",
-              "frenchString": "14 m² = ……..cm²",
-              "germanString": "14 m² = ……..cm²",
-              "vnString": "14 m2 = ……..cm2"
+              "enString": "14 m2 = …… cm2",
+              "frenchString": "14 m² = …… cm²",
+              "germanString": "14 m² = …… cm²",
+              "vnString": "14 m2 = …… cm2"
             },
             "answers": [
               {
@@ -21666,39 +21666,39 @@
             "question": {
               "enString": "Write the following number: Twenty-one thirty-seven hundred years.",
               "frenchString": "Écrivez le nombre suivant : Deux cent treize millions six cent vingt-quatre mille sept cents.",
-              "germanString": "Schreibe die Zahl in Worten: 50043",
+              "germanString": "Schreiben Sie die folgende Zahl: zweihundertdreizehn Millionen sechshundertvierundzwanzigtausendsiebenhundert",
               "vnString": "Viết số sau: Hai trăm mười ba triệu sáu trăm hai mươi tư nghìn bảy trăm."
             },
             "answers": [
               {
                 "enString": "213 624 700",
                 "frenchString": "213 624 700",
-                "germanString": "fünfzigtausenddreiundvierzig",
+                "germanString": "213 624 700",
                 "vnString": "213 624 700"
               },
               {
                 "enString": "213 624 070",
                 "frenchString": "213 624 070",
-                "germanString": "fünfundvierzigtausenddreiunddreißig",
+                "germanString": "213 624 070",
                 "vnString": "213 624 070"
               },
               {
                 "enString": "21 362 470",
                 "frenchString": "21 362 470",
-                "germanString": "fünfzigtausenddreißig",
+                "germanString": "21 362 470",
                 "vnString": "21 362 470"
               },
               {
                 "enString": "21 362 700",
                 "frenchString": "21 362 700",
-                "germanString": "fünfundvierzigtausenddreißig",
+                "germanString": "21 362 700",
                 "vnString": "21 362 700"
               }
             ],
             "correctAnswer": {
               "enString": "213 624 700",
               "frenchString": "213 624 700",
-              "germanString": "fünfzigtausenddreiundvierzig",
+              "germanString": "213 624 700",
               "vnString": "213 624 700"
             },
             "hint": {
@@ -21814,7 +21814,7 @@
               "enString": "7 minutes 10 seconds …………. 420 seconds",
               "frenchString": "7 minutes 10 secondes ………. 420 secondes",
               "germanString": "7 Minuten 10 Sekunden………. 420 Sekunden",
-              "vnString": "7 phút 10 giây………. 420 giây"
+              "vnString": "7 phút 10 giây……… 420 giây"
             },
             "answers": [
               {
@@ -22924,39 +22924,39 @@
             "question": {
               "enString": "Write the number 'Fifty seven million six hundred thousand years zero hundred and nine'",
               "frenchString": "Écrivez le nombre “Cinquante-sept millions six cent mille neuf”",
-              "germanString": "Gegeben: x = 45. Finde den Wert von 45 x (6 + 7) : (8 - 4)",
+              "germanString": "Schreiben Sie die Zahl: siebenundfünfzig Millionen sechshunderttausend neun",
               "vnString": "Viết số “Năm mươi bảy triệu sáu trăm nghìn không trăm linh chín”"
             },
             "answers": [
               {
                 "enString": "57600900",
                 "frenchString": "57600900",
-                "germanString": "375",
+                "germanString": "57600900",
                 "vnString": "57600900"
               },
               {
                 "enString": "57600009",
                 "frenchString": "57600009",
-                "germanString": "390",
+                "germanString": "57600009",
                 "vnString": "57600009"
               },
               {
                 "enString": "57609000",
                 "frenchString": "57609000",
-                "germanString": "405",
+                "germanString": "57609000",
                 "vnString": "57609000"
               },
               {
                 "enString": "57060009",
                 "frenchString": "57060009",
-                "germanString": "420",
+                "germanString": "57060009",
                 "vnString": "57060009"
               }
             ],
             "correctAnswer": {
               "enString": "57600009",
               "frenchString": "57600009",
-              "germanString": "390",
+              "germanString": "57600009",
               "vnString": "57600009"
             },
             "hint": {
@@ -23018,39 +23018,39 @@
             "question": {
               "enString": "The average number of students in class 4 is 38. The number of students in class 4A is 6 less than the number of students in class 4B. The number of students in class 4A is:",
               "frenchString": "La moyenne du nombre d'élèves des deux classes 4 est de 38 élèves. Le nombre d'élèves dans la classe 4A est inférieur de 6 élèves à celui de la classe 4B. Le nombre d'élèves dans la classe 4A est :",
-              "germanString": "Eine Kiste mit einem Gewicht von 8 kg ist voll mit Kartons, von denen jeder 2 kg wiegt. Wie viele Kartons befinden sich in der Kiste, wenn das Gewicht der Kiste 12 kg beträgt?",
+              "germanString": "Der arithmetische Mittelwert der Schülerzahl zweier vierter Klassen beträgt 38 Schüler. Die Klasse 4A hat 6 Schüler weniger als die Klasse 4B. Wie viele Schüler hat die Klasse 4A?",
               "vnString": "Trung bình cộng số học sinh của hai lớp 4 là 38 em. Số học sinh lớp 4A ít hơn số học sinh lớp 4B là 6 em. Số học sinh của lớp 4A là:"
             },
             "answers": [
               {
                 "enString": "16",
                 "frenchString": "16",
-                "germanString": "2",
+                "germanString": "16",
                 "vnString": "16"
               },
               {
                 "enString": "35",
                 "frenchString": "35",
-                "germanString": "4",
+                "germanString": "35",
                 "vnString": "35"
               },
               {
                 "enString": "70",
                 "frenchString": "70",
-                "germanString": "6",
+                "germanString": "70",
                 "vnString": "70"
               },
               {
                 "enString": "41",
                 "frenchString": "41",
-                "germanString": "8",
+                "germanString": "41",
                 "vnString": "41"
               }
             ],
             "correctAnswer": {
               "enString": "35",
               "frenchString": "35",
-              "germanString": "4",
+              "germanString": "35",
               "vnString": "35"
             },
             "hint": {
@@ -23746,10 +23746,10 @@
             },
             "answers": [
               {
-                "enString": "3dm2 5cm2 = 350 cm2",
+                "enString": "3dm² 5cm² = 350 cm²",
                 "frenchString": "3 dm² 5 cm² = 350 cm²",
                 "germanString": "3 dm² 5 cm² = 350 cm²",
-                "vnString": "3dm2 5cm2 = 350 cm2"
+                "vnString": "3dm² 5cm² = 350 cm²"
               },
               {
                 "enString": "9000kg = 9 tons",
@@ -23758,10 +23758,10 @@
                 "vnString": "9000kg = 9 tấn"
               },
               {
-                "enString": "600dm2 = 60 m2",
+                "enString": "600dm² = 60 m²",
                 "frenchString": "600 dm² = 60 m²",
                 "germanString": "600 dm² = 60 m²",
-                "vnString": "600dm2 = 60 m2"
+                "vnString": "600dm² = 60 m²"
               },
               {
                 "enString": "4 minutes 15 seconds = 415 seconds",
@@ -24618,32 +24618,32 @@
               {
                 "enString": "123456",
                 "frenchString": "123456",
-                "germanString": "55987",
+                "germanString": "123456",
                 "vnString": "123456"
               },
               {
                 "enString": "237985",
                 "frenchString": "237985",
-                "germanString": "444321",
+                "germanString": "237985",
                 "vnString": "237985"
               },
               {
                 "enString": "4444321",
                 "frenchString": "444321",
-                "germanString": "123456",
+                "germanString": "4444321",
                 "vnString": "4444321"
               },
               {
                 "enString": "55987",
                 "frenchString": "55987",
-                "germanString": "237985",
+                "germanString": "55987",
                 "vnString": "55987"
               }
             ],
             "correctAnswer": {
               "enString": "55987",
               "frenchString": "55987",
-              "germanString": "237985",
+              "germanString": "55987",
               "vnString": "55987"
             },
             "hint": {
@@ -25240,8 +25240,8 @@
             "answers": [
               {
                 "enString": "240",
-                "frenchString": "270",
-                "germanString": "270",
+                "frenchString": "240",
+                "germanString": "240",
                 "vnString": "240"
               },
               {
@@ -25258,15 +25258,15 @@
               },
               {
                 "enString": "270",
-                "frenchString": "240",
-                "germanString": "240",
+                "frenchString": "270",
+                "germanString": "270",
                 "vnString": "270"
               }
             ],
             "correctAnswer": {
               "enString": "270",
-              "frenchString": "240",
-              "germanString": "240",
+              "frenchString": "270",
+              "germanString": "270",
               "vnString": "270"
             },
             "hint": {
@@ -26287,7 +26287,7 @@
               "vnString": "406"
             },
             "hint": {
-              "enString": "To solve this, convert 4 m2 to dm2. 1 m2 = 100 dm2, so 4 m2 = 400 dm2. Add 6 dm2 to get 406 dm2. The correct answer is 406.",
+              "enString": "To solve this, convert 4 m2 to dm2. 1 m² = 100 dm², so 4 m² = 400 dm². Add 6 dm² to get 406 dm². The correct answer is 406.",
               "frenchString": "Pour résoudre cela, trouvez le nombre de mètres dans 3,5 km. Convertissez 3,5 km en mètres : 3,5 km = 3500 m. La réponse correcte est 3500 m.",
               "germanString": "Um dies zu lösen, konvertiere 4 m² in dm². 1 m² = 100 dm², also sind 4 m² = 400 dm². Füge 6 dm² hinzu, um 406 dm² zu erhalten. Die richtige Antwort ist 406.",
               "vnString": "Để giải bài toán này, chuyển đổi 4 m² thành dm². 1 m² = 100 dm², vì vậy 4 m² = 400 dm². Thêm 6 dm² để được 406 dm². Đáp án đúng là 406."
@@ -29529,10 +29529,10 @@
           {
             "id": 88,
             "question": {
-              "enString": "97dm2 14cm2 = ... m2",
+              "enString": "97dm² 14cm² = ... m²",
               "frenchString": "97 dm² 14 cm² = ... m²",
               "germanString": "97 dm² 14 cm² = ... m²",
-              "vnString": "97dm2 14cm2 = ...m2"
+              "vnString": "97dm² 14cm² = ... m²"
             },
             "answers": [
               {
