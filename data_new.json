@@ -26155,7 +26155,7 @@
           {
             "id": 18,
             "question": {
-              "enString": "Write decimal fractions with: Ten units, three parts:",
+              "enString": "Write the decimal number with ten units and three thousandths.",
               "frenchString": "Écrivez le nombre décimal : Dix unités, trois millièmes",
               "germanString": "Schreibe die Dezimalzahl mit: Zehn Einheiten, drei Tausendsteln:",
               "vnString": "Viết các số thập phân có: Mười đơn vị, ba phần nghìn:"
@@ -26202,7 +26202,7 @@
           {
             "id": 19,
             "question": {
-              "enString": "One twenty-eight units, seven percent:",
+              "enString": "Write the decimal number with one thousand twenty-eight units and seven hundredths.",
               "frenchString": "Mille vingt-huit unités, sept pour cent :",
               "germanString": "Ein Tausend achtundzwanzig Einheiten, sieben Prozent:",
               "vnString": "Một nghìn hai mươi tám đơn vị, bảy phần trăm:"
@@ -26240,7 +26240,7 @@
               "vnString": "1028.07"
             },
             "hint": {
-              "enString": "To solve this, identify that twenty-eight units is 1028 and seven percent is 0.07, so the number is 1028.07. The correct answer is 1028.07.",
+              "enString": "To solve this, identify that thousand twenty-eight units is 1028 and seven percent is 0.07, so the number is 1028.07. The correct answer is 1028.07.",
               "frenchString": "Pour résoudre cela, trouvez la quantité totale de pâte après avoir ajouté 150 g à 0,75 kg de pâte. Convertissez 0,75 kg en grammes : 0,75 kg = 750 g. Ajoutez 150 g : 750 g + 150 g = 900 g. La réponse correcte est 900 g.",
               "germanString": "Um dies zu lösen, identifiziere, dass achtundzwanzig Einheiten 1028 sind und sieben Prozent 0.07, daher ist die Zahl 1028.07. Die richtige Antwort ist 1028.07.",
               "vnString": "Để giải bài toán này, xác định rằng hai mươi tám đơn vị là 1028 và bảy phần trăm là 0.07, vì vậy số là 1028.07. Đáp án đúng là 1028.07."
