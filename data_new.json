@@ -7044,7 +7044,7 @@
             "hint": {
               "enString": "To fill in the missing numbers in the sequence 82; 84; 86;.........;..........;..... .......;..........; 96; 98, identify the correct increasing order. The correct answer is 88; 90; 92; 94.",
               "frenchString": "Pour compléter les nombres manquants dans la séquence 82 ; 84 ; 86 ;......... ;.......... ;..... ....... ;.......... ; 96 ; 98, identifiez l'ordre croissant correct. La réponse correcte est 88 ; 90 ; 92 ; 94.",
-              "germanString": "Um die Zeit in Minuten zu berechnen, die benötigt wird, um die 5 Stunden von 10:00 bis 15:00 Uhr zu bestimmen, wandle die Stunden in Minuten um. Die richtige Antwort ist 300.",
+              "germanString": "Um die fehlenden Zahlen in der Reihe 82; 84; 86; …; …; …; …; 96; 98 zu ergänzen, bestimmt man die richtige aufsteigende Reihenfolge. Die richtige Antwort ist 88; 90; 92; 94.",
               "vnString": "Để điền các số thiếu trong dãy 82; 84; 86;.........;..........;..... .......;..........; 96; 98, xác định thứ tự tăng dần đúng. Đáp án đúng là 88; 90; 92; 94."
             }
           },
@@ -7091,8 +7091,8 @@
             "hint": {
               "enString": "To choose the appropriate number or letter for Ni;nety-six, identify the number that represents Ninety-six. The correct answer is 96.",
               "frenchString": "Pour choisir le nombre ou la lettre approprié pour Ni ;nety-six, identifiez le nombre qui représente Soixante-seize. La réponse correcte est 96.",
-              "germanString": "Um herauszufinden, wie viele zusätzliche Minuten in der neuen Zeit vorhanden sind, subtrahiere die ursprüngliche Zeit von der neuen Zeit. Die richtige Antwort ist 23.",
-              "vnString": "Để chọn số hoặc chữ cái phù hợp cho Ninety-six, xác định số đại diện cho Ninety-six. Đáp án đúng là 96."
+              "germanString": "Um die passende Zahl oder das passende Zeichen für „sechsundneunzig“ auszuwählen, bestimmt man die entsprechende Zahl. Die richtige Antwort ist 96.",
+              "vnString": "Để chọn số hoặc chữ cái phù hợp cho Chín mươi sáu, xác định số đại diện cho Chín mươi sáu. Đáp án đúng là 96."
             }
           },
           {
@@ -7138,8 +7138,8 @@
             "hint": {
               "enString": "To select the appropriate number or letter for 84, identify the correct word. The correct answer is Eighty-four.",
               "frenchString": "Pour sélectionner le nombre ou la lettre approprié pour 84, identifiez le mot correct. La réponse correcte est Quatre-vingt-quatre.",
-              "germanString": "Um die richtige Anzahl von Murmeln auf dem Bild zu bestimmen, schätze die Anzahl der Murmeln im Bild: Die geschätzte Anzahl ist 12. Die richtige Antwort ist 12.",
-              "vnString": "Để chọn số hoặc chữ cái phù hợp cho 84, xác định từ đúng. Đáp án đúng là Eighty-four."
+              "germanString": "Um die passende Zahl oder das passende Wort für 84 auszuwählen, bestimmt man die richtige Bezeichnung. Die richtige Antwort ist „vierundachtzig“.",
+              "vnString": "Để chọn số hoặc chữ cái phù hợp cho 84, xác định từ đúng. Đáp án đúng là Tám mươi bốn."
             }
           },
           {
@@ -7185,7 +7185,7 @@
             "hint": {
               "enString": "To solve 9 + 8, add the numbers directly. The correct answer is 17.",
               "frenchString": "Pour résoudre 9 + 8, ajoutez les nombres directement. La réponse correcte est 17.",
-              "germanString": "Um die Menge an Äpfeln in einer Tüte nach dem Entfernen von 8 Äpfeln aus 24 Äpfeln zu berechnen, subtrahiere 8 von 24: 24 - 8 = 16. Die richtige Antwort ist 16.",
+              "germanString": "Um 9 + 8 zu berechnen, addiert man die Zahlen direkt. Die richtige Antwort ist 17.",
               "vnString": "Để giải 9 + 8, cộng các số trực tiếp. Đáp án đúng là 17."
             }
           },
@@ -7232,7 +7232,7 @@
             "hint": {
               "enString": "To solve 2 + 9, add the numbers directly. The correct answer is 11.",
               "frenchString": "Pour résoudre 2 + 9, ajoutez les nombres directement. La réponse correcte est 11.",
-              "germanString": "Um die Anzahl der T-Shirts zu berechnen, die bei einem Preis von 30 Euro und einem Budget von 150 Euro gekauft werden können, teile das Budget durch den Preis eines T-Shirts: 150 / 30 = 5. Die richtige Antwort ist 5.",
+              "germanString": "Um 2 + 9 zu berechnen, addiert man die Zahlen direkt. Die richtige Antwort ist 11.",
               "vnString": "Để giải 2 + 9, cộng các số trực tiếp. Đáp án đúng là 11."
             }
           }
@@ -9657,7 +9657,7 @@
             "question": {
               "enString": "The teacher prepared 7 dozen gifts for the students. At class activities, she gave gifts to the whole class, one gift for each student. Knowing the class size is 45 students. Ask the teacher how much is left. How many gifts?",
               "frenchString": "L'enseignant a préparé 70 cadeaux pour les élèves. Lors de la distribution, chaque élève a reçu un cadeau. Sachant qu'il y a 45 élèves, combien de cadeaux reste-t-il à l'enseignant?",
-              "germanString": "Bài hat 14 Äpfel, gibt Liên 8 Äpfel und hat noch 6 Äpfel übrig. Wie viele Äpfel hatte Bài anfangs?",
+              "germanString": "Die Lehrerin bereitet 70 Geschenke für die Schüler vor. In der Klassenstunde verteilt sie an jeden Schüler ein Geschenk. Die Klasse hat 45 Schüler. Wie viele Geschenke bleiben übrig?",
               "vnString": "Cô giáo chuẩn bị 7 chục món quà cho học sinh. Đến tiết sinh hoạt lớp cô phát quà cho cả lớp, mỗi bạn một món quà. Biết sĩ số lớp học là 45 bạn. Hỏi cô giáo còn lại bao nhiêu món quà?"
             },
             "answers": [
@@ -9704,7 +9704,7 @@
             "question": {
               "enString": "Calculate: 63 + 18",
               "frenchString": "Calculez: 63 + 18",
-              "germanString": "A hat die Anzahl 57, B hat die Anzahl 37. Wie viel größer ist die Zahl von A im Vergleich zur Zahl von B?",
+              "germanString": "Berechne: 63 + 18",
               "vnString": "Tính: 63 + 18"
             },
             "answers": [
@@ -9742,7 +9742,7 @@
             "hint": {
               "enString": "To calculate 63 + 18, add 18 to 63: 63 + 18 = 81. The correct answer is 81.",
               "frenchString": "Pour calculer 63 + 18, ajoutez 18 à 63 : 63 + 18 = 81. La réponse correcte est 81.",
-              "germanString": "Um die maximale Anzahl von Blumensträußen zu berechnen, teile 100 durch 5: 100 / 5 = 20. Die richtige Antwort ist 20.",
+              "germanString": "Um 63 + 18 zu berechnen, addiert man 18 zu 63: 63 + 18 = 81. Die richtige Antwort ist 81.",
               "vnString": "Để tính 63 + 18, cộng 18 vào 63: 63 + 18 = 81. Đáp án đúng là 81."
             }
           },
@@ -9751,7 +9751,7 @@
             "question": {
               "enString": "Calculate: 19 + 35",
               "frenchString": "Calculez: 19 + 35",
-              "germanString": "Füge die richtige Zahl in die leere Box ein, sodass die Gleichung korrekt ist:\n 12 + ... = 25",
+              "germanString": "Berechne: 19 + 35",
               "vnString": "Tính: 19 + 35"
             },
             "answers": [
@@ -9789,7 +9789,7 @@
             "hint": {
               "enString": "To calculate 19 + 35, add 35 to 19: 19 + 35 = 54. The correct answer is 54.",
               "frenchString": "Pour calculer 19 + 35, ajoutez 35 à 19 : 19 + 35 = 54. La réponse correcte est 54.",
-              "germanString": "Um die Anzahl der Gläser Wasser zu finden, berechne die Anzahl der Gläser in 1 Liter: 1 Liter = 1000 Milliliter; jedes Glas enthält 200 Milliliter, daher ist die Anzahl der Gläser 1000 / 200 = 5. Die richtige Antwort ist 5.",
+              "germanString": "Um 19 + 35 zu berechnen, addiert man 35 zu 19: 19 + 35 = 54. Die richtige Antwort ist 54.",
               "vnString": "Để tính 19 + 35, cộng 35 vào 19: 19 + 35 = 54. Đáp án đúng là 54."
             }
           },
@@ -9798,7 +9798,7 @@
             "question": {
               "enString": "Calculate: 61 - 24",
               "frenchString": "Calculez: 61 - 24",
-              "germanString": "Wähle die größte Zahl:",
+              "germanString": "Berechne: 61 - 24",
               "vnString": "Tính: 61 - 24"
             },
             "answers": [
@@ -9836,7 +9836,7 @@
             "hint": {
               "enString": "To calculate 61 - 24, subtract 24 from 61: 61 - 24 = 37. The correct answer is 37.",
               "frenchString": "Pour calculer 61 - 24, soustrayez 24 de 61 : 61 - 24 = 37. La réponse correcte est 37.",
-              "germanString": "Um die verbleibende Zeit zu berechnen, subtrahiere 6 Stunden von 24 Stunden: 24 - 6 = 18. Die richtige Antwort ist 18 Stunden.",
+              "germanString": "Um 61 - 24 zu berechnen, zieht man 24 von 61 ab: 61 - 24 = 37. Die richtige Antwort ist 37.",
               "vnString": "Để tính 61 - 24, trừ 24 khỏi 61: 61 - 24 = 37. Đáp án đúng là 37."
             }
           },
@@ -9845,7 +9845,7 @@
             "question": {
               "enString": "Calculate: 100 - 82",
               "frenchString": "Calculez: 100 - 82",
-              "germanString": "Wenn du 23 subtrahierst, ergibt die Differenz 17. Welche Zahl hast du subtrahiert?",
+              "germanString": "Berechne: 100 - 82",
               "vnString": "Tính: 100 - 82"
             },
             "answers": [
@@ -9883,7 +9883,7 @@
             "hint": {
               "enString": "To calculate 100 - 82, subtract 82 from 100: 100 - 82 = 18. The correct answer is 18.",
               "frenchString": "Pour calculer 100 - 82, soustrayez 82 de 100 : 100 - 82 = 18. La réponse correcte est 18.",
-              "germanString": "Um 24 + 15 zu berechnen, addiere 24 zu 15: 24 + 15 = 39. Die richtige Antwort ist 39.",
+              "germanString": "Um 100 - 82 zu berechnen, zieht man 82 von 100 ab: 100 - 82 = 18. Die richtige Antwort ist 18.",
               "vnString": "Để tính 100 - 82, trừ 82 khỏi 100: 100 - 82 = 18. Đáp án đúng là 18."
             }
           }
@@ -9936,7 +9936,7 @@
             "hint": {
               "enString": "To calculate 18 + 34 - 10, first add 18 and 34, then subtract 10: 18 + 34 = 52; 52 - 10 = 42. The correct answer is 42.",
               "frenchString": "Pour calculer 18 + 34 - 10, ajoutez d'abord 18 et 34, puis soustrayez 10 : 18 + 34 = 52 ; 52 - 10 = 42. La réponse correcte est 42.",
-              "germanString": "Um die Anzahl der Tafeln Schokolade zu berechnen, teile 96 durch 8: 96 / 8 = 12. Die richtige Antwort ist 12.",
+              "germanString": "Um 18 + 34 - 10 zu berechnen, addiert man zuerst 18 und 34 und zieht dann 10 ab: 18 + 34 = 52; 52 - 10 = 42. Die richtige Antwort ist 42.",
               "vnString": "Để tính 18 + 34 - 10, trước tiên cộng 18 và 34, rồi trừ 10: 18 + 34 = 52; 52 - 10 = 42. Đáp án đúng là 42."
             }
           },
@@ -9983,7 +9983,7 @@
             "hint": {
               "enString": "To calculate 26 + 17 + 12, add 17 and 12 to 26: 26 + 17 = 43; 43 + 12 = 55. The correct answer is 55.",
               "frenchString": "Pour calculer 26 + 17 + 12, ajoutez 17 et 12 à 26 : 26 + 17 = 43 ; 43 + 12 = 55. La réponse correcte est 55.",
-              "germanString": "Um die Zeit zu finden, subtrahiere 15 Minuten von 2 Stunden: 2 Stunden = 120 Minuten; 120 Minuten - 15 Minuten = 105 Minuten. Die richtige Antwort ist 105 Minuten.",
+              "germanString": "Um 26 + 17 + 12 zu berechnen, addiert man 17 und 12 zu 26: 26 + 17 = 43; 43 + 12 = 55. Die richtige Antwort ist 55.",
               "vnString": "Để tính 26 + 17 + 12, cộng 17 và 12 vào 26: 26 + 17 = 43; 43 + 12 = 55. Đáp án đúng là 55."
             }
           },
@@ -10030,7 +10030,7 @@
             "hint": {
               "enString": "To find the numbers a, b, and c: a = 27 - 7 = 20; b = 27 - 15 = 12; c = 12 + 87 = 99. The correct answer is 20; 12; 99.",
               "frenchString": "Pour trouver les nombres a, b et c : a = 27 - 7 = 20 ; b = 27 - 15 = 12 ; c = 12 + 87 = 99. La réponse correcte est 20 ; 12 ; 99.",
-              "germanString": "Um die Differenz zu finden, subtrahiere 38 von 75: 75 - 38 = 37. Die richtige Antwort ist 37.",
+              "germanString": "Um die Zahlen a, b und c zu finden: a = 27 - 7 = 20; b = 27 - 15 = 12; c = 12 + 87 = 99. Die richtige Antwort ist 20; 12; 99.",
               "vnString": "Để tìm các số a, b, và c: a = 27 - 7 = 20; b = 27 - 15 = 12; c = 12 + 87 = 99. Đáp án đúng là 20; 12; 99."
             }
           },
@@ -10077,7 +10077,7 @@
             "hint": {
               "enString": "To find the numbers a, b, and c: a = 12 + 20 = 32; b = 32 - 23 = 9; c = 9 + 18 = 27. The correct answer is 32; 9; 27.",
               "frenchString": "Pour trouver les nombres a, b et c : a = 12 + 20 = 32 ; b = 32 - 23 = 9 ; c = 9 + 18 = 27. La réponse correcte est 32 ; 9 ; 27.",
-              "germanString": "Um die Anzahl der Stunden in 3 Tagen zu berechnen, multipliziere die Anzahl der Stunden pro Tag mit der Anzahl der Tage: 24 Stunden * 3 Tage = 72 Stunden. Die richtige Antwort ist 72.",
+              "germanString": "Um die Zahlen a, b und c zu finden: a = 12 + 20 = 32; b = 32 - 23 = 9; c = 9 + 18 = 27. Die richtige Antwort ist 32; 9; 27.",
               "vnString": "Để tìm các số a, b, và c: a = 12 + 20 = 32; b = 32 - 23 = 9; c = 9 + 18 = 27. Đáp án đúng là 32; 9; 27."
             }
           },
@@ -10124,7 +10124,7 @@
             "hint": {
               "enString": "To find how many shirts are left, subtract the number sold from the total number: 42 - 21 = 21. The correct answer is 21.",
               "frenchString": "Pour trouver combien de chemises restent, soustrayez le nombre vendu du nombre total : 42 - 21 = 21. La réponse correcte est 21.",
-              "germanString": "Um die Anzahl der Tinte-Flaschen zu finden, teile 200 Milliliter durch 25 Milliliter: 200 / 25 = 8. Die richtige Antwort ist 8.",
+              "germanString": "Um die verbleibende Anzahl an Hemden zu finden, zieht man die verkaufte Menge von der Gesamtzahl ab: 42 - 21 = 21. Die richtige Antwort ist 21.",
               "vnString": "Để tìm số áo còn lại, trừ số đã bán khỏi tổng số: 42 - 21 = 21. Đáp án đúng là 21."
             }
           }
@@ -12402,7 +12402,7 @@
             "question": {
               "enString": "71 - 36",
               "frenchString": "71 - 36",
-              "germanString": "71 - 38",
+              "germanString": "71 - 36",
               "vnString": "71 - 36"
             },
             "answers": [
@@ -12447,10 +12447,10 @@
           {
             "id": 134,
             "question": {
-              "enString": "206 - 123",
-              "frenchString": "206 - 123",
-              "germanString": "46 + 56",
-              "vnString": "206 - 123"
+              "enString": "206 - 123 = ?",
+              "frenchString": "206 - 123 = ?",
+              "germanString": "206 - 123 = ?",
+              "vnString": "206 - 123 = ?"
             },
             "answers": [
               {
