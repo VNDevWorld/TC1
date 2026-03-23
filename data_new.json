@@ -13519,7 +13519,7 @@
             "question": {
               "enString": "Which number below is read as: Three thousand zero hundred and five",
               "frenchString": "Quel nombre est lu comme : Trois mille cinq cent cinq",
-              "germanString": "Welche Zahl wird als „Dreitausendfünf“ gelesen?",
+              "germanString": "Welche der folgenden Zahlen wird als „dreitausendfünf“ gelesen?",
               "vnString": "Số nào dưới đây được đọc là: Ba nghìn không trăm linh năm"
             },
             "answers": [
@@ -13613,7 +13613,7 @@
             "question": {
               "enString": "Find x know 35 < 3x < 37",
               "frenchString": "Trouver x sachant 35 < 3x < 37",
-              "germanString": "Fülle das passende Zeichen in die Lücke aus: 5 × 3 … 12 + 5",
+              "germanString": "Finde x, so dass 35 < 3x < 37 gilt.",
               "vnString": "Tìm x biết 35 < 3x < 37"
             },
             "answers": [
@@ -13660,7 +13660,7 @@
             "question": {
               "enString": "In divisions with a remainder with a divisor of 5, the largest possible remainder is",
               "frenchString": "Parmi les divisions avec reste où le diviseur est 5, le reste maximum possible est",
-              "germanString": "Finde x \n 20 : x = 5 Rest 0",
+              "germanString": "Bei Divisionen mit Rest und einem Divisor von 5 ist der größtmögliche Rest:",
               "vnString": "Trong các phép chia có dư với số chia là 5, số dư lớn nhất có thể có là"
             },
             "answers": [
@@ -13707,7 +13707,7 @@
             "question": {
               "enString": "Teacher divides a class of 35 students into groups, each group has 7 students. How many groups can the class be divided into?",
               "frenchString": "L'enseignant divise une classe de 35 élèves en groupes, chaque groupe ayant 7 élèves. Combien de groupes la classe peut-elle être divisée ?",
-              "germanString": "Finde x \n x × 5 = 45",
+              "germanString": "Die Lehrerin teilt eine Klasse mit 35 Schülern in Gruppen ein, wobei jede Gruppe 7 Schüler hat. Wie viele Gruppen werden gebildet?",
               "vnString": "Cô giáo chia một lớp có 35 học sinh thành các nhóm, mỗi nhóm có 7 học sinh. Hỏi lớp đó chia được thành bao nhiêu nhóm?"
             },
             "answers": [
@@ -13760,7 +13760,7 @@
             "question": {
               "enString": "The largest of the following numbers is 5348, 5438, 5834, 5843",
               "frenchString": "Le plus grand nombre parmi les suivants est 5348, 5438, 5834, 5843",
-              "germanString": "Berechne 4 + 3 × 5",
+              "germanString": "Die größte Zahl unter den folgenden Zahlen ist: 5348, 5438, 5834, 5843.",
               "vnString": "Số lớn nhất trong các số sau là 5348, 5438, 5834, 5843"
             },
             "answers": [
@@ -13807,7 +13807,7 @@
             "question": {
               "enString": "There are 63 ping pong balls divided equally into 7 boxes. How many ping pong balls are there in each box?",
               "frenchString": "Il y a 63 balles de ping-pong réparties également dans 7 boîtes. Combien de balles y a-t-il dans chaque boîte ?",
-              "germanString": "Berechne 4 × 6 – 5",
+              "germanString": "Es gibt 63 Tischtennisbälle, die gleichmäßig auf 7 Schachteln verteilt werden. Wie viele Tischtennisbälle sind in jeder Schachtel?",
               "vnString": "Có 63 quả bóng bàn chia đều vào 7 hộp. Mỗi hộp có bao nhiêu quả bóng bàn?"
             },
             "answers": [
@@ -13853,8 +13853,8 @@
             "id": 13,
             "question": {
               "enString": "6 times more than 7 liters is fine",
-              "frenchString": "Complétez la série : 8, 14, 20, …",
-              "germanString": "Finde die passende Antwort: Die Differenz von 7 und der Hälfte von 18 ist",
+              "frenchString": "7 litres multipliés par 6 donnent combien de litres ?",
+              "germanString": "7 Liter mit 6 multipliziert ergeben wie viele Liter?",
               "vnString": "7 lít gấp lên 6 lần thì được"
             },
             "answers": [
@@ -13900,40 +13900,40 @@
             "id": 14,
             "question": {
               "enString": "If a triangle has sides of length 15cm, 12cm, 18cm, then the perimeter of the triangle is",
-              "frenchString": "Complétez la série : 2, 5, 10, 17, …",
-              "germanString": "Die richtige Antwort ist",
+              "frenchString": "Un triangle a des côtés de 15 cm, 12 cm et 18 cm. Quel est le périmètre de ce triangle ?",
+              "germanString": "Ein Dreieck hat Seitenlängen von 15 cm, 12 cm und 18 cm. Wie groß ist der Umfang dieses Dreiecks?",
               "vnString": "Hình tam giác có độ dài các cạnh là 15cm, 12 cm, 18 cm thì chu vi hình tam giác đó là"
             },
             "answers": [
               {
                 "enString": "48 cm",
-                "frenchString": "48",
-                "germanString": "48",
+                "frenchString": "48 cm",
+                "germanString": "48 cm",
                 "vnString": "48 cm"
               },
               {
                 "enString": "55 cm",
-                "frenchString": "55",
-                "germanString": "55",
+                "frenchString": "55 cm",
+                "germanString": "55 cm",
                 "vnString": "55 cm"
               },
               {
                 "enString": "45 cm",
-                "frenchString": "45",
-                "germanString": "45",
+                "frenchString": "45 cm",
+                "germanString": "45 cm",
                 "vnString": "45 cm"
               },
               {
                 "enString": "54 cm",
-                "frenchString": "54",
-                "germanString": "54",
+                "frenchString": "54 cm",
+                "germanString": "54 cm",
                 "vnString": "54 cm"
               }
             ],
             "correctAnswer": {
               "enString": "45 cm",
-              "frenchString": "45",
-              "germanString": "45",
+              "frenchString": "45 cm",
+              "germanString": "45 cm",
               "vnString": "45 cm"
             },
             "hint": {
@@ -13947,7 +13947,7 @@
             "id": 15,
             "question": {
               "enString": "1/5 of 15 liters = … liters",
-              "frenchString": "Un bocal contient 8 pots de 12 fruits chacun. Combien de fruits y a-t-il dans le bocal ?",
+              "frenchString": "1/5 de 15 litres = … litres",
               "germanString": "Berechne 27 + 6 × (3 + 2)",
               "vnString": "1/5 của 15 lít = … lít"
             },
@@ -14000,7 +14000,7 @@
             "id": 16,
             "question": {
               "enString": "1/6 of 54 minutes = …minutes",
-              "frenchString": "Complétez la série : 2, 3, 7, 15, …",
+              "frenchString": "1/6 de 54 minutes = … minutes",
               "germanString": "1/6 von 54 Minuten = … Minuten",
               "vnString": "1/6 của 54 phút = … phút"
             },
@@ -14047,7 +14047,7 @@
             "id": 17,
             "question": {
               "enString": "4m 4dm = … dm",
-              "frenchString": "Complétez la série : 5, 8, 12, 17, …",
+              "frenchString": "4m 4dm = … dm",
               "germanString": "4m 4dm = … dm",
               "vnString": "4m 4dm = … dm"
             },
@@ -14094,7 +14094,7 @@
             "id": 18,
             "question": {
               "enString": "8 cm = … mm",
-              "frenchString": "Complétez la série : 2, 6, 12, 20, …",
+              "frenchString": "8 cm = … mm",
               "germanString": "8 cm = … mm",
               "vnString": "8 cm = … mm"
             },
@@ -14141,7 +14141,7 @@
             "id": 19,
             "question": {
               "enString": "Calculate 5 x 7 + 14",
-              "frenchString": "Le nombre de pigeons est égal au double du nombre de poules. Le total est de 24 animaux. Combien y a-t-il de pigeons ?",
+              "frenchString": "Calcule : 5 x 7 + 14",
               "germanString": "Berechne 5 x 7 + 14",
               "vnString": "Tính 5 x 7 + 14"
             },
@@ -14188,39 +14188,39 @@
             "id": 20,
             "question": {
               "enString": "Calculate 48 : 6 + 13",
-              "frenchString": "La somme de 3 fois un nombre et 2 est égale à 20. Trouvez le nombre",
+              "frenchString": "Calcule : 48 ÷ 6 + 13",
               "germanString": "Berechne 48 : 6 + 13",
               "vnString": "Tính 48 : 6 + 13"
             },
             "answers": [
               {
                 "enString": "18",
-                "frenchString": "6",
+                "frenchString": "18",
                 "germanString": "18",
                 "vnString": "18"
               },
               {
                 "enString": "19",
-                "frenchString": "8",
+                "frenchString": "19",
                 "germanString": "19",
                 "vnString": "19"
               },
               {
                 "enString": "20",
-                "frenchString": "5",
+                "frenchString": "20",
                 "germanString": "20",
                 "vnString": "20"
               },
               {
                 "enString": "21",
-                "frenchString": "4",
+                "frenchString": "21",
                 "germanString": "21",
                 "vnString": "21"
               }
             ],
             "correctAnswer": {
               "enString": "21",
-              "frenchString": "4",
+              "frenchString": "21",
               "germanString": "21",
               "vnString": "21"
             },
@@ -15152,39 +15152,39 @@
             "id": 40,
             "question": {
               "enString": "The teacher has 36 books. She rewards the good students with 1/3 of the books, the remaining 1/4 of the books she gives to the good students. Ask after rewarding the classmates. good and good students, how many books are left by the teacher.",
-              "frenchString": "Trouver le nombre entier x dont le double est 38",
+              "frenchString": "La maîtresse a 36 livres. Elle récompense les bons élèves avec un tiers des livres. Ensuite, elle donne un quart des livres restants aux élèves assez bons. Combien de livres lui reste-t-il après avoir récompensé les bons et les assez bons élèves ?",
               "germanString": "Die Lehrerin hat 36 Bücher. Sie verschenkt 1/3 der Bücher an besonders gute Schüler, und 1/4 der verbleibenden Bücher an gute Schüler. Wie viele Bücher bleiben übrig?",
               "vnString": "Cô giáo có 36 quyển sách. Cô thưởng cho các bạn học sinh giỏi 1/3 số sách, 1/ 4 số sách còn lại cô thưởng cho các bạn học sinh khá. Hỏi sau khi thưởng cho các bạn học sinh giỏi và khá,cô giáo còn lại bao nhiêu quyển sách."
             },
             "answers": [
               {
                 "enString": "12",
-                "frenchString": "19",
+                "frenchString": "12",
                 "germanString": "12",
                 "vnString": "12"
               },
               {
                 "enString": "24",
-                "frenchString": "20",
+                "frenchString": "24",
                 "germanString": "24",
                 "vnString": "24"
               },
               {
                 "enString": "6",
-                "frenchString": "18",
+                "frenchString": "6",
                 "germanString": "6",
                 "vnString": "6"
               },
               {
                 "enString": "18",
-                "frenchString": "21",
+                "frenchString": "18",
                 "germanString": "18",
                 "vnString": "18"
               }
             ],
             "correctAnswer": {
               "enString": "18",
-              "frenchString": "21",
+              "frenchString": "18",
               "germanString": "18",
               "vnString": "18"
             },
@@ -15206,39 +15206,39 @@
             "question": {
               "enString": "The number of three hundred and five units is",
               "frenchString": "Le nombre composé de trois cents et cinq unités est",
-              "germanString": "Die Zahl, die aus dreihundert und fünf Einheiten besteht, ist:",
+              "germanString": "👉 Welche Zahl besteht aus dreihundert und fünf Einheiten?",
               "vnString": "Số gồm ba trăm và năm đơn vị là"
             },
             "answers": [
               {
                 "enString": "350",
                 "frenchString": "350",
-                "germanString": "305",
+                "germanString": "350",
                 "vnString": "350"
               },
               {
                 "enString": "503",
                 "frenchString": "503",
-                "germanString": "350",
+                "germanString": "503",
                 "vnString": "503"
               },
               {
                 "enString": "530",
                 "frenchString": "530",
-                "germanString": "503",
+                "germanString": "530",
                 "vnString": "530"
               },
               {
                 "enString": "305",
                 "frenchString": "305",
-                "germanString": "530",
+                "germanString": "305",
                 "vnString": "305"
               }
             ],
             "correctAnswer": {
               "enString": "305",
               "frenchString": "305",
-              "germanString": "530",
+              "germanString": "305",
               "vnString": "305"
             },
             "hint": {
@@ -15928,39 +15928,39 @@
             "id": 56,
             "question": {
               "enString": "What is 34 + 57?",
-              "frenchString": "Trouver x sachant 15 × x = 90",
+              "frenchString": "34 + 57 = ?",
               "germanString": "34 + 57 = ?",
               "vnString": "34 + 57 = ?"
             },
             "answers": [
               {
                 "enString": "81",
-                "frenchString": "5",
+                "frenchString": "81",
                 "germanString": "81",
                 "vnString": "81"
               },
               {
                 "enString": "90",
-                "frenchString": "6",
+                "frenchString": "90",
                 "germanString": "90",
                 "vnString": "90"
               },
               {
                 "enString": "91",
-                "frenchString": "7",
+                "frenchString": "91",
                 "germanString": "91",
                 "vnString": "91"
               },
               {
                 "enString": "101",
-                "frenchString": "8",
+                "frenchString": "101",
                 "germanString": "101",
                 "vnString": "101"
               }
             ],
             "correctAnswer": {
               "enString": "91",
-              "frenchString": "7",
+              "frenchString": "91",
               "germanString": "91",
               "vnString": "91"
             },
@@ -16799,7 +16799,7 @@
             "answers": [
               {
                 "enString": "852",
-                "frenchString": "872",
+                "frenchString": "852",
                 "germanString": "852",
                 "vnString": "852"
               },
@@ -16824,7 +16824,7 @@
             ],
             "correctAnswer": {
               "enString": "872",
-              "frenchString": "852",
+              "frenchString": "872",
               "germanString": "872",
               "vnString": "872"
             },
@@ -16846,7 +16846,7 @@
             "answers": [
               {
                 "enString": "150",
-                "frenchString": "180",
+                "frenchString": "150",
                 "germanString": "150",
                 "vnString": "150"
               },
@@ -16864,14 +16864,14 @@
               },
               {
                 "enString": "180",
-                "frenchString": "150",
+                "frenchString": "180",
                 "germanString": "180",
                 "vnString": "180"
               }
             ],
             "correctAnswer": {
               "enString": "180",
-              "frenchString": "150",
+              "frenchString": "180",
               "germanString": "180",
               "vnString": "180"
             },
