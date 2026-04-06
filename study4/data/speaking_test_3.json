@@ -1,0 +1,112 @@
+{
+  "source": "study4_speaking",
+  "sections": {
+    "speaking": [
+      {
+        "part": "Speaking Part 1 (Questions 1-2)",
+        "title": "TOEIC SW Speaking Test 3",
+        "url": "https://study4.com/tests/5897/start/",
+        "questions": [
+          {
+            "id": "q224553",
+            "prompt_text": "Read the text aloud\n\nGood afternoon, everyone, and welcome to the county fair!\nIt's wonderful to have you here today as we celebrate the 120th anniversary of our city. We commemorate this day with great pride.\n\nPlease make sure you visit the exhibits and game booths. Later today there will be competitive events, such as our famous pie-baking contest. I strongly suggest that you get over to the pie table early, or there might not be anything left.\n\nIt is also my pleasure to introduce you to our mayor, Mr. James Moon. Mr. Moon will lead us in singing our national anthem. Then we’ll begin the festivities.",
+            "image": null,
+            "choices": [],
+            "answer": null,
+            "explanation": null,
+            "passage": null,
+            "number_quest": "1"
+          },
+          {
+            "id": "q224554",
+            "prompt_text": "Read the text aloud\n\nAre you ready for an adventure? Extreme Sports Center offers the latest in adventurous outdoor sports—skydiving, hang gliding, scuba diving, or rock climbing. We can expedite the process of getting you a scuba diving permit and train you to dive in just a few intensive sessions.\n\nOur specialized training sessions with expert instructors will give you all the basics. We also organize packages for extreme sport vacations.\n\nSo wherever you want to go, we’ll take you there! Go Extreme!",
+            "image": null,
+            "choices": [],
+            "answer": null,
+            "explanation": null,
+            "passage": null,
+            "number_quest": "2"
+          }
+        ]
+      },
+      {
+        "part": "Speaking Part 2 (Questions 3-4)",
+        "title": "TOEIC SW Speaking Test 3",
+        "url": "https://study4.com/tests/5897/start/",
+        "questions": [
+          {
+            "id": "q224555",
+            "prompt_text": "Describe a picture",
+            "image": "https://github.com/VNDevWorld/TC1/blob/main/study4/images/image49.png",
+            "choices": [],
+            "answer": null,
+            "explanation": null,
+            "passage": null,
+            "number_quest": "3"
+          },
+          {
+            "id": "q224556",
+            "prompt_text": "Describe a picture",
+            "image": "https://github.com/VNDevWorld/TC1/blob/main/study4/images/image1.png",
+            "choices": [],
+            "answer": null,
+            "explanation": null,
+            "passage": null,
+            "number_quest": "4"
+          }
+        ]
+      },
+      {
+        "part": "Speaking Part 3 (Question 5)",
+        "title": "TOEIC SW Speaking Test 3",
+        "url": "https://study4.com/tests/5897/start/",
+        "questions": [
+          {
+            "id": "q224557",
+            "prompt_text": "Question 5: \nWhat is your favorite thing to do when you have free time?\n",
+            "image": null,
+            "choices": [],
+            "answer": null,
+            "explanation": null,
+            "passage": "Response to questions\n\nImagine that a European marketing firm is doing research in your country. You have agreed to participate in a phone survey about how people spend their free time.\n",
+            "number_quest": "5"
+          }
+        ]
+      },
+      {
+        "part": "Speaking Part 4 (Question 6)",
+        "title": "TOEIC SW Speaking Test 3",
+        "url": "https://study4.com/tests/5897/start/",
+        "questions": [
+          {
+            "id": "q224557",
+            "prompt_text": "Question 6: \nHow much free time do you have during the week, and where do you spend your free time?\n",
+            "image": null,
+            "choices": [],
+            "answer": null,
+            "explanation": null,
+            "passage": "Response to questions\n\nImagine that a European marketing firm is doing research in your country. You have agreed to participate in a phone survey about how people spend their free time.\n",
+            "number_quest": "6"
+          }
+        ]
+      },
+      {
+        "part": "Speaking Part 5 (Question 7)",
+        "title": "TOEIC SW Speaking Test 3",
+        "url": "https://study4.com/tests/5897/start/",
+        "questions": [
+          {
+            "id": "q224557",
+            "prompt_text": "Question 7: \nHow do you think the quality of your activities during your free time could be improved?",
+            "image": null,
+            "choices": [],
+            "answer": null,
+            "explanation": null,
+            "passage": "Response to questions\n\nImagine that a European marketing firm is doing research in your country. You have agreed to participate in a phone survey about how people spend their free time.\n",
+            "number_quest": "7"
+          }
+        ]
+      }
+    ]
+  }
+}
