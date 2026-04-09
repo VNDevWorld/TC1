@@ -6073,8 +6073,8 @@
             },
             "hint": {
               "enString": "20 + 5 = 25.",
-              "frenchString": "20 plus 5 égale 25.",
-              "germanString": "20 plus 5 ist gleich 25.",
+              "frenchString": "20 + 5 = 25.",
+              "germanString": "20 + 5 = 25.",
               "vnString": "20 cộng 5 bằng 25."
             }
           },
@@ -6120,8 +6120,8 @@
             },
             "hint": {
               "enString": "30 - 10 = 20.",
-              "frenchString": "30 moins 10 égale 20.",
-              "germanString": "30 minus 10 ist gleich 20.",
+              "frenchString": "30 - 10 = 20.",
+              "germanString": "30 - 10 = 20.",
               "vnString": "30 trừ 10 bằng 20."
             }
           },
@@ -6261,8 +6261,8 @@
             },
             "hint": {
               "enString": "7 + 4 = 11 animals.",
-              "frenchString": "7 plus 4 égale 11 animals.",
-              "germanString": "7 plus 4 ist gleich 11 animals.",
+              "frenchString": "7 + 4 = 11 animals.",
+              "germanString": "7 + 4 = 11 animals.",
               "vnString": "7 + 4 = 11 con."
             }
           }
@@ -6314,8 +6314,8 @@
             },
             "hint": {
               "enString": "8 + 7 = 15.",
-              "frenchString": "8 plus 7 égale 15.",
-              "germanString": "8 plus 7 ist gleich 15.",
+              "frenchString": "8 + 7 = 15.",
+              "germanString": "8 + 7 = 15.",
               "vnString": "8 cộng 7 bằng 15."
             }
           },
@@ -6361,8 +6361,8 @@
             },
             "hint": {
               "enString": "16 - 9 = 7.",
-              "frenchString": "16 moins 9 égale 7.",
-              "germanString": "16 minus 9 ist gleich 7.",
+              "frenchString": "16 - 9 = 7.",
+              "germanString": "16 - 9 = 7.",
               "vnString": "16 trừ 9 bằng 7."
             }
           },
@@ -6502,8 +6502,8 @@
             },
             "hint": {
               "enString": "10 - 3 = 7 marbles.",
-              "frenchString": "10 moins 3 égale 7 marbles.",
-              "germanString": "10 minus 3 ist gleich 7 marbles.",
+              "frenchString": "10 - 3 = 7 billes.",
+              "germanString": "10 - 3 = 7 Murmeln.",
               "vnString": "10 - 3 = 7 viên bi."
             }
           }
@@ -6555,8 +6555,8 @@
             },
             "hint": {
               "enString": "4 + 4 + 4 = 12.",
-              "frenchString": "4 + 4 plus 4 égale 12.",
-              "germanString": "4 + 4 plus 4 ist gleich 12.",
+              "frenchString": "4 + 4 + 4 = 12.",
+              "germanString": "4 + 4 + 4 = 12.",
               "vnString": "4 + 4 cộng 4 bằng 12."
             }
           },
@@ -6602,8 +6602,8 @@
             },
             "hint": {
               "enString": "30 is smaller than 33.",
-              "frenchString": "30 is smaller than 33.",
-              "germanString": "30 is smaller than 33.",
+              "frenchString": "30 est plus petit que 33.",
+              "germanString": "30 ist kleiner als 33.",
               "vnString": "30 nhỏ hơn 33."
             }
           },
@@ -6611,8 +6611,8 @@
             "id": 138,
             "question": {
               "enString": "How many days are in a week?",
-              "frenchString": "How many days are in a week?",
-              "germanString": "How many days are in a week?",
+              "frenchString": "Combien de jours y a-t-il dans une semaine ?",
+              "germanString": "Wie viele Tage hat eine Woche?",
               "vnString": "Một tuần có bao nhiêu ngày?"
             },
             "answers": [
@@ -6649,8 +6649,8 @@
             },
             "hint": {
               "enString": "A week has 7 days.",
-              "frenchString": "A week has 7 days.",
-              "germanString": "A week has 7 days.",
+              "frenchString": "Une semaine a 7 jours.",
+              "germanString": "Eine Woche hat 7 Tage.",
               "vnString": "Một tuần có 7 ngày."
             }
           },
@@ -6696,8 +6696,8 @@
             },
             "hint": {
               "enString": "50 - 20 = 30.",
-              "frenchString": "50 moins 20 égale 30.",
-              "germanString": "50 minus 20 ist gleich 30.",
+              "frenchString": "50 - 20 = 30.",
+              "germanString": "50 - 20 = 30.",
               "vnString": "50 trừ 20 bằng 30."
             }
           },
@@ -6705,8 +6705,8 @@
             "id": 140,
             "question": {
               "enString": "15 oranges, 8 eaten. How many remain?",
-              "frenchString": "15 oranges, 8 eaten. How many remain?",
-              "germanString": "15 oranges, 8 eaten. How many remain?",
+              "frenchString": "15 oranges, 8 mangées. Combien en reste-t-il ?",
+              "germanString": "15 Orangen, 8 gegessen. Wie viele bleiben übrig?",
               "vnString": "Có 15 quả cam, ăn 8 quả. Còn lại bao nhiêu quả?"
             },
             "answers": [
@@ -6743,8 +6743,8 @@
             },
             "hint": {
               "enString": "15 - 8 = 7 oranges.",
-              "frenchString": "15 moins 8 égale 7 oranges.",
-              "germanString": "15 minus 8 ist gleich 7 oranges.",
+              "frenchString": "15 - 8 = 7 oranges.",
+              "germanString": "15 - 8 = 7 Orangen.",
               "vnString": "15 - 8 = 7 quả."
             }
           }
@@ -6796,8 +6796,8 @@
             },
             "hint": {
               "enString": "9 + 6 = 15.",
-              "frenchString": "9 plus 6 égale 15.",
-              "germanString": "9 plus 6 ist gleich 15.",
+              "frenchString": "9 + 6 = 15.",
+              "germanString": "9 + 6 = 15.",
               "vnString": "9 cộng 6 bằng 15."
             }
           },
@@ -6843,8 +6843,8 @@
             },
             "hint": {
               "enString": "40 + 30 = 70.",
-              "frenchString": "40 plus 30 égale 70.",
-              "germanString": "40 plus 30 ist gleich 70.",
+              "frenchString": "40 + 30 = 70.",
+              "germanString": "40 + 30 = 70.",
               "vnString": "40 cộng 30 bằng 70."
             }
           },
@@ -6852,8 +6852,8 @@
             "id": 143,
             "question": {
               "enString": "Number 45 has how many tens and units?",
-              "frenchString": "Number 45 has how many tens and units?",
-              "germanString": "Number 45 has how many tens and units?",
+              "frenchString": "Le nombre 45 a combien de dizaines et d'unités ?",
+              "germanString": "Die Zahl 45 hat wie viele Zehner und Einer?",
               "vnString": "Số 45 gồm mấy chục và mấy đơn vị?"
             },
             "answers": [
@@ -6890,8 +6890,8 @@
             },
             "hint": {
               "enString": "45 = 4 tens + 5 units.",
-              "frenchString": "45 = 4 tens + 5 units.",
-              "germanString": "45 = 4 tens + 5 units.",
+              "frenchString": "45 = 4 dizaines + 5 unités.",
+              "germanString": "45 = 4 Zehner + 5 Einer.",
               "vnString": "45 = 4 chục + 5 đơn vị."
             }
           },
@@ -6937,8 +6937,8 @@
             },
             "hint": {
               "enString": "80 - 50 = 30.",
-              "frenchString": "80 moins 50 égale 30.",
-              "germanString": "80 minus 50 ist gleich 30.",
+              "frenchString": "80 - 50 = 30.",
+              "germanString": "80 - 50 = 30.",
               "vnString": "80 trừ 50 bằng 30."
             }
           },
@@ -6946,8 +6946,8 @@
             "id": 145,
             "question": {
               "enString": "Class has 20 students, 5 more join. Total?",
-              "frenchString": "Class has 20 students, 5 more join. Total?",
-              "germanString": "Class has 20 students, 5 more join. Total?",
+              "frenchString": "La classe a 20 élèves, 5 de plus rejoignent. Total ?",
+              "germanString": "Die Klasse hat 20 Schüler, 5 weitere kommen dazu. Gesamt?",
               "vnString": "Lớp có 20 học sinh, thêm 5 học sinh. Tổng là?"
             },
             "answers": [
@@ -6984,8 +6984,8 @@
             },
             "hint": {
               "enString": "20 + 5 = 25 students.",
-              "frenchString": "20 plus 5 égale 25 students.",
-              "germanString": "20 plus 5 ist gleich 25 students.",
+              "frenchString": "20 + 5 = 25 élèves.",
+              "germanString": "20 + 5 = 25 Schüler.",
               "vnString": "20 + 5 = 25 học sinh."
             }
           }
@@ -6999,8 +6999,8 @@
             "id": 146,
             "question": {
               "enString": "Which number is between 10 and 12?",
-              "frenchString": "Which number is between 10 and 12?",
-              "germanString": "Which number is between 10 and 12?",
+              "frenchString": "Quel nombre est entre 10 et 12 ?",
+              "germanString": "Welche Zahl liegt zwischen 10 und 12?",
               "vnString": "Số nào đứng giữa 10 và 12?"
             },
             "answers": [
@@ -7037,8 +7037,8 @@
             },
             "hint": {
               "enString": "11 is between 10 and 12.",
-              "frenchString": "11 is between 10 and 12.",
-              "germanString": "11 is between 10 and 12.",
+              "frenchString": "11 est entre 10 et 12.",
+              "germanString": "11 liegt zwischen 10 und 12.",
               "vnString": "Số 11 đứng giữa 10 và 12."
             }
           },
@@ -7084,8 +7084,8 @@
             },
             "hint": {
               "enString": "6 + 8 = 14.",
-              "frenchString": "6 plus 8 égale 14.",
-              "germanString": "6 plus 8 ist gleich 14.",
+              "frenchString": "6 + 8 = 14.",
+              "germanString": "6 + 8 = 14.",
               "vnString": "6 cộng 8 bằng 14."
             }
           },
@@ -7093,8 +7093,8 @@
             "id": 148,
             "question": {
               "enString": "Approximately how many weeks in a month?",
-              "frenchString": "Approximately how many weeks in a month?",
-              "germanString": "Approximately how many weeks in a month?",
+              "frenchString": "Environ combien de semaines dans un mois ?",
+              "germanString": "Ungefähr wie viele Wochen hat ein Monat?",
               "vnString": "Một tháng có khoảng bao nhiêu tuần?"
             },
             "answers": [
@@ -7131,8 +7131,8 @@
             },
             "hint": {
               "enString": "A month has about 4 weeks.",
-              "frenchString": "A month has about 4 weeks.",
-              "germanString": "A month has about 4 weeks.",
+              "frenchString": "Un mois a environ 4 semaines.",
+              "germanString": "Ein Monat hat etwa 4 Wochen.",
               "vnString": "Một tháng có khoảng 4 tuần."
             }
           },
@@ -7178,8 +7178,8 @@
             },
             "hint": {
               "enString": "17 + 3 = 20.",
-              "frenchString": "17 plus 3 égale 20.",
-              "germanString": "17 plus 3 ist gleich 20.",
+              "frenchString": "17 + 3 = 20.",
+              "germanString": "17 + 3 = 20.",
               "vnString": "17 cộng 3 bằng 20."
             }
           },
@@ -7187,8 +7187,8 @@
             "id": 150,
             "question": {
               "enString": "Mom buys 30 eggs and uses 10. How many left?",
-              "frenchString": "Mom buys 30 eggs and uses 10. How many left?",
-              "germanString": "Mom buys 30 eggs and uses 10. How many left?",
+              "frenchString": "Maman achète 30 œufs et en utilise 10. Combien en reste-t-il ?",
+              "germanString": "Mama kauft 30 Eier und verwendet 10. Wie viele bleiben übrig?",
               "vnString": "Mẹ mua 30 quả trứng, dùng 10 quả. Còn lại bao nhiêu?"
             },
             "answers": [
@@ -7225,8 +7225,8 @@
             },
             "hint": {
               "enString": "30 - 10 = 20 eggs.",
-              "frenchString": "30 moins 10 égale 20 eggs.",
-              "germanString": "30 minus 10 ist gleich 20 eggs.",
+              "frenchString": "30 - 10 = 20 œufs.",
+              "germanString": "30 - 10 = 20 Eier.",
               "vnString": "30 - 10 = 20 quả."
             }
           }
@@ -7240,8 +7240,8 @@
             "id": 151,
             "question": {
               "enString": "What is the largest two-digit number?",
-              "frenchString": "What is the largest two-digit number?",
-              "germanString": "What is the largest two-digit number?",
+              "frenchString": "Quel est le plus grand nombre à deux chiffres ?",
+              "germanString": "Was ist die größte zweistellige Zahl?",
               "vnString": "Số lớn nhất có hai chữ số là số nào?"
             },
             "answers": [
@@ -7278,8 +7278,8 @@
             },
             "hint": {
               "enString": "The largest two-digit number is 99.",
-              "frenchString": "The largest two-digit number is 99.",
-              "germanString": "The largest two-digit number is 99.",
+              "frenchString": "Le plus grand nombre à deux chiffres est 99.",
+              "germanString": "Die größte zweistellige Zahl ist 99.",
               "vnString": "Số lớn nhất có hai chữ số là 99."
             }
           },
@@ -7325,8 +7325,8 @@
             },
             "hint": {
               "enString": "5 + 5 + 5 = 15.",
-              "frenchString": "5 + 5 plus 5 égale 15.",
-              "germanString": "5 + 5 plus 5 ist gleich 15.",
+              "frenchString": "5 + 5 + 5 = 15.",
+              "germanString": "5 + 5 + 5 = 15.",
               "vnString": "5 + 5 cộng 5 bằng 15."
             }
           },
@@ -7372,8 +7372,8 @@
             },
             "hint": {
               "enString": "100 - 30 = 70.",
-              "frenchString": "100 moins 30 égale 70.",
-              "germanString": "100 minus 30 ist gleich 70.",
+              "frenchString": "100 - 30 = 70.",
+              "germanString": "100 - 30 = 70.",
               "vnString": "100 trừ 30 bằng 70."
             }
           },
@@ -7428,8 +7428,8 @@
             "id": 155,
             "question": {
               "enString": "Child has 25 stickers, gives 7 away. How many left?",
-              "frenchString": "Child has 25 stickers, gives 7 away. How many left?",
-              "germanString": "Child has 25 stickers, gives 7 away. How many left?",
+              "frenchString": "L'enfant a 25 autocollants, en donne 7. Combien lui en reste-t-il ?",
+              "germanString": "Das Kind hat 25 Aufkleber, gibt 7 weg. Wie viele bleiben?",
               "vnString": "Bé có 25 nhãn vở, tặng bạn 7 cái. Còn lại bao nhiêu?"
             },
             "answers": [
@@ -7466,8 +7466,8 @@
             },
             "hint": {
               "enString": "25 - 7 = 18 stickers.",
-              "frenchString": "25 moins 7 égale 18 stickers.",
-              "germanString": "25 minus 7 ist gleich 18 stickers.",
+              "frenchString": "25 - 7 = 18 stickers.",
+              "germanString": "25 - 7 = 18 stickers.",
               "vnString": "25 - 7 = 18 nhãn."
             }
           }
@@ -7481,8 +7481,8 @@
             "id": 156,
             "question": {
               "enString": "What is the smallest two-digit number?",
-              "frenchString": "What is the smallest two-digit number?",
-              "germanString": "What is the smallest two-digit number?",
+              "frenchString": "Quel est le plus petit nombre à deux chiffres ?",
+              "germanString": "Was ist die kleinste zweistellige Zahl?",
               "vnString": "Số nhỏ nhất có hai chữ số là số nào?"
             },
             "answers": [
@@ -7566,8 +7566,8 @@
             },
             "hint": {
               "enString": "3 + 9 = 12.",
-              "frenchString": "3 plus 9 égale 12.",
-              "germanString": "3 plus 9 ist gleich 12.",
+              "frenchString": "3 + 9 = 12.",
+              "germanString": "3 + 9 = 12.",
               "vnString": "3 cộng 9 bằng 12."
             }
           },
@@ -7613,8 +7613,8 @@
             },
             "hint": {
               "enString": "55 + 5 = 60.",
-              "frenchString": "55 plus 5 égale 60.",
-              "germanString": "55 plus 5 ist gleich 60.",
+              "frenchString": "55 + 5 = 60.",
+              "germanString": "55 + 5 = 60.",
               "vnString": "55 cộng 5 bằng 60."
             }
           },
@@ -7669,8 +7669,8 @@
             "id": 160,
             "question": {
               "enString": "Garden has 24 flowers, 6 more bloom. Total?",
-              "frenchString": "Garden has 24 flowers, 6 more bloom. Total?",
-              "germanString": "Garden has 24 flowers, 6 more bloom. Total?",
+              "frenchString": "Le jardin a 24 fleurs, 6 de plus fleurissent. Total ?",
+              "germanString": "Der Garten hat 24 Blumen, 6 weitere blühen. Gesamt?",
               "vnString": "Vườn có 24 bông hoa, nở thêm 6 bông. Tổng là?"
             },
             "answers": [
@@ -7707,8 +7707,8 @@
             },
             "hint": {
               "enString": "24 + 6 = 30 flowers.",
-              "frenchString": "24 plus 6 égale 30 flowers.",
-              "germanString": "24 plus 6 ist gleich 30 flowers.",
+              "frenchString": "24 + 6 = 30 flowers.",
+              "germanString": "24 + 6 = 30 flowers.",
               "vnString": "24 + 6 = 30 bông."
             }
           }
@@ -7760,8 +7760,8 @@
             },
             "hint": {
               "enString": "7 x 2 = 14.",
-              "frenchString": "7 fois 2 égale 14.",
-              "germanString": "7 mal 2 ist gleich 14.",
+              "frenchString": "7 x 2 = 14.",
+              "germanString": "7 x 2 = 14.",
               "vnString": "7 nhân 2 bằng 14."
             }
           },
@@ -7807,8 +7807,8 @@
             },
             "hint": {
               "enString": "90 - 40 = 50.",
-              "frenchString": "90 moins 40 égale 50.",
-              "germanString": "90 minus 40 ist gleich 50.",
+              "frenchString": "90 - 40 = 50.",
+              "germanString": "90 - 40 = 50.",
               "vnString": "90 trừ 40 bằng 50."
             }
           },
@@ -7816,8 +7816,8 @@
             "id": 163,
             "question": {
               "enString": "Number 63 has how many tens and units?",
-              "frenchString": "Number 63 has how many tens and units?",
-              "germanString": "Number 63 has how many tens and units?",
+              "frenchString": "Le nombre 63 a combien de dizaines et d'unités ?",
+              "germanString": "Die Zahl 63 hat wie viele Zehner und Einer?",
               "vnString": "Số 63 gồm mấy chục và mấy đơn vị?"
             },
             "answers": [
@@ -7901,8 +7901,8 @@
             },
             "hint": {
               "enString": "45 + 15 = 60.",
-              "frenchString": "45 plus 15 égale 60.",
-              "germanString": "45 plus 15 ist gleich 60.",
+              "frenchString": "45 + 15 = 60.",
+              "germanString": "45 + 15 = 60.",
               "vnString": "45 cộng 15 bằng 60."
             }
           },
@@ -7910,8 +7910,8 @@
             "id": 165,
             "question": {
               "enString": "Desk has 12 pens, 4 taken. How many left?",
-              "frenchString": "Desk has 12 pens, 4 taken. How many left?",
-              "germanString": "Desk has 12 pens, 4 taken. How many left?",
+              "frenchString": "Le bureau a 12 stylos, 4 pris. Combien en reste-t-il ?",
+              "germanString": "Der Schreibtisch hat 12 Stifte, 4 genommen. Wie viele bleiben?",
               "vnString": "Bàn có 12 cái bút, lấy đi 4 cái. Còn lại bao nhiêu?"
             },
             "answers": [
@@ -7948,8 +7948,8 @@
             },
             "hint": {
               "enString": "12 - 4 = 8 pens.",
-              "frenchString": "12 moins 4 égale 8 pens.",
-              "germanString": "12 minus 4 ist gleich 8 pens.",
+              "frenchString": "12 - 4 = 8 pens.",
+              "germanString": "12 - 4 = 8 pens.",
               "vnString": "12 - 4 = 8 cái bút."
             }
           }
@@ -8001,8 +8001,8 @@
             },
             "hint": {
               "enString": "2 + 2 + 2 + 2 = 8.",
-              "frenchString": "2 + 2 + 2 plus 2 égale 8.",
-              "germanString": "2 + 2 + 2 plus 2 ist gleich 8.",
+              "frenchString": "2 + 2 + 2 + 2 = 8.",
+              "germanString": "2 + 2 + 2 + 2 = 8.",
               "vnString": "2 + 2 + 2 cộng 2 bằng 8."
             }
           },
@@ -8095,8 +8095,8 @@
             },
             "hint": {
               "enString": "60 + 25 = 85.",
-              "frenchString": "60 plus 25 égale 85.",
-              "germanString": "60 plus 25 ist gleich 85.",
+              "frenchString": "60 + 25 = 85.",
+              "germanString": "60 + 25 = 85.",
               "vnString": "60 cộng 25 bằng 85."
             }
           },
@@ -8142,8 +8142,8 @@
             },
             "hint": {
               "enString": "70 - 35 = 35.",
-              "frenchString": "70 moins 35 égale 35.",
-              "germanString": "70 minus 35 ist gleich 35.",
+              "frenchString": "70 - 35 = 35.",
+              "germanString": "70 - 35 = 35.",
               "vnString": "70 trừ 35 bằng 35."
             }
           },
@@ -8151,8 +8151,8 @@
             "id": 170,
             "question": {
               "enString": "Box has 40 candies, 15 eaten. How many left?",
-              "frenchString": "Box has 40 candies, 15 eaten. How many left?",
-              "germanString": "Box has 40 candies, 15 eaten. How many left?",
+              "frenchString": "La boîte a 40 bonbons, 15 mangés. Combien en reste-t-il ?",
+              "germanString": "Die Schachtel hat 40 Bonbons, 15 gegessen. Wie viele bleiben?",
               "vnString": "Hộp có 40 viên kẹo, ăn 15 viên. Còn lại bao nhiêu?"
             },
             "answers": [
@@ -8189,8 +8189,8 @@
             },
             "hint": {
               "enString": "40 - 15 = 25 candies.",
-              "frenchString": "40 moins 15 égale 25 candies.",
-              "germanString": "40 minus 15 ist gleich 25 candies.",
+              "frenchString": "40 - 15 = 25 candies.",
+              "germanString": "40 - 15 = 25 candies.",
               "vnString": "40 - 15 = 25 viên."
             }
           }
@@ -8242,8 +8242,8 @@
             },
             "hint": {
               "enString": "11 + 19 = 30.",
-              "frenchString": "11 plus 19 égale 30.",
-              "germanString": "11 plus 19 ist gleich 30.",
+              "frenchString": "11 + 19 = 30.",
+              "germanString": "11 + 19 = 30.",
               "vnString": "11 cộng 19 bằng 30."
             }
           },
@@ -8251,8 +8251,8 @@
             "id": 172,
             "question": {
               "enString": "Sort 15, 9, 22, 7 smallest to largest. 2nd number?",
-              "frenchString": "Sort 15, 9, 22, 7 smallest to largest. 2nd number?",
-              "germanString": "Sort 15, 9, 22, 7 smallest to largest. 2nd number?",
+              "frenchString": "Trier 15, 9, 22, 7 du plus petit au plus grand. 2ème nombre ?",
+              "germanString": "Sortiere 15, 9, 22, 7 vom Kleinsten zum Größten. 2. Zahl?",
               "vnString": "Sắp xếp 15, 9, 22, 7 từ bé đến lớn. Số thứ hai là?"
             },
             "answers": [
@@ -8336,8 +8336,8 @@
             },
             "hint": {
               "enString": "100 - 45 = 55.",
-              "frenchString": "100 moins 45 égale 55.",
-              "germanString": "100 minus 45 ist gleich 55.",
+              "frenchString": "100 - 45 = 55.",
+              "germanString": "100 - 45 = 55.",
               "vnString": "100 trừ 45 bằng 55."
             }
           },
@@ -8392,8 +8392,8 @@
             "id": 175,
             "question": {
               "enString": "Grandma buys 50 apples, sells 28. How many left?",
-              "frenchString": "Grandma buys 50 apples, sells 28. How many left?",
-              "germanString": "Grandma buys 50 apples, sells 28. How many left?",
+              "frenchString": "Grand-mère achète 50 pommes, en vend 28. Combien en reste-t-il ?",
+              "germanString": "Oma kauft 50 Äpfel, verkauft 28. Wie viele bleiben?",
               "vnString": "Bà mua 50 quả táo, bán 28 quả. Còn lại bao nhiêu?"
             },
             "answers": [
@@ -8430,8 +8430,8 @@
             },
             "hint": {
               "enString": "50 - 28 = 22 apples.",
-              "frenchString": "50 moins 28 égale 22 apples.",
-              "germanString": "50 minus 28 ist gleich 22 apples.",
+              "frenchString": "50 - 28 = 22 apples.",
+              "germanString": "50 - 28 = 22 apples.",
               "vnString": "50 - 28 = 22 quả."
             }
           }
@@ -15719,8 +15719,8 @@
             },
             "hint": {
               "enString": "125 + 34 = 159.",
-              "frenchString": "125 plus 34 égale 159.",
-              "germanString": "125 plus 34 ist gleich 159.",
+              "frenchString": "125 + 34 = 159.",
+              "germanString": "125 + 34 = 159.",
               "vnString": "125 cộng 34 bằng 159."
             }
           },
@@ -15766,8 +15766,8 @@
             },
             "hint": {
               "enString": "200 - 75 = 125.",
-              "frenchString": "200 moins 75 égale 125.",
-              "germanString": "200 minus 75 ist gleich 125.",
+              "frenchString": "200 - 75 = 125.",
+              "germanString": "200 - 75 = 125.",
               "vnString": "200 trừ 75 bằng 125."
             }
           },
@@ -15813,8 +15813,8 @@
             },
             "hint": {
               "enString": "3 x 8 = 24.",
-              "frenchString": "3 fois 8 égale 24.",
-              "germanString": "3 mal 8 ist gleich 24.",
+              "frenchString": "3 x 8 = 24.",
+              "germanString": "3 x 8 = 24.",
               "vnString": "3 nhân 8 bằng 24."
             }
           },
@@ -15860,8 +15860,8 @@
             },
             "hint": {
               "enString": "48 / 6 = 8.",
-              "frenchString": "48 divisé par 6 égale 8.",
-              "germanString": "48 geteilt durch 6 ist gleich 8.",
+              "frenchString": "48 / 6 = 8.",
+              "germanString": "48 / 6 = 8.",
               "vnString": "48 : 6 = 8."
             }
           },
@@ -15869,8 +15869,8 @@
             "id": 155,
             "question": {
               "enString": "1 box has 5 pens, 6 boxes total. How many pens?",
-              "frenchString": "1 box has 5 pens, 6 boxes total. How many pens?",
-              "germanString": "1 box has 5 pens, 6 boxes total. How many pens?",
+              "frenchString": "1 boîte(s) a 5 stylos, 6 boîtes au total. Combien de stylos ?",
+              "germanString": "1 Schachtel(n) hat 5 Stifte, 6 Schachteln insgesamt. Wie viele Stifte?",
               "vnString": "Một hộp có 5 cái bút, có 6 hộp. Tổng là?"
             },
             "answers": [
@@ -15907,8 +15907,8 @@
             },
             "hint": {
               "enString": "5 x 6 = 30 pens.",
-              "frenchString": "5 fois 6 égale 30 pens.",
-              "germanString": "5 mal 6 ist gleich 30 pens.",
+              "frenchString": "5 x 6 = 30 pens.",
+              "germanString": "5 x 6 = 30 pens.",
               "vnString": "5 x 6 = 30 cái bút."
             }
           }
@@ -15960,8 +15960,8 @@
             },
             "hint": {
               "enString": "4 x 7 = 28.",
-              "frenchString": "4 fois 7 égale 28.",
-              "germanString": "4 mal 7 ist gleich 28.",
+              "frenchString": "4 x 7 = 28.",
+              "germanString": "4 x 7 = 28.",
               "vnString": "4 nhân 7 bằng 28."
             }
           },
@@ -16007,8 +16007,8 @@
             },
             "hint": {
               "enString": "63 / 9 = 7.",
-              "frenchString": "63 divisé par 9 égale 7.",
-              "germanString": "63 geteilt durch 9 ist gleich 7.",
+              "frenchString": "63 / 9 = 7.",
+              "germanString": "63 / 9 = 7.",
               "vnString": "63 : 9 = 7."
             }
           },
@@ -16054,8 +16054,8 @@
             },
             "hint": {
               "enString": "345 + 155 = 500.",
-              "frenchString": "345 plus 155 égale 500.",
-              "germanString": "345 plus 155 ist gleich 500.",
+              "frenchString": "345 + 155 = 500.",
+              "germanString": "345 + 155 = 500.",
               "vnString": "345 cộng 155 bằng 500."
             }
           },
@@ -16101,8 +16101,8 @@
             },
             "hint": {
               "enString": "600 - 250 = 350.",
-              "frenchString": "600 moins 250 égale 350.",
-              "germanString": "600 minus 250 ist gleich 350.",
+              "frenchString": "600 - 250 = 350.",
+              "germanString": "600 - 250 = 350.",
               "vnString": "600 trừ 250 bằng 350."
             }
           },
@@ -16110,8 +16110,8 @@
             "id": 160,
             "question": {
               "enString": "36 students divided into 4 groups. Each group has?",
-              "frenchString": "36 students divided into 4 groups. Each group has?",
-              "germanString": "36 students divided into 4 groups. Each group has?",
+              "frenchString": "36 élèves répartis en 4 groupes. Chaque groupe a ?",
+              "germanString": "36 Schüler in 4 Gruppen aufgeteilt. Jede Gruppe hat?",
               "vnString": "36 học sinh chia đều vào 4 nhóm. Mỗi nhóm có bao nhiêu?"
             },
             "answers": [
@@ -16148,8 +16148,8 @@
             },
             "hint": {
               "enString": "36 / 4 = 9 students.",
-              "frenchString": "36 divisé par 4 égale 9 students.",
-              "germanString": "36 geteilt durch 4 ist gleich 9 students.",
+              "frenchString": "36 / 4 = 9 students.",
+              "germanString": "36 / 4 = 9 students.",
               "vnString": "36 : 4 = 9 học sinh."
             }
           }
@@ -16201,8 +16201,8 @@
             },
             "hint": {
               "enString": "5 x 9 = 45.",
-              "frenchString": "5 fois 9 égale 45.",
-              "germanString": "5 mal 9 ist gleich 45.",
+              "frenchString": "5 x 9 = 45.",
+              "germanString": "5 x 9 = 45.",
               "vnString": "5 nhân 9 bằng 45."
             }
           },
@@ -16248,8 +16248,8 @@
             },
             "hint": {
               "enString": "81 / 9 = 9.",
-              "frenchString": "81 divisé par 9 égale 9.",
-              "germanString": "81 geteilt durch 9 ist gleich 9.",
+              "frenchString": "81 / 9 = 9.",
+              "germanString": "81 / 9 = 9.",
               "vnString": "81 : 9 = 9."
             }
           },
@@ -16295,8 +16295,8 @@
             },
             "hint": {
               "enString": "456 + 244 = 700.",
-              "frenchString": "456 plus 244 égale 700.",
-              "germanString": "456 plus 244 ist gleich 700.",
+              "frenchString": "456 + 244 = 700.",
+              "germanString": "456 + 244 = 700.",
               "vnString": "456 cộng 244 bằng 700."
             }
           },
@@ -16342,8 +16342,8 @@
             },
             "hint": {
               "enString": "1000 - 375 = 625.",
-              "frenchString": "1000 moins 375 égale 625.",
-              "germanString": "1000 minus 375 ist gleich 625.",
+              "frenchString": "1000 - 375 = 625.",
+              "germanString": "1000 - 375 = 625.",
               "vnString": "1000 trừ 375 bằng 625."
             }
           },
@@ -16351,8 +16351,8 @@
             "id": 165,
             "question": {
               "enString": "Each bottle holds 250ml. 4 bottles total?",
-              "frenchString": "Each bottle holds 250ml. 4 bottles total?",
-              "germanString": "Each bottle holds 250ml. 4 bottles total?",
+              "frenchString": "Chaque bouteille contient 250ml. 4 bouteilles au total ?",
+              "germanString": "Jede Flasche enthält 250ml. 4 Flaschen insgesamt?",
               "vnString": "Mỗi chai chứa 250ml nước. 4 chai chứa bao nhiêu ml?"
             },
             "answers": [
@@ -16389,8 +16389,8 @@
             },
             "hint": {
               "enString": "250 x 4 = 1000 ml.",
-              "frenchString": "250 fois 4 égale 1000 ml.",
-              "germanString": "250 mal 4 ist gleich 1000 ml.",
+              "frenchString": "250 x 4 = 1000 ml.",
+              "germanString": "250 x 4 = 1000 ml.",
               "vnString": "250 nhân 4 bằng 1000 ml."
             }
           }
@@ -16442,8 +16442,8 @@
             },
             "hint": {
               "enString": "7 x 6 = 42.",
-              "frenchString": "7 fois 6 égale 42.",
-              "germanString": "7 mal 6 ist gleich 42.",
+              "frenchString": "7 x 6 = 42.",
+              "germanString": "7 x 6 = 42.",
               "vnString": "7 nhân 6 bằng 42."
             }
           },
@@ -16489,8 +16489,8 @@
             },
             "hint": {
               "enString": "56 / 8 = 7.",
-              "frenchString": "56 divisé par 8 égale 7.",
-              "germanString": "56 geteilt durch 8 ist gleich 7.",
+              "frenchString": "56 / 8 = 7.",
+              "germanString": "56 / 8 = 7.",
               "vnString": "56 : 8 = 7."
             }
           },
@@ -16498,8 +16498,8 @@
             "id": 168,
             "question": {
               "enString": "What is 1/2 of 80?",
-              "frenchString": "What is 1/2 of 80?",
-              "germanString": "What is 1/2 of 80?",
+              "frenchString": "Combien fait 1/2 de 80 ?",
+              "germanString": "Was ist 1/2 von 80?",
               "vnString": "1/2 của 80 là bao nhiêu?"
             },
             "answers": [
@@ -16536,8 +16536,8 @@
             },
             "hint": {
               "enString": "80 / 2 = 40.",
-              "frenchString": "80 divisé par 2 égale 40.",
-              "germanString": "80 geteilt durch 2 ist gleich 40.",
+              "frenchString": "80 / 2 = 40.",
+              "germanString": "80 / 2 = 40.",
               "vnString": "80 : 2 = 40."
             }
           },
@@ -16545,8 +16545,8 @@
             "id": 169,
             "question": {
               "enString": "Perimeter of square with side 15cm?",
-              "frenchString": "Perimeter of square with side 15cm?",
-              "germanString": "Perimeter of square with side 15cm?",
+              "frenchString": "Périmètre du carré de côté 15cm ?",
+              "germanString": "Umfang des Quadrats mit Seite 15cm?",
               "vnString": "Chu vi hình vuông cạnh 15cm là?"
             },
             "answers": [
@@ -16583,8 +16583,8 @@
             },
             "hint": {
               "enString": "Perimeter = 4 x 15 = 60 cm.",
-              "frenchString": "Perimeter = 4 fois 15 égale 60 cm.",
-              "germanString": "Perimeter = 4 mal 15 ist gleich 60 cm.",
+              "frenchString": "Perimeter = 4 x 15 = 60 cm.",
+              "germanString": "Perimeter = 4 x 15 = 60 cm.",
               "vnString": "Chu vi = 4 x 15 = 60 cm."
             }
           },
@@ -16592,8 +16592,8 @@
             "id": 170,
             "question": {
               "enString": "Store has 120 shirts, sells 48. How many left?",
-              "frenchString": "Store has 120 shirts, sells 48. How many left?",
-              "germanString": "Store has 120 shirts, sells 48. How many left?",
+              "frenchString": "Le magasin a 120 chemises, en vend 48. Combien en reste-t-il ?",
+              "germanString": "Das Geschäft hat 120 Hemden, verkauft 48. Wie viele bleiben?",
               "vnString": "Cửa hàng có 120 cái áo, bán 48 cái. Còn lại bao nhiêu?"
             },
             "answers": [
@@ -16630,8 +16630,8 @@
             },
             "hint": {
               "enString": "120 - 48 = 72 shirts.",
-              "frenchString": "120 moins 48 égale 72 shirts.",
-              "germanString": "120 minus 48 ist gleich 72 shirts.",
+              "frenchString": "120 - 48 = 72 shirts.",
+              "germanString": "120 - 48 = 72 shirts.",
               "vnString": "120 - 48 = 72 cái áo."
             }
           }
@@ -16683,8 +16683,8 @@
             },
             "hint": {
               "enString": "8 x 8 = 64.",
-              "frenchString": "8 fois 8 égale 64.",
-              "germanString": "8 mal 8 ist gleich 64.",
+              "frenchString": "8 x 8 = 64.",
+              "germanString": "8 x 8 = 64.",
               "vnString": "8 nhân 8 bằng 64."
             }
           },
@@ -16730,8 +16730,8 @@
             },
             "hint": {
               "enString": "72 / 8 = 9.",
-              "frenchString": "72 divisé par 8 égale 9.",
-              "germanString": "72 geteilt durch 8 ist gleich 9.",
+              "frenchString": "72 / 8 = 9.",
+              "germanString": "72 / 8 = 9.",
               "vnString": "72 : 8 = 9."
             }
           },
@@ -16739,8 +16739,8 @@
             "id": 173,
             "question": {
               "enString": "What is 1/4 of 100?",
-              "frenchString": "What is 1/4 of 100?",
-              "germanString": "What is 1/4 of 100?",
+              "frenchString": "Combien fait 1/4 de 100 ?",
+              "germanString": "Was ist 1/4 von 100?",
               "vnString": "1/4 của 100 là bao nhiêu?"
             },
             "answers": [
@@ -16777,8 +16777,8 @@
             },
             "hint": {
               "enString": "100 / 4 = 25.",
-              "frenchString": "100 divisé par 4 égale 25.",
-              "germanString": "100 geteilt durch 4 ist gleich 25.",
+              "frenchString": "100 / 4 = 25.",
+              "germanString": "100 / 4 = 25.",
               "vnString": "100 : 4 = 25."
             }
           },
@@ -16786,8 +16786,8 @@
             "id": 174,
             "question": {
               "enString": "Rectangle 12cm x 5cm. Area?",
-              "frenchString": "Rectangle 12cm x 5cm. Area?",
-              "germanString": "Rectangle 12cm x 5cm. Area?",
+              "frenchString": "Rectangle 12cm × 5cm. Aire ?",
+              "germanString": "Rechteck 12cm × 5cm. Fläche?",
               "vnString": "Diện tích hình chữ nhật dài 12cm, rộng 5cm là?"
             },
             "answers": [
@@ -16824,8 +16824,8 @@
             },
             "hint": {
               "enString": "Area = 12 x 5 = 60 cm2.",
-              "frenchString": "Area = 12 fois 5 égale 60 cm2.",
-              "germanString": "Area = 12 mal 5 ist gleich 60 cm2.",
+              "frenchString": "Area = 12 x 5 = 60 cm2.",
+              "germanString": "Area = 12 x 5 = 60 cm2.",
               "vnString": "Diện tích = 12 x 5 = 60 cm2."
             }
           },
@@ -16833,8 +16833,8 @@
             "id": 175,
             "question": {
               "enString": "Truck carries 250kg rice, drops off 85kg. Remaining?",
-              "frenchString": "Truck carries 250kg rice, drops off 85kg. Remaining?",
-              "germanString": "Truck carries 250kg rice, drops off 85kg. Remaining?",
+              "frenchString": "Camion transporte 250kg de riz, décharge 85kg. Reste ?",
+              "germanString": "LKW transportiert 250kg Reis, lädt 85kg ab. Rest?",
               "vnString": "Xe tải chở 250kg gạo, dỡ xuống 85kg. Còn lại bao nhiêu kg?"
             },
             "answers": [
@@ -16871,8 +16871,8 @@
             },
             "hint": {
               "enString": "250 - 85 = 165 kg.",
-              "frenchString": "250 moins 85 égale 165 kg.",
-              "germanString": "250 minus 85 ist gleich 165 kg.",
+              "frenchString": "250 - 85 = 165 kg.",
+              "germanString": "250 - 85 = 165 kg.",
               "vnString": "250 trừ 85 bằng 165 kg."
             }
           }
@@ -16924,8 +16924,8 @@
             },
             "hint": {
               "enString": "9 x 7 = 63.",
-              "frenchString": "9 fois 7 égale 63.",
-              "germanString": "9 mal 7 ist gleich 63.",
+              "frenchString": "9 x 7 = 63.",
+              "germanString": "9 x 7 = 63.",
               "vnString": "9 nhân 7 bằng 63."
             }
           },
@@ -16971,8 +16971,8 @@
             },
             "hint": {
               "enString": "100 / 5 = 20.",
-              "frenchString": "100 divisé par 5 égale 20.",
-              "germanString": "100 geteilt durch 5 ist gleich 20.",
+              "frenchString": "100 / 5 = 20.",
+              "germanString": "100 / 5 = 20.",
               "vnString": "100 : 5 = 20."
             }
           },
@@ -16980,8 +16980,8 @@
             "id": 178,
             "question": {
               "enString": "What is 3/4 of 40?",
-              "frenchString": "What is 3/4 of 40?",
-              "germanString": "What is 3/4 of 40?",
+              "frenchString": "Combien fait 3/4 de 40 ?",
+              "germanString": "Was ist 3/4 von 40?",
               "vnString": "3/4 của 40 là bao nhiêu?"
             },
             "answers": [
@@ -17018,8 +17018,8 @@
             },
             "hint": {
               "enString": "40 x 3 / 4 = 30.",
-              "frenchString": "40 x 3 divisé par 4 égale 30.",
-              "germanString": "40 x 3 geteilt durch 4 ist gleich 30.",
+              "frenchString": "40 x 3 / 4 = 30.",
+              "germanString": "40 x 3 / 4 = 30.",
               "vnString": "40 x 3 : 4 = 30."
             }
           },
@@ -17027,8 +17027,8 @@
             "id": 179,
             "question": {
               "enString": "Perimeter of rectangle 8cm x 5cm?",
-              "frenchString": "Perimeter of rectangle 8cm x 5cm?",
-              "germanString": "Perimeter of rectangle 8cm x 5cm?",
+              "frenchString": "Périmètre du rectangle 8cm × 5cm ?",
+              "germanString": "Umfang des Rechtecks 8cm × 5cm?",
               "vnString": "Chu vi hình chữ nhật dài 8cm, rộng 5cm là?"
             },
             "answers": [
@@ -17074,8 +17074,8 @@
             "id": 180,
             "question": {
               "enString": "Read 3 books, each 40 pages. Total pages?",
-              "frenchString": "Read 3 books, each 40 pages. Total pages?",
-              "germanString": "Read 3 books, each 40 pages. Total pages?",
+              "frenchString": "Lu 3 livres, chacun 40 pages. Total pages ?",
+              "germanString": "3 Bücher gelesen, je 40 Seiten. Seiten insgesamt?",
               "vnString": "Đọc 3 cuốn sách, mỗi cuốn 40 trang. Tổng số trang là?"
             },
             "answers": [
@@ -17112,8 +17112,8 @@
             },
             "hint": {
               "enString": "3 x 40 = 120 pages.",
-              "frenchString": "3 fois 40 égale 120 pages.",
-              "germanString": "3 mal 40 ist gleich 120 pages.",
+              "frenchString": "3 × 40 = 120 pages.",
+              "germanString": "3 × 40 = 120 Seiten.",
               "vnString": "3 x 40 = 120 trang."
             }
           }
@@ -17165,8 +17165,8 @@
             },
             "hint": {
               "enString": "6 x 9 = 54.",
-              "frenchString": "6 fois 9 égale 54.",
-              "germanString": "6 mal 9 ist gleich 54.",
+              "frenchString": "6 x 9 = 54.",
+              "germanString": "6 x 9 = 54.",
               "vnString": "6 nhân 9 bằng 54."
             }
           },
@@ -17212,8 +17212,8 @@
             },
             "hint": {
               "enString": "90 / 9 = 10.",
-              "frenchString": "90 divisé par 9 égale 10.",
-              "germanString": "90 geteilt durch 9 ist gleich 10.",
+              "frenchString": "90 / 9 = 10.",
+              "germanString": "90 / 9 = 10.",
               "vnString": "90 : 9 = 10."
             }
           },
@@ -17259,8 +17259,8 @@
             },
             "hint": {
               "enString": "500 + 375 = 875.",
-              "frenchString": "500 plus 375 égale 875.",
-              "germanString": "500 plus 375 ist gleich 875.",
+              "frenchString": "500 + 375 = 875.",
+              "germanString": "500 + 375 = 875.",
               "vnString": "500 cộng 375 bằng 875."
             }
           },
@@ -17306,8 +17306,8 @@
             },
             "hint": {
               "enString": "1000 - 428 = 572.",
-              "frenchString": "1000 moins 428 égale 572.",
-              "germanString": "1000 minus 428 ist gleich 572.",
+              "frenchString": "1000 - 428 = 572.",
+              "germanString": "1000 - 428 = 572.",
               "vnString": "1000 trừ 428 bằng 572."
             }
           },
@@ -17315,8 +17315,8 @@
             "id": 185,
             "question": {
               "enString": "Tank has 150 fish, 75 more added. Total?",
-              "frenchString": "Tank has 150 fish, 75 more added. Total?",
-              "germanString": "Tank has 150 fish, 75 more added. Total?",
+              "frenchString": "Aquarium a 150 poissons, 75 ajoutés. Total ?",
+              "germanString": "Aquarium hat 150 Fische, 75 hinzugefügt. Gesamt?",
               "vnString": "Bể cá có 150 con, thêm 75 con. Tổng là?"
             },
             "answers": [
@@ -17353,8 +17353,8 @@
             },
             "hint": {
               "enString": "150 + 75 = 225 fish.",
-              "frenchString": "150 plus 75 égale 225 fish.",
-              "germanString": "150 plus 75 ist gleich 225 fish.",
+              "frenchString": "150 + 75 = 225 fish.",
+              "germanString": "150 + 75 = 225 fish.",
               "vnString": "150 + 75 = 225 con."
             }
           }
@@ -17406,8 +17406,8 @@
             },
             "hint": {
               "enString": "4 x 8 = 32.",
-              "frenchString": "4 fois 8 égale 32.",
-              "germanString": "4 mal 8 ist gleich 32.",
+              "frenchString": "4 x 8 = 32.",
+              "germanString": "4 x 8 = 32.",
               "vnString": "4 nhân 8 bằng 32."
             }
           },
@@ -17453,8 +17453,8 @@
             },
             "hint": {
               "enString": "64 / 8 = 8.",
-              "frenchString": "64 divisé par 8 égale 8.",
-              "germanString": "64 geteilt durch 8 ist gleich 8.",
+              "frenchString": "64 / 8 = 8.",
+              "germanString": "64 / 8 = 8.",
               "vnString": "64 : 8 = 8."
             }
           },
@@ -17462,8 +17462,8 @@
             "id": 188,
             "question": {
               "enString": "Which number is divisible by 2?",
-              "frenchString": "Which number is divisible by 2?",
-              "germanString": "Which number is divisible by 2?",
+              "frenchString": "Quel nombre est divisible par 2 ?",
+              "germanString": "Welche Zahl ist durch 2 teilbar?",
               "vnString": "Số nào chia hết cho 2?"
             },
             "answers": [
@@ -17500,8 +17500,8 @@
             },
             "hint": {
               "enString": "24 is divisible by 2 because 24/2 = 12.",
-              "frenchString": "24 is divisible by 2 because 24 divisé par 2 égale 12.",
-              "germanString": "24 is divisible by 2 because 24 geteilt durch 2 ist gleich 12.",
+              "frenchString": "24 est divisible par 2 car 24/2 = 12.",
+              "germanString": "24 ist durch 2 teilbar weil 24/2 = 12.",
               "vnString": "24 chia hết cho 2 vì 24 : 2 = 12."
             }
           },
@@ -17509,8 +17509,8 @@
             "id": 189,
             "question": {
               "enString": "How many minutes in 1 hour?",
-              "frenchString": "How many minutes in 1 hour?",
-              "germanString": "How many minutes in 1 hour?",
+              "frenchString": "Combien de minutes dans 1 heure(s) ?",
+              "germanString": "Wie viele Minuten in 1 Stunde(n)?",
               "vnString": "1 giờ có bao nhiêu phút?"
             },
             "answers": [
@@ -17547,8 +17547,8 @@
             },
             "hint": {
               "enString": "1 hour = 60 minutes.",
-              "frenchString": "1 hour = 60 minutes.",
-              "germanString": "1 hour = 60 minutes.",
+              "frenchString": "1 heure = 60 minutes.",
+              "germanString": "1 Stunde = 60 Minuten.",
               "vnString": "1 giờ = 60 phút."
             }
           },
@@ -17556,8 +17556,8 @@
             "id": 190,
             "question": {
               "enString": "Each bag weighs 5kg. Buy 4 bags. Total kg?",
-              "frenchString": "Each bag weighs 5kg. Buy 4 bags. Total kg?",
-              "germanString": "Each bag weighs 5kg. Buy 4 bags. Total kg?",
+              "frenchString": "Chaque sac pèse 5kg. Acheter 4 sacs. Total kg ?",
+              "germanString": "Jede Tasche wiegt 5kg. 4 Taschen kaufen. Gesamt kg?",
               "vnString": "Mỗi túi gạo 5kg. Mua 4 túi. Tổng là bao nhiêu kg?"
             },
             "answers": [
@@ -17594,8 +17594,8 @@
             },
             "hint": {
               "enString": "4 x 5 = 20 kg.",
-              "frenchString": "4 fois 5 égale 20 kg.",
-              "germanString": "4 mal 5 ist gleich 20 kg.",
+              "frenchString": "4 x 5 = 20 kg.",
+              "germanString": "4 x 5 = 20 kg.",
               "vnString": "4 nhân 5 bằng 20 kg."
             }
           }
@@ -17647,8 +17647,8 @@
             },
             "hint": {
               "enString": "24 + 36 = 60; 60 + 40 = 100.",
-              "frenchString": "24 plus 36 égale 60; 60 plus 40 égale 100.",
-              "germanString": "24 plus 36 ist gleich 60; 60 plus 40 ist gleich 100.",
+              "frenchString": "24 + 36 = 60; 60 + 40 = 100.",
+              "germanString": "24 + 36 = 60; 60 + 40 = 100.",
               "vnString": "24 cộng 36 bằng 60; 60 cộng 40 bằng 100."
             }
           },
@@ -17694,8 +17694,8 @@
             },
             "hint": {
               "enString": "7 x 7 = 49.",
-              "frenchString": "7 fois 7 égale 49.",
-              "germanString": "7 mal 7 ist gleich 49.",
+              "frenchString": "7 x 7 = 49.",
+              "germanString": "7 x 7 = 49.",
               "vnString": "7 nhân 7 bằng 49."
             }
           },
@@ -17703,8 +17703,8 @@
             "id": 193,
             "question": {
               "enString": "Which number is divisible by 5?",
-              "frenchString": "Which number is divisible by 5?",
-              "germanString": "Which number is divisible by 5?",
+              "frenchString": "Quel nombre est divisible par 5 ?",
+              "germanString": "Welche Zahl ist durch 5 teilbar?",
               "vnString": "Số nào chia hết cho 5?"
             },
             "answers": [
@@ -17741,8 +17741,8 @@
             },
             "hint": {
               "enString": "35 is divisible by 5 because 35/5=7.",
-              "frenchString": "35 is divisible by 5 because 35 divisé par 5 égale 7.",
-              "germanString": "35 is divisible by 5 because 35 geteilt durch 5 ist gleich 7.",
+              "frenchString": "35 est divisible par 5 car 35/5=7.",
+              "germanString": "35 ist durch 5 teilbar weil 35/5=7.",
               "vnString": "35 chia hết cho 5 vì 35 : 5 = 7."
             }
           },
@@ -17750,8 +17750,8 @@
             "id": 194,
             "question": {
               "enString": "1 km equals how many meters?",
-              "frenchString": "1 km equals how many meters?",
-              "germanString": "1 km equals how many meters?",
+              "frenchString": "1 km égale combien de mètres ?",
+              "germanString": "1 km entspricht wie vielen Metern?",
               "vnString": "1 km bằng bao nhiêu mét?"
             },
             "answers": [
@@ -17797,8 +17797,8 @@
             "id": 195,
             "question": {
               "enString": "Bike at 3km/h for 4 hours. Distance?",
-              "frenchString": "Bike at 3km/h for 4 hours. Distance?",
-              "germanString": "Bike at 3km/h for 4 hours. Distance?",
+              "frenchString": "Vélo à 3km/h pendant 4 heures. Distance ?",
+              "germanString": "Fahrrad mit 3km/h für 4 Stunden. Entfernung?",
               "vnString": "Xe đạp đi 3km/giờ trong 4 giờ. Đi được bao nhiêu km?"
             },
             "answers": [
@@ -17835,8 +17835,8 @@
             },
             "hint": {
               "enString": "3 x 4 = 12 km.",
-              "frenchString": "3 fois 4 égale 12 km.",
-              "germanString": "3 mal 4 ist gleich 12 km.",
+              "frenchString": "3 x 4 = 12 km.",
+              "germanString": "3 x 4 = 12 km.",
               "vnString": "3 nhân 4 bằng 12 km."
             }
           }
@@ -17888,8 +17888,8 @@
             },
             "hint": {
               "enString": "150 x 4 = 600.",
-              "frenchString": "150 fois 4 égale 600.",
-              "germanString": "150 mal 4 ist gleich 600.",
+              "frenchString": "150 x 4 = 600.",
+              "germanString": "150 x 4 = 600.",
               "vnString": "150 nhân 4 bằng 600."
             }
           },
@@ -17935,8 +17935,8 @@
             },
             "hint": {
               "enString": "900 / 3 = 300.",
-              "frenchString": "900 divisé par 3 égale 300.",
-              "germanString": "900 geteilt durch 3 ist gleich 300.",
+              "frenchString": "900 / 3 = 300.",
+              "germanString": "900 / 3 = 300.",
               "vnString": "900 : 3 = 300."
             }
           },
@@ -17944,8 +17944,8 @@
             "id": 198,
             "question": {
               "enString": "What is the largest 3-digit number?",
-              "frenchString": "What is the largest 3-digit number?",
-              "germanString": "What is the largest 3-digit number?",
+              "frenchString": "Quel est le plus grand nombre à 3 chiffres ?",
+              "germanString": "Was ist die größte 3-stellige Zahl?",
               "vnString": "Số lớn nhất có 3 chữ số là số nào?"
             },
             "answers": [
@@ -17991,8 +17991,8 @@
             "id": 199,
             "question": {
               "enString": "Perimeter of square with side 9cm?",
-              "frenchString": "Perimeter of square with side 9cm?",
-              "germanString": "Perimeter of square with side 9cm?",
+              "frenchString": "Périmètre du carré de côté 9cm ?",
+              "germanString": "Umfang des Quadrats mit Seite 9cm?",
               "vnString": "Chu vi hình vuông cạnh 9cm là?"
             },
             "answers": [
@@ -18029,8 +18029,8 @@
             },
             "hint": {
               "enString": "Perimeter = 4 x 9 = 36 cm.",
-              "frenchString": "Perimeter = 4 fois 9 égale 36 cm.",
-              "germanString": "Perimeter = 4 mal 9 ist gleich 36 cm.",
+              "frenchString": "Perimeter = 4 x 9 = 36 cm.",
+              "germanString": "Perimeter = 4 x 9 = 36 cm.",
               "vnString": "Chu vi = 4 x 9 = 36 cm."
             }
           },
@@ -18038,8 +18038,8 @@
             "id": 200,
             "question": {
               "enString": "School has 8 classes with 35 students each. Total?",
-              "frenchString": "School has 8 classes with 35 students each. Total?",
-              "germanString": "School has 8 classes with 35 students each. Total?",
+              "frenchString": "École a 8 classes de 35 élèves chacune. Total ?",
+              "germanString": "Schule hat 8 Klassen mit je 35 Schülern. Gesamt?",
               "vnString": "Trường có 8 lớp, mỗi lớp 35 học sinh. Tổng là?"
             },
             "answers": [
@@ -18076,8 +18076,8 @@
             },
             "hint": {
               "enString": "8 x 35 = 280 students.",
-              "frenchString": "8 fois 35 égale 280 students.",
-              "germanString": "8 mal 35 ist gleich 280 students.",
+              "frenchString": "8 x 35 = 280 students.",
+              "germanString": "8 x 35 = 280 students.",
               "vnString": "8 x 35 = 280 học sinh."
             }
           }
@@ -24160,8 +24160,8 @@
             },
             "hint": {
               "enString": "1234 + 567 = 1801.",
-              "frenchString": "1234 plus 567 égale 1801.",
-              "germanString": "1234 plus 567 ist gleich 1801.",
+              "frenchString": "1234 + 567 = 1801.",
+              "germanString": "1234 + 567 = 1801.",
               "vnString": "1234 cộng 567 bằng 1801."
             }
           },
@@ -24207,8 +24207,8 @@
             },
             "hint": {
               "enString": "5000 - 1287 = 3713.",
-              "frenchString": "5000 moins 1287 égale 3713.",
-              "germanString": "5000 minus 1287 ist gleich 3713.",
+              "frenchString": "5000 - 1287 = 3713.",
+              "germanString": "5000 - 1287 = 3713.",
               "vnString": "5000 trừ 1287 bằng 3713."
             }
           },
@@ -24254,8 +24254,8 @@
             },
             "hint": {
               "enString": "48 x 5 = 240.",
-              "frenchString": "48 fois 5 égale 240.",
-              "germanString": "48 mal 5 ist gleich 240.",
+              "frenchString": "48 x 5 = 240.",
+              "germanString": "48 x 5 = 240.",
               "vnString": "48 nhân 5 bằng 240."
             }
           },
@@ -24301,8 +24301,8 @@
             },
             "hint": {
               "enString": "360 / 4 = 90.",
-              "frenchString": "360 divisé par 4 égale 90.",
-              "germanString": "360 geteilt durch 4 ist gleich 90.",
+              "frenchString": "360 / 4 = 90.",
+              "germanString": "360 / 4 = 90.",
               "vnString": "360 : 4 = 90."
             }
           },
@@ -24310,8 +24310,8 @@
             "id": 130,
             "question": {
               "enString": "Rectangular field 80m x 35m. Area?",
-              "frenchString": "Rectangular field 80m x 35m. Area?",
-              "germanString": "Rectangular field 80m x 35m. Area?",
+              "frenchString": "Champ rectangulaire 80m × 35m. Aire ?",
+              "germanString": "Rechteckiges Feld 80m × 35m. Fläche?",
               "vnString": "Thửa ruộng dài 80m, rộng 35m. Diện tích là?"
             },
             "answers": [
@@ -24348,8 +24348,8 @@
             },
             "hint": {
               "enString": "80 x 35 = 2800 m2.",
-              "frenchString": "80 fois 35 égale 2800 m2.",
-              "germanString": "80 mal 35 ist gleich 2800 m2.",
+              "frenchString": "80 x 35 = 2800 m2.",
+              "germanString": "80 x 35 = 2800 m2.",
               "vnString": "80 nhân 35 bằng 2800 m2."
             }
           }
@@ -24401,8 +24401,8 @@
             },
             "hint": {
               "enString": "25 x 8 = 200.",
-              "frenchString": "25 fois 8 égale 200.",
-              "germanString": "25 mal 8 ist gleich 200.",
+              "frenchString": "25 x 8 = 200.",
+              "germanString": "25 x 8 = 200.",
               "vnString": "25 nhân 8 bằng 200."
             }
           },
@@ -24448,8 +24448,8 @@
             },
             "hint": {
               "enString": "756 / 9 = 84.",
-              "frenchString": "756 divisé par 9 égale 84.",
-              "germanString": "756 geteilt durch 9 ist gleich 84.",
+              "frenchString": "756 / 9 = 84.",
+              "germanString": "756 / 9 = 84.",
               "vnString": "756 : 9 = 84."
             }
           },
@@ -24457,8 +24457,8 @@
             "id": 133,
             "question": {
               "enString": "Hundreds digit of 7285?",
-              "frenchString": "Hundreds digit of 7285?",
-              "germanString": "Hundreds digit of 7285?",
+              "frenchString": "Chiffre des centaines de 7285 ?",
+              "germanString": "Hunderterziffer von 7285?",
               "vnString": "Chữ số hàng trăm của số 7285 là?"
             },
             "answers": [
@@ -24542,8 +24542,8 @@
             },
             "hint": {
               "enString": "3/5 + 1/5 = 4/5.",
-              "frenchString": "3/5 + 1 divisé par 5 égale 4/5.",
-              "germanString": "3/5 + 1 geteilt durch 5 ist gleich 4/5.",
+              "frenchString": "3/5 + 1/5 = 4/5.",
+              "germanString": "3/5 + 1/5 = 4/5.",
               "vnString": "3/5 + 1/5 = 4/5."
             }
           },
@@ -24551,8 +24551,8 @@
             "id": 135,
             "question": {
               "enString": "144 candies shared equally among 12 friends. Each gets?",
-              "frenchString": "144 candies shared equally among 12 friends. Each gets?",
-              "germanString": "144 candies shared equally among 12 friends. Each gets?",
+              "frenchString": "144 bonbons partagés entre 12 amis. Chacun reçoit ?",
+              "germanString": "144 Bonbons gleichmäßig unter 12 Freunden geteilt. Jeder bekommt?",
               "vnString": "144 viên kẹo chia đều cho 12 bạn. Mỗi bạn nhận được bao nhiêu?"
             },
             "answers": [
@@ -24589,8 +24589,8 @@
             },
             "hint": {
               "enString": "144 / 12 = 12 candies.",
-              "frenchString": "144 divisé par 12 égale 12 candies.",
-              "germanString": "144 geteilt durch 12 ist gleich 12 candies.",
+              "frenchString": "144 / 12 = 12 candies.",
+              "germanString": "144 / 12 = 12 candies.",
               "vnString": "144 : 12 = 12 viên."
             }
           }
@@ -24642,8 +24642,8 @@
             },
             "hint": {
               "enString": "36 x 7 = 252.",
-              "frenchString": "36 fois 7 égale 252.",
-              "germanString": "36 mal 7 ist gleich 252.",
+              "frenchString": "36 x 7 = 252.",
+              "germanString": "36 x 7 = 252.",
               "vnString": "36 nhân 7 bằng 252."
             }
           },
@@ -24651,8 +24651,8 @@
             "id": 137,
             "question": {
               "enString": "How many days in a year?",
-              "frenchString": "How many days in a year?",
-              "germanString": "How many days in a year?",
+              "frenchString": "Combien de jours dans une année ?",
+              "germanString": "Wie viele Tage im Jahr?",
               "vnString": "1 năm có bao nhiêu ngày?"
             },
             "answers": [
@@ -24736,8 +24736,8 @@
             },
             "hint": {
               "enString": "7/8 - 3/8 = 4/8 = 1/2.",
-              "frenchString": "7/8 - 3 divisé par 8 égale 4/8 = 1/2.",
-              "germanString": "7/8 - 3 geteilt durch 8 ist gleich 4/8 = 1/2.",
+              "frenchString": "7/8 - 3/8 = 4/8 = 1/2.",
+              "germanString": "7/8 - 3/8 = 4/8 = 1/2.",
               "vnString": "7/8 - 3/8 = 4/8 = 1/2."
             }
           },
@@ -24783,8 +24783,8 @@
             },
             "hint": {
               "enString": "2460 / 6 = 410.",
-              "frenchString": "2460 divisé par 6 égale 410.",
-              "germanString": "2460 geteilt durch 6 ist gleich 410.",
+              "frenchString": "2460 / 6 = 410.",
+              "germanString": "2460 / 6 = 410.",
               "vnString": "2460 : 6 = 410."
             }
           },
@@ -24792,8 +24792,8 @@
             "id": 140,
             "question": {
               "enString": "Store has 3 types of shirts, 48 of each. Total?",
-              "frenchString": "Store has 3 types of shirts, 48 of each. Total?",
-              "germanString": "Store has 3 types of shirts, 48 of each. Total?",
+              "frenchString": "Magasin a 3 types de chemises, 48 de chaque. Total ?",
+              "germanString": "Geschäft hat 3 Hemdentypen, je 48. Gesamt?",
               "vnString": "Cửa hàng có 3 loại áo, mỗi loại 48 cái. Tổng là?"
             },
             "answers": [
@@ -24830,8 +24830,8 @@
             },
             "hint": {
               "enString": "3 x 48 = 144 shirts.",
-              "frenchString": "3 fois 48 égale 144 shirts.",
-              "germanString": "3 mal 48 ist gleich 144 shirts.",
+              "frenchString": "3 x 48 = 144 shirts.",
+              "germanString": "3 x 48 = 144 shirts.",
               "vnString": "3 x 48 = 144 cái."
             }
           }
@@ -24883,8 +24883,8 @@
             },
             "hint": {
               "enString": "125 x 8 = 1000.",
-              "frenchString": "125 fois 8 égale 1000.",
-              "germanString": "125 mal 8 ist gleich 1000.",
+              "frenchString": "125 x 8 = 1000.",
+              "germanString": "125 x 8 = 1000.",
               "vnString": "125 nhân 8 bằng 1000."
             }
           },
@@ -24930,8 +24930,8 @@
             },
             "hint": {
               "enString": "4500 / 9 = 500.",
-              "frenchString": "4500 divisé par 9 égale 500.",
-              "germanString": "4500 geteilt durch 9 ist gleich 500.",
+              "frenchString": "4500 / 9 = 500.",
+              "germanString": "4500 / 9 = 500.",
               "vnString": "4500 : 9 = 500."
             }
           },
@@ -24939,8 +24939,8 @@
             "id": 143,
             "question": {
               "enString": "What is 1/3 of 270?",
-              "frenchString": "What is 1/3 of 270?",
-              "germanString": "What is 1/3 of 270?",
+              "frenchString": "Combien fait 1/3 de 270 ?",
+              "germanString": "Was ist 1/3 von 270?",
               "vnString": "1/3 của 270 là bao nhiêu?"
             },
             "answers": [
@@ -24977,8 +24977,8 @@
             },
             "hint": {
               "enString": "270 / 3 = 90.",
-              "frenchString": "270 divisé par 3 égale 90.",
-              "germanString": "270 geteilt durch 3 ist gleich 90.",
+              "frenchString": "270 / 3 = 90.",
+              "germanString": "270 / 3 = 90.",
               "vnString": "270 : 3 = 90."
             }
           },
@@ -24986,8 +24986,8 @@
             "id": 144,
             "question": {
               "enString": "Perimeter of square with side 25cm?",
-              "frenchString": "Perimeter of square with side 25cm?",
-              "germanString": "Perimeter of square with side 25cm?",
+              "frenchString": "Périmètre du carré de côté 25cm ?",
+              "germanString": "Umfang des Quadrats mit Seite 25cm?",
               "vnString": "Chu vi hình vuông cạnh 25cm là?"
             },
             "answers": [
@@ -25024,8 +25024,8 @@
             },
             "hint": {
               "enString": "Perimeter = 4 x 25 = 100 cm.",
-              "frenchString": "Perimeter = 4 fois 25 égale 100 cm.",
-              "germanString": "Perimeter = 4 mal 25 ist gleich 100 cm.",
+              "frenchString": "Perimeter = 4 x 25 = 100 cm.",
+              "germanString": "Perimeter = 4 x 25 = 100 cm.",
               "vnString": "Chu vi = 4 x 25 = 100 cm."
             }
           },
@@ -25033,8 +25033,8 @@
             "id": 145,
             "question": {
               "enString": "Truck 350kg, unloads 80kg twice. Remaining?",
-              "frenchString": "Truck 350kg, unloads 80kg twice. Remaining?",
-              "germanString": "Truck 350kg, unloads 80kg twice. Remaining?",
+              "frenchString": "Camion 350kg, décharge 80kg deux fois. Reste ?",
+              "germanString": "LKW 350kg, lädt 80kg zweimal ab. Rest?",
               "vnString": "Xe tải chở 350kg, đổ xuống 2 lần, mỗi lần 80kg. Còn lại?"
             },
             "answers": [
@@ -25071,8 +25071,8 @@
             },
             "hint": {
               "enString": "350 - 80 - 80 = 190 kg.",
-              "frenchString": "350 - 80 moins 80 égale 190 kg.",
-              "germanString": "350 - 80 minus 80 ist gleich 190 kg.",
+              "frenchString": "350 - 80 - 80 = 190 kg.",
+              "germanString": "350 - 80 - 80 = 190 kg.",
               "vnString": "350 - 80 trừ 80 bằng 190 kg."
             }
           }
@@ -25124,8 +25124,8 @@
             },
             "hint": {
               "enString": "450 x 6 = 2700.",
-              "frenchString": "450 fois 6 égale 2700.",
-              "germanString": "450 mal 6 ist gleich 2700.",
+              "frenchString": "450 x 6 = 2700.",
+              "germanString": "450 x 6 = 2700.",
               "vnString": "450 nhân 6 bằng 2700."
             }
           },
@@ -25171,8 +25171,8 @@
             },
             "hint": {
               "enString": "8400 / 7 = 1200.",
-              "frenchString": "8400 divisé par 7 égale 1200.",
-              "germanString": "8400 geteilt durch 7 ist gleich 1200.",
+              "frenchString": "8400 / 7 = 1200.",
+              "germanString": "8400 / 7 = 1200.",
               "vnString": "8400 : 7 = 1200."
             }
           },
@@ -25180,8 +25180,8 @@
             "id": 148,
             "question": {
               "enString": "Find x: x + 245 = 500",
-              "frenchString": "Find x: x + 245 = 500",
-              "germanString": "Find x: x + 245 = 500",
+              "frenchString": "Trouver x : x + 245 = 500",
+              "germanString": "Finde x: x + 245 = 500",
               "vnString": "Tìm x: x + 245 = 500"
             },
             "answers": [
@@ -25218,8 +25218,8 @@
             },
             "hint": {
               "enString": "x = 500 - 245 = 255.",
-              "frenchString": "x = 500 moins 245 égale 255.",
-              "germanString": "x = 500 minus 245 ist gleich 255.",
+              "frenchString": "x = 500 - 245 = 255.",
+              "germanString": "x = 500 - 245 = 255.",
               "vnString": "x = 500 trừ 245 bằng 255."
             }
           },
@@ -25227,8 +25227,8 @@
             "id": 149,
             "question": {
               "enString": "Area of square with side 16cm?",
-              "frenchString": "Area of square with side 16cm?",
-              "germanString": "Area of square with side 16cm?",
+              "frenchString": "Aire du carré de côté 16cm ?",
+              "germanString": "Fläche des Quadrats mit Seite 16cm?",
               "vnString": "Diện tích hình vuông cạnh 16cm là?"
             },
             "answers": [
@@ -25265,8 +25265,8 @@
             },
             "hint": {
               "enString": "Area = 16 x 16 = 256 cm2.",
-              "frenchString": "Area = 16 fois 16 égale 256 cm2.",
-              "germanString": "Area = 16 mal 16 ist gleich 256 cm2.",
+              "frenchString": "Area = 16 x 16 = 256 cm2.",
+              "germanString": "Area = 16 x 16 = 256 cm2.",
               "vnString": "Diện tích = 16 x 16 = 256 cm2."
             }
           },
@@ -25274,8 +25274,8 @@
             "id": 150,
             "question": {
               "enString": "Garden has 9 rows, 45 trees each. Total?",
-              "frenchString": "Garden has 9 rows, 45 trees each. Total?",
-              "germanString": "Garden has 9 rows, 45 trees each. Total?",
+              "frenchString": "Jardin a 9 rangées, 45 arbres chacune. Total ?",
+              "germanString": "Garten hat 9 Reihen, je 45 Bäume. Gesamt?",
               "vnString": "Vườn có 9 hàng cây, mỗi hàng 45 cây. Tổng là?"
             },
             "answers": [
@@ -25312,8 +25312,8 @@
             },
             "hint": {
               "enString": "9 x 45 = 405 trees.",
-              "frenchString": "9 fois 45 égale 405 trees.",
-              "germanString": "9 mal 45 ist gleich 405 trees.",
+              "frenchString": "9 x 45 = 405 trees.",
+              "germanString": "9 x 45 = 405 trees.",
               "vnString": "9 x 45 = 405 cây."
             }
           }
@@ -25365,8 +25365,8 @@
             },
             "hint": {
               "enString": "325 x 9 = 2925.",
-              "frenchString": "325 fois 9 égale 2925.",
-              "germanString": "325 mal 9 ist gleich 2925.",
+              "frenchString": "325 x 9 = 2925.",
+              "germanString": "325 x 9 = 2925.",
               "vnString": "325 nhân 9 bằng 2925."
             }
           },
@@ -25412,8 +25412,8 @@
             },
             "hint": {
               "enString": "7200 / 8 = 900.",
-              "frenchString": "7200 divisé par 8 égale 900.",
-              "germanString": "7200 geteilt durch 8 ist gleich 900.",
+              "frenchString": "7200 / 8 = 900.",
+              "germanString": "7200 / 8 = 900.",
               "vnString": "7200 : 8 = 900."
             }
           },
@@ -25421,8 +25421,8 @@
             "id": 153,
             "question": {
               "enString": "Which number is odd?",
-              "frenchString": "Which number is odd?",
-              "germanString": "Which number is odd?",
+              "frenchString": "Quel nombre est impair ?",
+              "germanString": "Welche Zahl ist ungerade?",
               "vnString": "Số nào là số lẻ?"
             },
             "answers": [
@@ -25459,8 +25459,8 @@
             },
             "hint": {
               "enString": "47 is odd because it's not divisible by 2.",
-              "frenchString": "47 is odd because it's not divisible by 2.",
-              "germanString": "47 is odd because it's not divisible by 2.",
+              "frenchString": "47 est impair car non divisible par 2.",
+              "germanString": "47 ist ungerade weil nicht durch 2 teilbar.",
               "vnString": "47 là s lẻ vì không chia hết cho 2."
             }
           },
@@ -25468,8 +25468,8 @@
             "id": 154,
             "question": {
               "enString": "Find x: 8 x x = 720",
-              "frenchString": "Find x: 8 x x = 720",
-              "germanString": "Find x: 8 x x = 720",
+              "frenchString": "Trouver x : 8 × x = 720",
+              "germanString": "Finde x: 8 × x = 720",
               "vnString": "Tìm x: 8 x x = 720"
             },
             "answers": [
@@ -25506,8 +25506,8 @@
             },
             "hint": {
               "enString": "x = 720 / 8 = 90.",
-              "frenchString": "x = 720 divisé par 8 égale 90.",
-              "germanString": "x = 720 geteilt durch 8 ist gleich 90.",
+              "frenchString": "x = 720 / 8 = 90.",
+              "germanString": "x = 720 / 8 = 90.",
               "vnString": "x = 720 : 8 = 90."
             }
           },
@@ -25515,8 +25515,8 @@
             "id": 155,
             "question": {
               "enString": "Class 3A has 32 students, 3B has 35. Total?",
-              "frenchString": "Class 3A has 32 students, 3B has 35. Total?",
-              "germanString": "Class 3A has 32 students, 3B has 35. Total?",
+              "frenchString": "Classe 3A a 32 élèves, 3B a 35. Total ?",
+              "germanString": "Klasse 3A hat 32 Schüler, 3B hat 35. Gesamt?",
               "vnString": "Lớp 3A có 32 học sinh, lớp 3B có 35. Tổng là?"
             },
             "answers": [
@@ -25553,8 +25553,8 @@
             },
             "hint": {
               "enString": "32 + 35 = 67 students.",
-              "frenchString": "32 plus 35 égale 67 students.",
-              "germanString": "32 plus 35 ist gleich 67 students.",
+              "frenchString": "32 + 35 = 67 students.",
+              "germanString": "32 + 35 = 67 students.",
               "vnString": "32 + 35 = 67 học sinh."
             }
           }
@@ -25606,8 +25606,8 @@
             },
             "hint": {
               "enString": "600 x 7 = 4200.",
-              "frenchString": "600 fois 7 égale 4200.",
-              "germanString": "600 mal 7 ist gleich 4200.",
+              "frenchString": "600 x 7 = 4200.",
+              "germanString": "600 x 7 = 4200.",
               "vnString": "600 nhân 7 bằng 4200."
             }
           },
@@ -25653,8 +25653,8 @@
             },
             "hint": {
               "enString": "6300 / 9 = 700.",
-              "frenchString": "6300 divisé par 9 égale 700.",
-              "germanString": "6300 geteilt durch 9 ist gleich 700.",
+              "frenchString": "6300 / 9 = 700.",
+              "germanString": "6300 / 9 = 700.",
               "vnString": "6300 : 9 = 700."
             }
           },
@@ -25662,8 +25662,8 @@
             "id": 158,
             "question": {
               "enString": "1 m2 equals how many dm2?",
-              "frenchString": "1 m2 equals how many dm2?",
-              "germanString": "1 m2 equals how many dm2?",
+              "frenchString": "1 m² égale combien de dm² ?",
+              "germanString": "1 m² entspricht wie vielen dm²?",
               "vnString": "1 m2 bằng bao nhiêu dm2?"
             },
             "answers": [
@@ -25709,8 +25709,8 @@
             "id": 159,
             "question": {
               "enString": "Find y: 5400 / y = 6",
-              "frenchString": "Find y: 5400 / y = 6",
-              "germanString": "Find y: 5400 / y = 6",
+              "frenchString": "Trouver y : 5400 / y = 6",
+              "germanString": "Finde y: 5400 / y = 6",
               "vnString": "Tìm y: 5400: y = 6"
             },
             "answers": [
@@ -25747,8 +25747,8 @@
             },
             "hint": {
               "enString": "y = 5400 / 6 = 900.",
-              "frenchString": "y = 5400 divisé par 6 égale 900.",
-              "germanString": "y = 5400 geteilt durch 6 ist gleich 900.",
+              "frenchString": "y = 5400 / 6 = 900.",
+              "germanString": "y = 5400 / 6 = 900.",
               "vnString": "y = 5400 : 6 = 900."
             }
           },
@@ -25756,8 +25756,8 @@
             "id": 160,
             "question": {
               "enString": "Pool holds 1200L, 350L pumped out. Remaining?",
-              "frenchString": "Pool holds 1200L, 350L pumped out. Remaining?",
-              "germanString": "Pool holds 1200L, 350L pumped out. Remaining?",
+              "frenchString": "Piscine contient 1200L, 350L pompés. Reste ?",
+              "germanString": "Pool enthält 1200L, 350L abgepumpt. Rest?",
               "vnString": "Bể bơi 1200 lít nước, bơm ra 350 lít. Còn lại?"
             },
             "answers": [
@@ -25794,8 +25794,8 @@
             },
             "hint": {
               "enString": "1200 - 350 = 850 liters.",
-              "frenchString": "1200 moins 350 égale 850 liters.",
-              "germanString": "1200 minus 350 ist gleich 850 liters.",
+              "frenchString": "1200 - 350 = 850 liters.",
+              "germanString": "1200 - 350 = 850 liters.",
               "vnString": "1200 - 350 = 850 lít."
             }
           }
@@ -25847,8 +25847,8 @@
             },
             "hint": {
               "enString": "175 x 4 = 700.",
-              "frenchString": "175 fois 4 égale 700.",
-              "germanString": "175 mal 4 ist gleich 700.",
+              "frenchString": "175 x 4 = 700.",
+              "germanString": "175 x 4 = 700.",
               "vnString": "175 nhân 4 bằng 700."
             }
           },
@@ -25894,8 +25894,8 @@
             },
             "hint": {
               "enString": "2550 / 5 = 510.",
-              "frenchString": "2550 divisé par 5 égale 510.",
-              "germanString": "2550 geteilt durch 5 ist gleich 510.",
+              "frenchString": "2550 / 5 = 510.",
+              "germanString": "2550 / 5 = 510.",
               "vnString": "2550 : 5 = 510."
             }
           },
@@ -25903,8 +25903,8 @@
             "id": 163,
             "question": {
               "enString": "Convert 3km 500m to meters?",
-              "frenchString": "Convert 3km 500m to meters?",
-              "germanString": "Convert 3km 500m to meters?",
+              "frenchString": "Convertir 3km 500m en mètres ?",
+              "germanString": "3km 500m in Meter umrechnen?",
               "vnString": "Đổi 3km 500m ra mét là bao nhiêu?"
             },
             "answers": [
@@ -25941,8 +25941,8 @@
             },
             "hint": {
               "enString": "3km 500m = 3000 + 500 = 3500 m.",
-              "frenchString": "3km 500m = 3000 plus 500 égale 3500 m.",
-              "germanString": "3km 500m = 3000 plus 500 ist gleich 3500 m.",
+              "frenchString": "3km 500m = 3000 + 500 = 3500 m.",
+              "germanString": "3km 500m = 3000 + 500 = 3500 m.",
               "vnString": "3km 500m = 3000 cộng 500 bằng 3500 m."
             }
           },
@@ -25950,8 +25950,8 @@
             "id": 164,
             "question": {
               "enString": "Sum of 3 consecutive even numbers is 24. Smallest?",
-              "frenchString": "Sum of 3 consecutive even numbers is 24. Smallest?",
-              "germanString": "Sum of 3 consecutive even numbers is 24. Smallest?",
+              "frenchString": "Somme de 3 nombres pairs consécutifs est 24. Le plus petit ?",
+              "germanString": "Summe von 3 aufeinanderfolgenden geraden Zahlen ist 24. Kleinste?",
               "vnString": "Tổng 3 số chẵn liên tiếp là 24. Số nhỏ nhất là?"
             },
             "answers": [
@@ -25988,8 +25988,8 @@
             },
             "hint": {
               "enString": "6 + 8 + 10 = 24. Smallest is 6.",
-              "frenchString": "6 + 8 plus 10 égale 24. Smallest is 6.",
-              "germanString": "6 + 8 plus 10 ist gleich 24. Smallest is 6.",
+              "frenchString": "6 + 8 + 10 = 24. Smallest is 6.",
+              "germanString": "6 + 8 + 10 = 24. Smallest is 6.",
               "vnString": "6 + 8 + 10 = 24. Số nhỏ nhất là 6."
             }
           },
@@ -25997,8 +25997,8 @@
             "id": 165,
             "question": {
               "enString": "Car at 60km/h for 3 hours. Distance?",
-              "frenchString": "Car at 60km/h for 3 hours. Distance?",
-              "germanString": "Car at 60km/h for 3 hours. Distance?",
+              "frenchString": "Voiture à 60km/h pendant 3 heures. Distance ?",
+              "germanString": "Auto mit 60km/h für 3 Stunden. Entfernung?",
               "vnString": "Ô tô đi 60km/h. Đi trong 3 giờ được bao nhiêu km?"
             },
             "answers": [
@@ -26035,8 +26035,8 @@
             },
             "hint": {
               "enString": "60 x 3 = 180 km.",
-              "frenchString": "60 fois 3 égale 180 km.",
-              "germanString": "60 mal 3 ist gleich 180 km.",
+              "frenchString": "60 x 3 = 180 km.",
+              "germanString": "60 x 3 = 180 km.",
               "vnString": "60 nhân 3 bằng 180 km."
             }
           }
@@ -26088,8 +26088,8 @@
             },
             "hint": {
               "enString": "248 x 5 = 1240.",
-              "frenchString": "248 fois 5 égale 1240.",
-              "germanString": "248 mal 5 ist gleich 1240.",
+              "frenchString": "248 x 5 = 1240.",
+              "germanString": "248 x 5 = 1240.",
               "vnString": "248 nhân 5 bằng 1240."
             }
           },
@@ -26135,8 +26135,8 @@
             },
             "hint": {
               "enString": "3648 / 8 = 456.",
-              "frenchString": "3648 divisé par 8 égale 456.",
-              "germanString": "3648 geteilt durch 8 ist gleich 456.",
+              "frenchString": "3648 / 8 = 456.",
+              "germanString": "3648 / 8 = 456.",
               "vnString": "3648 : 8 = 456."
             }
           },
@@ -26144,8 +26144,8 @@
             "id": 168,
             "question": {
               "enString": "Convert 2 hours 30 minutes to minutes?",
-              "frenchString": "Convert 2 hours 30 minutes to minutes?",
-              "germanString": "Convert 2 hours 30 minutes to minutes?",
+              "frenchString": "Convertir 2 heures 30 minutes en minutes ?",
+              "germanString": "2 Stunden 30 Minuten in Minuten umrechnen?",
               "vnString": "Đổi 2 giờ 30 phút ra phút là bao nhiêu?"
             },
             "answers": [
@@ -26182,8 +26182,8 @@
             },
             "hint": {
               "enString": "2h 30m = 2x60 + 30 = 150 minutes.",
-              "frenchString": "2h 30m = 2x60 plus 30 égale 150 minutes.",
-              "germanString": "2h 30m = 2x60 plus 30 ist gleich 150 minutes.",
+              "frenchString": "2h 30m = 2×60 + 30 = 150 minutes.",
+              "germanString": "2h 30m = 2×60 + 30 = 150 Minuten.",
               "vnString": "2 giờ 30 phút = 2x60 + 30 = 150 phút."
             }
           },
@@ -26191,8 +26191,8 @@
             "id": 169,
             "question": {
               "enString": "Rectangle perimeter 48cm, length 16cm. Width?",
-              "frenchString": "Rectangle perimeter 48cm, length 16cm. Width?",
-              "germanString": "Rectangle perimeter 48cm, length 16cm. Width?",
+              "frenchString": "Périmètre rectangle 48cm, longueur 16cm. Largeur ?",
+              "germanString": "Rechteck Umfang 48cm, Länge 16cm. Breite?",
               "vnString": "Hình chữ nhật chu vi 48cm, chiều dài 16cm. Chiều rộng là?"
             },
             "answers": [
@@ -26229,8 +26229,8 @@
             },
             "hint": {
               "enString": "Width = (48/2) - 16 = 24 - 16 = 8 cm.",
-              "frenchString": "Width = (48/2) - 16 = 24 moins 16 égale 8 cm.",
-              "germanString": "Width = (48/2) - 16 = 24 minus 16 ist gleich 8 cm.",
+              "frenchString": "Width = (48/2) - 16 = 24 - 16 = 8 cm.",
+              "germanString": "Width = (48/2) - 16 = 24 - 16 = 8 cm.",
               "vnString": "Chiều rộng = (48 : 2) - 16 = 24 - 16 = 8 cm."
             }
           },
@@ -26238,8 +26238,8 @@
             "id": 170,
             "question": {
               "enString": "Buy 5 books at 35000 VND each. Total?",
-              "frenchString": "Buy 5 books at 35000 VND each. Total?",
-              "germanString": "Buy 5 books at 35000 VND each. Total?",
+              "frenchString": "Acheter 5 livres à 35000 VND chacun. Total ?",
+              "germanString": "5 Bücher kaufen à 35000 VND. Gesamt?",
               "vnString": "Mua 5 quyển sách, mỗi quyển 35000 đồng. Tổng là?"
             },
             "answers": [
@@ -26276,8 +26276,8 @@
             },
             "hint": {
               "enString": "5 x 35000 = 175,000 VND.",
-              "frenchString": "5 fois 35000 égale 175,000 VND.",
-              "germanString": "5 mal 35000 ist gleich 175,000 VND.",
+              "frenchString": "5 × 35000 = 175.000 VND.",
+              "germanString": "5 × 35000 = 175.000 VND.",
               "vnString": "5 x 35000 = 175000 đồng."
             }
           }
@@ -26329,8 +26329,8 @@
             },
             "hint": {
               "enString": "350 x 12 = 4200.",
-              "frenchString": "350 fois 12 égale 4200.",
-              "germanString": "350 mal 12 ist gleich 4200.",
+              "frenchString": "350 x 12 = 4200.",
+              "germanString": "350 x 12 = 4200.",
               "vnString": "350 nhân 12 bằng 4200."
             }
           },
@@ -26376,8 +26376,8 @@
             },
             "hint": {
               "enString": "5460 / 12 = 455.",
-              "frenchString": "5460 divisé par 12 égale 455.",
-              "germanString": "5460 geteilt durch 12 ist gleich 455.",
+              "frenchString": "5460 / 12 = 455.",
+              "germanString": "5460 / 12 = 455.",
               "vnString": "5460 : 12 = 455."
             }
           },
@@ -26385,8 +26385,8 @@
             "id": 173,
             "question": {
               "enString": "1 ton equals how many kg?",
-              "frenchString": "1 ton equals how many kg?",
-              "germanString": "1 ton equals how many kg?",
+              "frenchString": "1 tonne égale combien de kg ?",
+              "germanString": "1 Tonne entspricht wie vielen kg?",
               "vnString": "1 tấn bằng bao nhiêu kg?"
             },
             "answers": [
@@ -26423,8 +26423,8 @@
             },
             "hint": {
               "enString": "1 ton = 1000 kg.",
-              "frenchString": "1 ton = 1000 kg.",
-              "germanString": "1 ton = 1000 kg.",
+              "frenchString": "1 tonne = 1000 kg.",
+              "germanString": "1 Tonne = 1000 kg.",
               "vnString": "1 tấn = 1000 kg."
             }
           },
@@ -26432,8 +26432,8 @@
             "id": 174,
             "question": {
               "enString": "Trapezoid: large base 24cm, small base 16cm, height 10cm. Area?",
-              "frenchString": "Trapezoid: large base 24cm, small base 16cm, height 10cm. Area?",
-              "germanString": "Trapezoid: large base 24cm, small base 16cm, height 10cm. Area?",
+              "frenchString": "Trapèze : grande base 24cm, petite base 16cm, hauteur 10cm. Aire ?",
+              "germanString": "Trapez: große Basis 24cm, kleine Basis 16cm, Höhe 10cm. Fläche?",
               "vnString": "Hình thang đáy lớn 24cm, đáy nhỏ 16cm, cao 10cm. Diện tích là?"
             },
             "answers": [
@@ -26470,8 +26470,8 @@
             },
             "hint": {
               "enString": "Area = (24+16)x10/2 = 200 cm2.",
-              "frenchString": "Area = (24+16)x10 divisé par 2 égale 200 cm2.",
-              "germanString": "Area = (24+16)x10 geteilt durch 2 ist gleich 200 cm2.",
+              "frenchString": "Area = (24+16)x10/2 = 200 cm2.",
+              "germanString": "Area = (24+16)x10/2 = 200 cm2.",
               "vnString": "Diện tích = (24+16)x10: 2 = 200 cm2."
             }
           },
@@ -26479,8 +26479,8 @@
             "id": 175,
             "question": {
               "enString": "5L bottle, pour 750ml 3 times. How many liters remain?",
-              "frenchString": "5L bottle, pour 750ml 3 times. How many liters remain?",
-              "germanString": "5L bottle, pour 750ml 3 times. How many liters remain?",
+              "frenchString": "Bouteille 5L, verser 750ml 3 fois. Combien de litres restent ?",
+              "germanString": "5L Flasche, 750ml 3-mal ausgießen. Wie viele Liter bleiben?",
               "vnString": "Bình nước 5 lít, rót ra 3 lần, mỗi lần 750 ml. Còn lại bao nhiêu lít?"
             },
             "answers": [
@@ -26517,8 +26517,8 @@
             },
             "hint": {
               "enString": "5000 - 3x750 = 2750 ml = 2.75 liters.",
-              "frenchString": "5000 - 3 fois 750 égale 2750 ml = 2.75 liters.",
-              "germanString": "5000 - 3 mal 750 ist gleich 2750 ml = 2.75 liters.",
+              "frenchString": "5000 - 3x750 = 2750 ml = 2.75 liters.",
+              "germanString": "5000 - 3x750 = 2750 ml = 2.75 liters.",
               "vnString": "5000 - 3x750 = 5000 - 2250 = 2750 ml = 2.75 lít."
             }
           }
@@ -32601,8 +32601,8 @@
             },
             "hint": {
               "enString": "1250 x 16 = 20000.",
-              "frenchString": "1250 fois 16 égale 20000.",
-              "germanString": "1250 mal 16 ist gleich 20000.",
+              "frenchString": "1250 x 16 = 20000.",
+              "germanString": "1250 x 16 = 20000.",
               "vnString": "1250 nhân 16 bằng 20000."
             }
           },
@@ -32648,8 +32648,8 @@
             },
             "hint": {
               "enString": "75600 / 9 = 8400.",
-              "frenchString": "75600 divisé par 9 égale 8400.",
-              "germanString": "75600 geteilt durch 9 ist gleich 8400.",
+              "frenchString": "75600 / 9 = 8400.",
+              "germanString": "75600 / 9 = 8400.",
               "vnString": "75600 : 9 = 8400."
             }
           },
@@ -32695,8 +32695,8 @@
             },
             "hint": {
               "enString": "4 x 200 = 800.",
-              "frenchString": "4 fois 200 égale 800.",
-              "germanString": "4 mal 200 ist gleich 800.",
+              "frenchString": "4 x 200 = 800.",
+              "germanString": "4 x 200 = 800.",
               "vnString": "4 nhân 200 bằng 800."
             }
           },
@@ -32704,8 +32704,8 @@
             "id": 129,
             "question": {
               "enString": "Which fraction is larger: 3/4 or 2/3?",
-              "frenchString": "Which fraction is larger: 3/4 or 2/3?",
-              "germanString": "Which fraction is larger: 3/4 or 2/3?",
+              "frenchString": "Quelle fraction est plus grande : 3/4 ou 2/3 ?",
+              "germanString": "Welcher Bruch ist größer: 3/4 oder 2/3?",
               "vnString": "Phân số nào lớn hơn: 3/4 hay 2/3?"
             },
             "answers": [
@@ -32742,8 +32742,8 @@
             },
             "hint": {
               "enString": "3/4 = 0.75 > 2/3 = 0.667, so 3/4 is larger.",
-              "frenchString": "3 divisé par 4 égale 0.75 > 2 divisé par 3 égale 0.667, so 3/4 is larger.",
-              "germanString": "3 geteilt durch 4 ist gleich 0.75 > 2 geteilt durch 3 ist gleich 0.667, so 3/4 is larger.",
+              "frenchString": "3/4 = 0,75 > 2/3 = 0,667, donc 3/4 est plus grand.",
+              "germanString": "3/4 = 0,75 > 2/3 = 0,667, also ist 3/4 größer.",
               "vnString": "3/4 = 0.75 > 2/3 = 0.667, nên 3/4 lớn hơn."
             }
           },
@@ -32751,8 +32751,8 @@
             "id": 130,
             "question": {
               "enString": "Truck 3200kg, unloads 750kg twice. Remaining?",
-              "frenchString": "Truck 3200kg, unloads 750kg twice. Remaining?",
-              "germanString": "Truck 3200kg, unloads 750kg twice. Remaining?",
+              "frenchString": "Camion 3200kg, décharge 750kg deux fois. Reste ?",
+              "germanString": "LKW 3200kg, lädt 750kg zweimal ab. Rest?",
               "vnString": "Xe tải 3200kg, đổ xuống 2 lần x 750kg. Còn lại?"
             },
             "answers": [
@@ -32789,8 +32789,8 @@
             },
             "hint": {
               "enString": "3200 - 750 - 750 = 1700 kg.",
-              "frenchString": "3200 - 750 moins 750 égale 1700 kg.",
-              "germanString": "3200 - 750 minus 750 ist gleich 1700 kg.",
+              "frenchString": "3200 - 750 - 750 = 1700 kg.",
+              "germanString": "3200 - 750 - 750 = 1700 kg.",
               "vnString": "3200 - 750 trừ 750 bằng 1700 kg."
             }
           }
@@ -32842,8 +32842,8 @@
             },
             "hint": {
               "enString": "225 x 24 = 5400.",
-              "frenchString": "225 fois 24 égale 5400.",
-              "germanString": "225 mal 24 ist gleich 5400.",
+              "frenchString": "225 x 24 = 5400.",
+              "germanString": "225 x 24 = 5400.",
               "vnString": "225 nhân 24 bằng 5400."
             }
           },
@@ -32889,8 +32889,8 @@
             },
             "hint": {
               "enString": "86400 / 12 = 7200.",
-              "frenchString": "86400 divisé par 12 égale 7200.",
-              "germanString": "86400 geteilt durch 12 ist gleich 7200.",
+              "frenchString": "86400 / 12 = 7200.",
+              "germanString": "86400 / 12 = 7200.",
               "vnString": "86400 : 12 = 7200."
             }
           },
@@ -32898,8 +32898,8 @@
             "id": 133,
             "question": {
               "enString": "Perimeter of ABCD: AB=12, CD=8, BC=6, AD=10?",
-              "frenchString": "Perimeter of ABCD: AB=12, CD=8, BC=6, AD=10?",
-              "germanString": "Perimeter of ABCD: AB=12, CD=8, BC=6, AD=10?",
+              "frenchString": "Périmètre de ABCD : AB=12, CD=8, BC=6, AD=10 ?",
+              "germanString": "Umfang von ABCD: AB=12, CD=8, BC=6, AD=10?",
               "vnString": "Chu vi hình thang ABCD: AB=12, CD=8, BC=6, AD=10 là?"
             },
             "answers": [
@@ -32936,8 +32936,8 @@
             },
             "hint": {
               "enString": "12 + 8 + 6 + 10 = 36 cm.",
-              "frenchString": "12 + 8 + 6 plus 10 égale 36 cm.",
-              "germanString": "12 + 8 + 6 plus 10 ist gleich 36 cm.",
+              "frenchString": "12 + 8 + 6 + 10 = 36 cm.",
+              "germanString": "12 + 8 + 6 + 10 = 36 cm.",
               "vnString": "12 + 8 + 6 cộng 10 bằng 36 cm."
             }
           },
@@ -32945,8 +32945,8 @@
             "id": 134,
             "question": {
               "enString": "Value of 3a + 2b when a=5, b=4?",
-              "frenchString": "Value of 3a + 2b when a=5, b=4?",
-              "germanString": "Value of 3a + 2b when a=5, b=4?",
+              "frenchString": "Valeur de 3a + 2b quand a=5, b=4 ?",
+              "germanString": "Wert von 3a + 2b wenn a=5, b=4?",
               "vnString": "Giá trị của 3a + 2b khi a=5 và b=4 là?"
             },
             "answers": [
@@ -32983,8 +32983,8 @@
             },
             "hint": {
               "enString": "3(5) + 2(4) = 15 + 8 = 23.",
-              "frenchString": "3(5) + 2(4) = 15 plus 8 égale 23.",
-              "germanString": "3(5) + 2(4) = 15 plus 8 ist gleich 23.",
+              "frenchString": "3(5) + 2(4) = 15 + 8 = 23.",
+              "germanString": "3(5) + 2(4) = 15 + 8 = 23.",
               "vnString": "3(5) + 2(4) = 15 cộng 8 bằng 23."
             }
           },
@@ -32992,8 +32992,8 @@
             "id": 135,
             "question": {
               "enString": "Tank 4500L, pump 750L/h. When does it empty?",
-              "frenchString": "Tank 4500L, pump 750L/h. When does it empty?",
-              "germanString": "Tank 4500L, pump 750L/h. When does it empty?",
+              "frenchString": "Réservoir 4500L, pompe 750L/h. Quand sera-t-il vide ?",
+              "germanString": "Tank 4500L, Pumpe 750L/h. Wann ist er leer?",
               "vnString": "Bể chứa 4500 lít, bơm ra 750 lít/giờ. Sau mấy giờ cạn?"
             },
             "answers": [
@@ -33030,8 +33030,8 @@
             },
             "hint": {
               "enString": "4500 / 750 = 6 hours.",
-              "frenchString": "4500 divisé par 750 égale 6 hours.",
-              "germanString": "4500 geteilt durch 750 ist gleich 6 hours.",
+              "frenchString": "4500 / 750 = 6 heures.",
+              "germanString": "4500 / 750 = 6 Stunden.",
               "vnString": "4500 : 750 = 6 giờ."
             }
           }
@@ -33083,8 +33083,8 @@
             },
             "hint": {
               "enString": "15 x 15 = 225.",
-              "frenchString": "15 fois 15 égale 225.",
-              "germanString": "15 mal 15 ist gleich 225.",
+              "frenchString": "15 x 15 = 225.",
+              "germanString": "15 x 15 = 225.",
               "vnString": "15 nhân 15 bằng 225."
             }
           },
@@ -33092,8 +33092,8 @@
             "id": 137,
             "question": {
               "enString": "Square root of 196?",
-              "frenchString": "Square root of 196?",
-              "germanString": "Square root of 196?",
+              "frenchString": "Racine carrée de 196 ?",
+              "germanString": "Quadratwurzel von 196?",
               "vnString": "Căn bậc 2 của 196 là?"
             },
             "answers": [
@@ -33130,8 +33130,8 @@
             },
             "hint": {
               "enString": "Square root of 196 = 14 because 14x14=196.",
-              "frenchString": "Square root of 196 = 14 because 14 fois 14 égale 196.",
-              "germanString": "Square root of 196 = 14 because 14 mal 14 ist gleich 196.",
+              "frenchString": "Square root of 196 = 14 because 14x14=196.",
+              "germanString": "Square root of 196 = 14 because 14x14=196.",
               "vnString": "Căn bậc 2 của 196 = 14 vì 14x14=196."
             }
           },
@@ -33139,8 +33139,8 @@
             "id": 138,
             "question": {
               "enString": "Ratio of 45 to 15?",
-              "frenchString": "Ratio of 45 to 15?",
-              "germanString": "Ratio of 45 to 15?",
+              "frenchString": "Rapport de 45 à 15 ?",
+              "germanString": "Verhältnis von 45 zu 15?",
               "vnString": "Tỉ số của 45 và 15 là?"
             },
             "answers": [
@@ -33177,8 +33177,8 @@
             },
             "hint": {
               "enString": "45 / 15 = 3.",
-              "frenchString": "45 divisé par 15 égale 3.",
-              "germanString": "45 geteilt durch 15 ist gleich 3.",
+              "frenchString": "45 / 15 = 3.",
+              "germanString": "45 / 15 = 3.",
               "vnString": "45 : 15 = 3."
             }
           },
@@ -33186,8 +33186,8 @@
             "id": 139,
             "question": {
               "enString": "Trapezoid: 18m and 12m bases, 8m height. Area?",
-              "frenchString": "Trapezoid: 18m and 12m bases, 8m height. Area?",
-              "germanString": "Trapezoid: 18m and 12m bases, 8m height. Area?",
+              "frenchString": "Trapèze : bases 18m et 12m, hauteur 8m. Aire ?",
+              "germanString": "Trapez: Basen 18m und 12m, Höhe 8m. Fläche?",
               "vnString": "Hình thang đáy lớn 18m, đáy nhỏ 12m, cao 8m. Diện tích là?"
             },
             "answers": [
@@ -33224,8 +33224,8 @@
             },
             "hint": {
               "enString": "(18+12) x 8 / 2 = 120 m2.",
-              "frenchString": "(18+12) x 8 divisé par 2 égale 120 m2.",
-              "germanString": "(18+12) x 8 geteilt durch 2 ist gleich 120 m2.",
+              "frenchString": "(18+12) x 8 / 2 = 120 m2.",
+              "germanString": "(18+12) x 8 / 2 = 120 m2.",
               "vnString": "(18+12) x 8 : 2 = 120 m2."
             }
           },
@@ -33233,8 +33233,8 @@
             "id": 140,
             "question": {
               "enString": "Train 12 cars, 48 passengers each. Total?",
-              "frenchString": "Train 12 cars, 48 passengers each. Total?",
-              "germanString": "Train 12 cars, 48 passengers each. Total?",
+              "frenchString": "Train 12 wagons, 48 passagers chacun. Total ?",
+              "germanString": "Zug 12 Wagen, je 48 Passagiere. Gesamt?",
               "vnString": "Đoàn tàu 12 toa, mỗi toa 48 hành khách. Tổng là?"
             },
             "answers": [
@@ -33271,8 +33271,8 @@
             },
             "hint": {
               "enString": "12 x 48 = 576 passengers.",
-              "frenchString": "12 fois 48 égale 576 passengers.",
-              "germanString": "12 mal 48 ist gleich 576 passengers.",
+              "frenchString": "12 × 48 = 576 passagers.",
+              "germanString": "12 × 48 = 576 Passagiere.",
               "vnString": "12 x 48 = 576 hành khách."
             }
           }
@@ -33324,8 +33324,8 @@
             },
             "hint": {
               "enString": "375 x 48 = 18000.",
-              "frenchString": "375 fois 48 égale 18000.",
-              "germanString": "375 mal 48 ist gleich 18000.",
+              "frenchString": "375 x 48 = 18000.",
+              "germanString": "375 x 48 = 18000.",
               "vnString": "375 nhân 48 bằng 18000."
             }
           },
@@ -33371,8 +33371,8 @@
             },
             "hint": {
               "enString": "45360 / 18 = 2520.",
-              "frenchString": "45360 divisé par 18 égale 2520.",
-              "germanString": "45360 geteilt durch 18 ist gleich 2520.",
+              "frenchString": "45360 / 18 = 2520.",
+              "germanString": "45360 / 18 = 2520.",
               "vnString": "45360 : 18 = 2520."
             }
           },
@@ -33380,8 +33380,8 @@
             "id": 143,
             "question": {
               "enString": "Value of digit 8 in 485630?",
-              "frenchString": "Value of digit 8 in 485630?",
-              "germanString": "Value of digit 8 in 485630?",
+              "frenchString": "Valeur du chiffre 8 dans 485630 ?",
+              "germanString": "Wert der Ziffer 8 in 485630?",
               "vnString": "Giá trị chữ số 8 trong 485630 là?"
             },
             "answers": [
@@ -33427,8 +33427,8 @@
             "id": 144,
             "question": {
               "enString": "Find x: x/6 = 42",
-              "frenchString": "Find x: x/6 = 42",
-              "germanString": "Find x: x/6 = 42",
+              "frenchString": "Trouver x : x/6 = 42",
+              "germanString": "Finde x: x/6 = 42",
               "vnString": "Tìm x: x/6 = 42"
             },
             "answers": [
@@ -33465,8 +33465,8 @@
             },
             "hint": {
               "enString": "x = 42 x 6 = 252.",
-              "frenchString": "x = 42 fois 6 égale 252.",
-              "germanString": "x = 42 mal 6 ist gleich 252.",
+              "frenchString": "x = 42 x 6 = 252.",
+              "germanString": "x = 42 x 6 = 252.",
               "vnString": "x = 42 nhân 6 bằng 252."
             }
           },
@@ -33474,8 +33474,8 @@
             "id": 145,
             "question": {
               "enString": "Warehouse 4800 items, shipped 650 items 3 times. Remaining?",
-              "frenchString": "Warehouse 4800 items, shipped 650 items 3 times. Remaining?",
-              "germanString": "Warehouse 4800 items, shipped 650 items 3 times. Remaining?",
+              "frenchString": "Entrepôt 4800 articles, expédié 650 articles 3 fois. Reste ?",
+              "germanString": "Lager 4800 Artikel, 650 Artikel 3-mal versendet. Rest?",
               "vnString": "Kho 4800 sản phẩm, xuất 3 lần x 650 sản phẩm. Còn lại?"
             },
             "answers": [
@@ -33512,8 +33512,8 @@
             },
             "hint": {
               "enString": "4800 - 3x650 = 4800 - 1950 = 2850.",
-              "frenchString": "4800 - 3 fois 650 égale 4800 moins 1950 égale 2850.",
-              "germanString": "4800 - 3 mal 650 ist gleich 4800 minus 1950 ist gleich 2850.",
+              "frenchString": "4800 - 3x650 = 4800 - 1950 = 2850.",
+              "germanString": "4800 - 3x650 = 4800 - 1950 = 2850.",
               "vnString": "4800 - 3x650 = 4800 trừ 1950 bằng 2850."
             }
           }
@@ -33527,8 +33527,8 @@
             "id": 146,
             "question": {
               "enString": "2 to the power 10 = ?",
-              "frenchString": "2 to the power 10 = ?",
-              "germanString": "2 to the power 10 = ?",
+              "frenchString": "2 puissance 10 = ?",
+              "germanString": "2 hoch 10 = ?",
               "vnString": "2 mũ 10 = ?"
             },
             "answers": [
@@ -33574,8 +33574,8 @@
             "id": 147,
             "question": {
               "enString": "Area of circle radius 7cm (pi=3.14)?",
-              "frenchString": "Area of circle radius 7cm (pi=3.14)?",
-              "germanString": "Area of circle radius 7cm (pi=3.14)?",
+              "frenchString": "Aire du cercle rayon 7cm (pi=3,14) ?",
+              "germanString": "Fläche des Kreises Radius 7cm (pi=3,14)?",
               "vnString": "Diện tích hình tròn bán kính 7cm (pi=3.14) là?"
             },
             "answers": [
@@ -33612,8 +33612,8 @@
             },
             "hint": {
               "enString": "S = 3.14 x 49 = 153.86 cm2.",
-              "frenchString": "S = 3.14 fois 49 égale 153.86 cm2.",
-              "germanString": "S = 3.14 mal 49 ist gleich 153.86 cm2.",
+              "frenchString": "S = 3.14 x 49 = 153.86 cm2.",
+              "germanString": "S = 3.14 x 49 = 153.86 cm2.",
               "vnString": "S = 3.14 nhân 49 bằng 153.86 cm2."
             }
           },
@@ -33621,8 +33621,8 @@
             "id": 148,
             "question": {
               "enString": "Car travels 360km in 6 hours. Average speed?",
-              "frenchString": "Car travels 360km in 6 hours. Average speed?",
-              "germanString": "Car travels 360km in 6 hours. Average speed?",
+              "frenchString": "Voiture parcourt 360km en 6 heures. Vitesse moyenne ?",
+              "germanString": "Auto fährt 360km in 6 Stunden. Durchschnittsgeschwindigkeit?",
               "vnString": "Xe đi 360km trong 6 giờ. Tốc độ trung bình là?"
             },
             "answers": [
@@ -33659,8 +33659,8 @@
             },
             "hint": {
               "enString": "360 / 6 = 60 km/h.",
-              "frenchString": "360 divisé par 6 égale 60 km/h.",
-              "germanString": "360 geteilt durch 6 ist gleich 60 km/h.",
+              "frenchString": "360 / 6 = 60 km/h.",
+              "germanString": "360 / 6 = 60 km/h.",
               "vnString": "360 : 6 = 60 km/h."
             }
           },
@@ -33668,8 +33668,8 @@
             "id": 149,
             "question": {
               "enString": "Trapezoid height 15cm, large base = 2x small base = 24cm. Area?",
-              "frenchString": "Trapezoid height 15cm, large base = 2x small base = 24cm. Area?",
-              "germanString": "Trapezoid height 15cm, large base = 2x small base = 24cm. Area?",
+              "frenchString": "Trapèze hauteur 15cm, grande base = 2× petite base = 24cm. Aire ?",
+              "germanString": "Trapez Höhe 15cm, große Basis = 2× kleine Basis = 24cm. Fläche?",
               "vnString": "Hình thang cao 15cm, đáy lớn bằng 2 lần đáy nhỏ = 24cm. Diện tích là?"
             },
             "answers": [
@@ -33706,8 +33706,8 @@
             },
             "hint": {
               "enString": "Small base = 12cm. S = (24+12)x15/2 = 270 cm2.",
-              "frenchString": "Small base = 12cm. S = (24+12)x15 divisé par 2 égale 270 cm2.",
-              "germanString": "Small base = 12cm. S = (24+12)x15 geteilt durch 2 ist gleich 270 cm2.",
+              "frenchString": "Small base = 12cm. S = (24+12)x15/2 = 270 cm2.",
+              "germanString": "Small base = 12cm. S = (24+12)x15/2 = 270 cm2.",
               "vnString": "Đáy nhỏ = 12cm. S = (24+12)x15:2 = 270 cm2."
             }
           },
@@ -33715,8 +33715,8 @@
             "id": 150,
             "question": {
               "enString": "Profit selling 500 items: buy 40000d, sell 52000d each?",
-              "frenchString": "Profit selling 500 items: buy 40000d, sell 52000d each?",
-              "germanString": "Profit selling 500 items: buy 40000d, sell 52000d each?",
+              "frenchString": "Bénéfice vente 500 articles : achat 40000đ, vente 52000đ chacun ?",
+              "germanString": "Gewinn bei 500 Artikeln: Einkauf 40000đ, Verkauf 52000đ?",
               "vnString": "Lợi nhuận khi bán 500 sản phẩm: mua 40000đ, bán 52000đ/cái?"
             },
             "answers": [
@@ -33753,8 +33753,8 @@
             },
             "hint": {
               "enString": "(52000-40000) x 500 = 12000 x 500 = 6,000,000 VND.",
-              "frenchString": "(52000-40000) x 500 = 12000 fois 500 égale 6,000,000 VND.",
-              "germanString": "(52000-40000) x 500 = 12000 mal 500 ist gleich 6,000,000 VND.",
+              "frenchString": "(52000-40000) × 500 = 12000 × 500 = 6.000.000 VND.",
+              "germanString": "(52000-40000) × 500 = 12000 × 500 = 6.000.000 VND.",
               "vnString": "(52000-40000) x 500 = 12000 x 500 = 6000000 đồng."
             }
           }
@@ -33806,8 +33806,8 @@
             },
             "hint": {
               "enString": "1/3 + 1/4 = 4/12 + 3/12 = 7/12.",
-              "frenchString": "1/3 + 1 divisé par 4 égale 4/12 + 3 divisé par 12 égale 7/12.",
-              "germanString": "1/3 + 1 geteilt durch 4 ist gleich 4/12 + 3 geteilt durch 12 ist gleich 7/12.",
+              "frenchString": "1/3 + 1/4 = 4/12 + 3/12 = 7/12.",
+              "germanString": "1/3 + 1/4 = 4/12 + 3/12 = 7/12.",
               "vnString": "1/3 + 1/4 = 4/12 + 3/12 = 7/12."
             }
           },
@@ -33853,8 +33853,8 @@
             },
             "hint": {
               "enString": "5/6 - 1/4 = 10/12 - 3/12 = 7/12.",
-              "frenchString": "5/6 - 1 divisé par 4 égale 10/12 - 3 divisé par 12 égale 7/12.",
-              "germanString": "5/6 - 1 geteilt durch 4 ist gleich 10/12 - 3 geteilt durch 12 ist gleich 7/12.",
+              "frenchString": "5/6 - 1/4 = 10/12 - 3/12 = 7/12.",
+              "germanString": "5/6 - 1/4 = 10/12 - 3/12 = 7/12.",
               "vnString": "5/6 - 1/4 = 10/12 - 3/12 = 7/12."
             }
           },
@@ -33862,8 +33862,8 @@
             "id": 153,
             "question": {
               "enString": "GCD of 48 and 72?",
-              "frenchString": "GCD of 48 and 72?",
-              "germanString": "GCD of 48 and 72?",
+              "frenchString": "PGCD de 48 et 72 ?",
+              "germanString": "GGT von 48 und 72?",
               "vnString": "GCD (UCLN) của 48 và 72 là?"
             },
             "answers": [
@@ -33909,8 +33909,8 @@
             "id": 154,
             "question": {
               "enString": "LCM of 6 and 8?",
-              "frenchString": "LCM of 6 and 8?",
-              "germanString": "LCM of 6 and 8?",
+              "frenchString": "PPCM de 6 et 8 ?",
+              "germanString": "KGV von 6 und 8?",
               "vnString": "LCM (BCNN) của 6 và 8 là?"
             },
             "answers": [
@@ -33956,8 +33956,8 @@
             "id": 155,
             "question": {
               "enString": "City B is 15% more than city A (2,500,000). Population of B?",
-              "frenchString": "City B is 15% more than city A (2,500,000). Population of B?",
-              "germanString": "City B is 15% more than city A (2,500,000). Population of B?",
+              "frenchString": "Ville B est 15% de plus que ville A (2.500.000). Population de B ?",
+              "germanString": "Stadt B ist 15% mehr als Stadt A (2.500.000). Bevölkerung von B?",
               "vnString": "Dân số TP B hơn TP A (2500000 người) 15%. Dân số B là?"
             },
             "answers": [
@@ -33994,8 +33994,8 @@
             },
             "hint": {
               "enString": "2,500,000 x 1.15 = 2,875,000.",
-              "frenchString": "2,500,000 fois 1.15 égale 2,875,000.",
-              "germanString": "2,500,000 mal 1.15 ist gleich 2,875,000.",
+              "frenchString": "2,500,000 x 1.15 = 2,875,000.",
+              "germanString": "2,500,000 x 1.15 = 2,875,000.",
               "vnString": "2500000 x 1.15 = 2875000."
             }
           }
@@ -34047,8 +34047,8 @@
             },
             "hint": {
               "enString": "3/8 x 4 = 12/8 = 3/2.",
-              "frenchString": "3/8 fois 4 égale 12 divisé par 8 égale 3/2.",
-              "germanString": "3/8 mal 4 ist gleich 12 geteilt durch 8 ist gleich 3/2.",
+              "frenchString": "3/8 x 4 = 12/8 = 3/2.",
+              "germanString": "3/8 x 4 = 12/8 = 3/2.",
               "vnString": "3/8 nhân 4 bằng 12/8 = 3/2."
             }
           },
@@ -34094,8 +34094,8 @@
             },
             "hint": {
               "enString": "5/6 / 5 = 5/6 x 1/5 = 1/6.",
-              "frenchString": "5/6 divisé par 5 égale 5/6 x 1 divisé par 5 égale 1/6.",
-              "germanString": "5/6 geteilt durch 5 ist gleich 5/6 x 1 geteilt durch 5 ist gleich 1/6.",
+              "frenchString": "5/6 / 5 = 5/6 x 1/5 = 1/6.",
+              "germanString": "5/6 / 5 = 5/6 x 1/5 = 1/6.",
               "vnString": "5/6 : 5 = 5/6 x 1/5 = 1/6."
             }
           },
@@ -34103,8 +34103,8 @@
             "id": 158,
             "question": {
               "enString": "Which is an obtuse angle?",
-              "frenchString": "Which is an obtuse angle?",
-              "germanString": "Which is an obtuse angle?",
+              "frenchString": "Quel est un angle obtus ?",
+              "germanString": "Welcher ist ein stumpfer Winkel?",
               "vnString": "Góc nào là góc tù?"
             },
             "answers": [
@@ -34150,8 +34150,8 @@
             "id": 159,
             "question": {
               "enString": "Volume of cube with side 5cm?",
-              "frenchString": "Volume of cube with side 5cm?",
-              "germanString": "Volume of cube with side 5cm?",
+              "frenchString": "Volume du cube de côté 5cm ?",
+              "germanString": "Volumen des Würfels mit Seite 5cm?",
               "vnString": "Thể tích hình lập phương cạnh 5cm là?"
             },
             "answers": [
@@ -34197,8 +34197,8 @@
             "id": 160,
             "question": {
               "enString": "Salary 8M VND, increase 12%. New salary?",
-              "frenchString": "Salary 8M VND, increase 12%. New salary?",
-              "germanString": "Salary 8M VND, increase 12%. New salary?",
+              "frenchString": "Salaire 8M VND, augmentation 12%. Nouveau salaire ?",
+              "germanString": "Gehalt 8M VND, Erhöhung 12%. Neues Gehalt?",
               "vnString": "Lương 8 triệu, tăng 12%. Lương mới là?"
             },
             "answers": [
@@ -34235,8 +34235,8 @@
             },
             "hint": {
               "enString": "8 x 1.12 = 8.96 million VND.",
-              "frenchString": "8 fois 1.12 égale 8.96 million VND.",
-              "germanString": "8 mal 1.12 ist gleich 8.96 million VND.",
+              "frenchString": "8 x 1.12 = 8.96 millions VND.",
+              "germanString": "8 x 1.12 = 8.96 Millionen VND.",
               "vnString": "8 x 1.12 = 8.96 triệu."
             }
           }
@@ -34288,8 +34288,8 @@
             },
             "hint": {
               "enString": "2/3 x 3/4 = 6/12 = 1/2.",
-              "frenchString": "2/3 x 3 divisé par 4 égale 6/12 = 1/2.",
-              "germanString": "2/3 x 3 geteilt durch 4 ist gleich 6/12 = 1/2.",
+              "frenchString": "2/3 x 3/4 = 6/12 = 1/2.",
+              "germanString": "2/3 x 3/4 = 6/12 = 1/2.",
               "vnString": "2/3 x 3/4 = 6/12 = 1/2."
             }
           },
@@ -34335,8 +34335,8 @@
             },
             "hint": {
               "enString": "7/8 / (7/4) = 7/8 x 4/7 = 4/8 = 1/2.",
-              "frenchString": "7/8 / (7/4) = 7/8 x 4 divisé par 7 égale 4/8 = 1/2.",
-              "germanString": "7/8 / (7/4) = 7/8 x 4 geteilt durch 7 ist gleich 4/8 = 1/2.",
+              "frenchString": "7/8 / (7/4) = 7/8 x 4/7 = 4/8 = 1/2.",
+              "germanString": "7/8 / (7/4) = 7/8 x 4/7 = 4/8 = 1/2.",
               "vnString": "7/8 : 7/4 = 7/8 x 4/7 = 4/8 = 1/2."
             }
           },
@@ -34344,8 +34344,8 @@
             "id": 163,
             "question": {
               "enString": "What percentage is 90 of 360?",
-              "frenchString": "What percentage is 90 of 360?",
-              "germanString": "What percentage is 90 of 360?",
+              "frenchString": "Quel pourcentage est 90 de 360 ?",
+              "germanString": "Wie viel Prozent ist 90 von 360?",
               "vnString": "90 là bao nhiêu % của 360?"
             },
             "answers": [
@@ -34382,8 +34382,8 @@
             },
             "hint": {
               "enString": "90 / 360 = 0.25 = 25%.",
-              "frenchString": "90 divisé par 360 égale 0.25 = 25%.",
-              "germanString": "90 geteilt durch 360 ist gleich 0.25 = 25%.",
+              "frenchString": "90 / 360 = 0.25 = 25%.",
+              "germanString": "90 / 360 = 0.25 = 25%.",
               "vnString": "90 : 360 = 0.25 = 25%."
             }
           },
@@ -34391,8 +34391,8 @@
             "id": 164,
             "question": {
               "enString": "Circumference of circle, diameter 14cm (pi=3.14)?",
-              "frenchString": "Circumference of circle, diameter 14cm (pi=3.14)?",
-              "germanString": "Circumference of circle, diameter 14cm (pi=3.14)?",
+              "frenchString": "Circonférence du cercle, diamètre 14cm (pi=3,14) ?",
+              "germanString": "Umfang des Kreises, Durchmesser 14cm (pi=3,14)?",
               "vnString": "Chu vi hình tròn đường kính  14cm (pi=3.14) là?"
             },
             "answers": [
@@ -34429,8 +34429,8 @@
             },
             "hint": {
               "enString": "C = 3.14 x 14 = 43.96 cm.",
-              "frenchString": "C = 3.14 fois 14 égale 43.96 cm.",
-              "germanString": "C = 3.14 mal 14 ist gleich 43.96 cm.",
+              "frenchString": "C = 3.14 x 14 = 43.96 cm.",
+              "germanString": "C = 3.14 x 14 = 43.96 cm.",
               "vnString": "C = 3.14 nhân 14 bằng 43.96 cm."
             }
           },
@@ -34438,8 +34438,8 @@
             "id": 165,
             "question": {
               "enString": "Buy 500 items at 40000d, sell at 52000d. Profit?",
-              "frenchString": "Buy 500 items at 40000d, sell at 52000d. Profit?",
-              "germanString": "Buy 500 items at 40000d, sell at 52000d. Profit?",
+              "frenchString": "Acheter 500 articles à 40000đ, vendre à 52000đ. Bénéfice ?",
+              "germanString": "500 Artikel kaufen à 40000đ, verkaufen à 52000đ. Gewinn?",
               "vnString": "Mua 500 cái giá 40000đ, bán 52000đ/cái. Lợi nhuận là?"
             },
             "answers": [
@@ -34476,8 +34476,8 @@
             },
             "hint": {
               "enString": "(52000-40000)x500 = 6,000,000 VND.",
-              "frenchString": "(52000-40000)x500 = 6,000,000 VND.",
-              "germanString": "(52000-40000)x500 = 6,000,000 VND.",
+              "frenchString": "(52000-40000)×500 = 6.000.000 VND.",
+              "germanString": "(52000-40000)×500 = 6.000.000 VND.",
               "vnString": "(52000-40000)x500 = 6000000 đồng."
             }
           }
@@ -34529,8 +34529,8 @@
             },
             "hint": {
               "enString": "4/5 + 2/3 = 12/15 + 10/15 = 22/15.",
-              "frenchString": "4/5 + 2 divisé par 3 égale 12/15 + 10 divisé par 15 égale 22/15.",
-              "germanString": "4/5 + 2 geteilt durch 3 ist gleich 12/15 + 10 geteilt durch 15 ist gleich 22/15.",
+              "frenchString": "4/5 + 2/3 = 12/15 + 10/15 = 22/15.",
+              "germanString": "4/5 + 2/3 = 12/15 + 10/15 = 22/15.",
               "vnString": "4/5 + 2/3 = 12/15 + 10/15 = 22/15."
             }
           },
@@ -34538,8 +34538,8 @@
             "id": 167,
             "question": {
               "enString": "Which is a prime number?",
-              "frenchString": "Which is a prime number?",
-              "germanString": "Which is a prime number?",
+              "frenchString": "Quel est un nombre premier ?",
+              "germanString": "Welche ist eine Primzahl?",
               "vnString": "Số nào là số nguyên tố?"
             },
             "answers": [
@@ -34585,8 +34585,8 @@
             "id": 168,
             "question": {
               "enString": "Volume of rectangular box 8x5x4 cm?",
-              "frenchString": "Volume of rectangular box 8x5x4 cm?",
-              "germanString": "Volume of rectangular box 8x5x4 cm?",
+              "frenchString": "Volume de la boîte rectangulaire 8×5×4 cm ?",
+              "germanString": "Volumen der Rechteckbox 8×5×4 cm?",
               "vnString": "Thể tích hình hộp chữ nhật 8x5x4 cm là?"
             },
             "answers": [
@@ -34623,8 +34623,8 @@
             },
             "hint": {
               "enString": "V = 8 x 5 x 4 = 160 cm3.",
-              "frenchString": "V = 8 x 5 fois 4 égale 160 cm3.",
-              "germanString": "V = 8 x 5 mal 4 ist gleich 160 cm3.",
+              "frenchString": "V = 8 x 5 x 4 = 160 cm3.",
+              "germanString": "V = 8 x 5 x 4 = 160 cm3.",
               "vnString": "V = 8 x 5 nhân 4 bằng 160 cm3."
             }
           },
@@ -34632,8 +34632,8 @@
             "id": 169,
             "question": {
               "enString": "Airplane 850km/h for 4.5 hours. Distance?",
-              "frenchString": "Airplane 850km/h for 4.5 hours. Distance?",
-              "germanString": "Airplane 850km/h for 4.5 hours. Distance?",
+              "frenchString": "Avion 850km/h pendant 4,5 heures. Distance ?",
+              "germanString": "Flugzeug 850km/h für 4,5 Stunden. Entfernung?",
               "vnString": "Máy bay 850km/h. Bay 4.5 giờ được bao nhiêu km?"
             },
             "answers": [
@@ -34670,8 +34670,8 @@
             },
             "hint": {
               "enString": "850 x 4.5 = 3825 km.",
-              "frenchString": "850 fois 4.5 égale 3825 km.",
-              "germanString": "850 mal 4.5 ist gleich 3825 km.",
+              "frenchString": "850 x 4.5 = 3825 km.",
+              "germanString": "850 x 4.5 = 3825 km.",
               "vnString": "850 x 4.5 = 3825 km."
             }
           },
@@ -34679,8 +34679,8 @@
             "id": 170,
             "question": {
               "enString": "Sum of 5 consecutive naturals starting from 11?",
-              "frenchString": "Sum of 5 consecutive naturals starting from 11?",
-              "germanString": "Sum of 5 consecutive naturals starting from 11?",
+              "frenchString": "Somme de 5 entiers consécutifs à partir de 11 ?",
+              "germanString": "Summe von 5 aufeinanderfolgenden natürlichen Zahlen ab 11?",
               "vnString": "Tổng 5 số tự nhiên liên tiếp bắt đầu từ 11 là?"
             },
             "answers": [
@@ -34717,8 +34717,8 @@
             },
             "hint": {
               "enString": "11+12+13+14+15 = 65.",
-              "frenchString": "11+12+13+14 plus 15 égale 65.",
-              "germanString": "11+12+13+14 plus 15 ist gleich 65.",
+              "frenchString": "11+12+13+14+15 = 65.",
+              "germanString": "11+12+13+14+15 = 65.",
               "vnString": "11+12+13+14+15 = 65."
             }
           }
@@ -34770,8 +34770,8 @@
             },
             "hint": {
               "enString": "5/7 x 14/15 = 70/105 = 2/3.",
-              "frenchString": "5/7 x 14 divisé par 15 égale 70/105 = 2/3.",
-              "germanString": "5/7 x 14 geteilt durch 15 ist gleich 70/105 = 2/3.",
+              "frenchString": "5/7 x 14/15 = 70/105 = 2/3.",
+              "germanString": "5/7 x 14/15 = 70/105 = 2/3.",
               "vnString": "5/7 x 14/15 = 70/105 = 2/3."
             }
           },
@@ -34779,8 +34779,8 @@
             "id": 172,
             "question": {
               "enString": "Find x: 3x - 15 = 48",
-              "frenchString": "Find x: 3x - 15 = 48",
-              "germanString": "Find x: 3x - 15 = 48",
+              "frenchString": "Trouver x : 3x - 15 = 48",
+              "germanString": "Finde x: 3x - 15 = 48",
               "vnString": "Tìm x: 3x - 15 = 48"
             },
             "answers": [
@@ -34817,8 +34817,8 @@
             },
             "hint": {
               "enString": "3x = 48 + 15 = 63; x = 63/3 = 21.",
-              "frenchString": "3x = 48 plus 15 égale 63; x = 63 divisé par 3 égale 21.",
-              "germanString": "3x = 48 plus 15 ist gleich 63; x = 63 geteilt durch 3 ist gleich 21.",
+              "frenchString": "3x = 48 + 15 = 63; x = 63/3 = 21.",
+              "germanString": "3x = 48 + 15 = 63; x = 63/3 = 21.",
               "vnString": "3x = 48 + 15 = 63; x = 63:3 = 21."
             }
           },
@@ -34826,8 +34826,8 @@
             "id": 173,
             "question": {
               "enString": "Map scale 1:500. 6cm on map = how many cm in reality?",
-              "frenchString": "Map scale 1:500. 6cm on map = how many cm in reality?",
-              "germanString": "Map scale 1:500. 6cm on map = how many cm in reality?",
+              "frenchString": "Échelle carte 1:500. 6cm sur carte = combien cm en réalité ?",
+              "germanString": "Kartenmaßstab 1:500. 6cm auf Karte = wie viele cm real?",
               "vnString": "Bản đồ tỉ lệ 1:500. 6 cm trên bản đồ bằng bao nhiêu cm thực tế?"
             },
             "answers": [
@@ -34864,8 +34864,8 @@
             },
             "hint": {
               "enString": "6 x 500 = 3000 cm = 30 m.",
-              "frenchString": "6 fois 500 égale 3000 cm = 30 m.",
-              "germanString": "6 mal 500 ist gleich 3000 cm = 30 m.",
+              "frenchString": "6 x 500 = 3000 cm = 30 m.",
+              "germanString": "6 x 500 = 3000 cm = 30 m.",
               "vnString": "6 nhân 500 bằng 3000 cm = 30 m."
             }
           },
@@ -34873,8 +34873,8 @@
             "id": 174,
             "question": {
               "enString": "Triangular prism: base 24cm2, height 10cm. Volume?",
-              "frenchString": "Triangular prism: base 24cm2, height 10cm. Volume?",
-              "germanString": "Triangular prism: base 24cm2, height 10cm. Volume?",
+              "frenchString": "Prisme triangulaire : base 24cm², hauteur 10cm. Volume ?",
+              "germanString": "Dreiecksprisma: Basis 24cm², Höhe 10cm. Volumen?",
               "vnString": "Lăng trụ tam giác đáy 24cm2, cao 10cm. Thể tích là?"
             },
             "answers": [
@@ -34911,8 +34911,8 @@
             },
             "hint": {
               "enString": "V = 24 x 10 = 240 cm3.",
-              "frenchString": "V = 24 fois 10 égale 240 cm3.",
-              "germanString": "V = 24 mal 10 ist gleich 240 cm3.",
+              "frenchString": "V = 24 x 10 = 240 cm3.",
+              "germanString": "V = 24 x 10 = 240 cm3.",
               "vnString": "V = 24 nhân 10 bằng 240 cm3."
             }
           },
@@ -34920,8 +34920,8 @@
             "id": 175,
             "question": {
               "enString": "Save 10M VND, 6%/year simple interest. Interest after 3 years?",
-              "frenchString": "Save 10M VND, 6%/year simple interest. Interest after 3 years?",
-              "germanString": "Save 10M VND, 6%/year simple interest. Interest after 3 years?",
+              "frenchString": "Épargne 10M VND, intérêt simple 6%/an. Intérêt après 3 ans ?",
+              "germanString": "Sparen 10M VND, 6%/Jahr einfache Zinsen. Zinsen nach 3 Jahren?",
               "vnString": "Tiết kiệm 10 triệu, lãi 6%/năm, lãi đơn. Sau 3 năm lãi là?"
             },
             "answers": [
@@ -34958,8 +34958,8 @@
             },
             "hint": {
               "enString": "Interest = 10 x 6% x 3 = 1.8 million VND.",
-              "frenchString": "Interest = 10 x 6% x 3 = 1.8 million VND.",
-              "germanString": "Interest = 10 x 6% x 3 = 1.8 million VND.",
+              "frenchString": "Interest = 10 x 6% x 3 = 1.8 millions VND.",
+              "germanString": "Interest = 10 x 6% x 3 = 1.8 Millionen VND.",
               "vnString": "Lãi = 10 x 6% x 3 = 1.8 triệu."
             }
           }
@@ -43452,8 +43452,8 @@
             },
             "hint": {
               "enString": "3.75 + 2.48 = 6.23.",
-              "frenchString": "3.75 plus 2.48 égale 6.23.",
-              "germanString": "3.75 plus 2.48 ist gleich 6.23.",
+              "frenchString": "3.75 + 2.48 = 6.23.",
+              "germanString": "3.75 + 2.48 = 6.23.",
               "vnString": "3.75 + 2.48 = 6.23."
             }
           },
@@ -43499,8 +43499,8 @@
             },
             "hint": {
               "enString": "8.5 - 3.76 = 4.74.",
-              "frenchString": "8.5 moins 3.76 égale 4.74.",
-              "germanString": "8.5 minus 3.76 ist gleich 4.74.",
+              "frenchString": "8.5 - 3.76 = 4.74.",
+              "germanString": "8.5 - 3.76 = 4.74.",
               "vnString": "8.5 - 3.76 = 4.74."
             }
           },
@@ -43546,8 +43546,8 @@
             },
             "hint": {
               "enString": "1.25 x 8 = 10.",
-              "frenchString": "1.25 fois 8 égale 10.",
-              "germanString": "1.25 mal 8 ist gleich 10.",
+              "frenchString": "1.25 x 8 = 10.",
+              "germanString": "1.25 x 8 = 10.",
               "vnString": "1.25 nhân 8 bằng 10."
             }
           },
@@ -43593,8 +43593,8 @@
             },
             "hint": {
               "enString": "7.2 / 0.9 = 8.",
-              "frenchString": "7.2 divisé par 0.9 égale 8.",
-              "germanString": "7.2 geteilt durch 0.9 ist gleich 8.",
+              "frenchString": "7.2 / 0.9 = 8.",
+              "germanString": "7.2 / 0.9 = 8.",
               "vnString": "7.2 : 0.9 = 8."
             }
           },
@@ -43602,8 +43602,8 @@
             "id": 180,
             "question": {
               "enString": "Trapezoid: 7.5m and 4.5m bases, 6m height. Area?",
-              "frenchString": "Trapezoid: 7.5m and 4.5m bases, 6m height. Area?",
-              "germanString": "Trapezoid: 7.5m and 4.5m bases, 6m height. Area?",
+              "frenchString": "Trapèze : bases 7,5m et 4,5m, hauteur 6m. Aire ?",
+              "germanString": "Trapez: Basen 7,5m und 4,5m, Höhe 6m. Fläche?",
               "vnString": "Hình thang đáy lớn 7.5m, đáy nhỏ 4.5m, cao 6m. Diện tích là?"
             },
             "answers": [
@@ -43640,8 +43640,8 @@
             },
             "hint": {
               "enString": "(7.5+4.5)x6/2 = 12x6/2 = 36 m2.",
-              "frenchString": "(7.5+4.5)x6 divisé par 2 égale 12x6 divisé par 2 égale 36 m2.",
-              "germanString": "(7.5+4.5)x6 geteilt durch 2 ist gleich 12x6 geteilt durch 2 ist gleich 36 m2.",
+              "frenchString": "(7.5+4.5)x6/2 = 12x6/2 = 36 m2.",
+              "germanString": "(7.5+4.5)x6/2 = 12x6/2 = 36 m2.",
               "vnString": "(7.5+4.5)x6:2 = 12x6:2 = 36 m2."
             }
           }
@@ -43693,8 +43693,8 @@
             },
             "hint": {
               "enString": "0.375 x 24 = 9.",
-              "frenchString": "0.375 fois 24 égale 9.",
-              "germanString": "0.375 mal 24 ist gleich 9.",
+              "frenchString": "0.375 x 24 = 9.",
+              "germanString": "0.375 x 24 = 9.",
               "vnString": "0.375 nhân 24 bằng 9."
             }
           },
@@ -43740,8 +43740,8 @@
             },
             "hint": {
               "enString": "12.6 / 0.6 = 21.",
-              "frenchString": "12.6 divisé par 0.6 égale 21.",
-              "germanString": "12.6 geteilt durch 0.6 ist gleich 21.",
+              "frenchString": "12.6 / 0.6 = 21.",
+              "germanString": "12.6 / 0.6 = 21.",
               "vnString": "12.6 : 0.6 = 21."
             }
           },
@@ -43749,8 +43749,8 @@
             "id": 183,
             "question": {
               "enString": "Circumference of circle radius 5cm (pi=3.14)?",
-              "frenchString": "Circumference of circle radius 5cm (pi=3.14)?",
-              "germanString": "Circumference of circle radius 5cm (pi=3.14)?",
+              "frenchString": "Circonférence du cercle rayon 5cm (pi=3,14) ?",
+              "germanString": "Umfang des Kreises Radius 5cm (pi=3,14)?",
               "vnString": "Chu vi hình tròn bán kính 5cm (pi=3.14) là?"
             },
             "answers": [
@@ -43787,8 +43787,8 @@
             },
             "hint": {
               "enString": "C = 2 x 3.14 x 5 = 31.4 cm.",
-              "frenchString": "C = 2 x 3.14 fois 5 égale 31.4 cm.",
-              "germanString": "C = 2 x 3.14 mal 5 ist gleich 31.4 cm.",
+              "frenchString": "C = 2 x 3.14 x 5 = 31.4 cm.",
+              "germanString": "C = 2 x 3.14 x 5 = 31.4 cm.",
               "vnString": "C = 2 x 3.14 nhân 5 bằng 31.4 cm."
             }
           },
@@ -43796,8 +43796,8 @@
             "id": 184,
             "question": {
               "enString": "What percentage is 3/8?",
-              "frenchString": "What percentage is 3/8?",
-              "germanString": "What percentage is 3/8?",
+              "frenchString": "Quel pourcentage est 3/8 ?",
+              "germanString": "Wie viel Prozent ist 3/8?",
               "vnString": "Phần trăm của 3/8 là bao nhiêu?"
             },
             "answers": [
@@ -43834,8 +43834,8 @@
             },
             "hint": {
               "enString": "3/8 = 0.375 = 37.5%.",
-              "frenchString": "3 divisé par 8 égale 0.375 = 37.5%.",
-              "germanString": "3 geteilt durch 8 ist gleich 0.375 = 37.5%.",
+              "frenchString": "3/8 = 0.375 = 37.5%.",
+              "germanString": "3/8 = 0.375 = 37.5%.",
               "vnString": "3/8 = 0.375 = 37.5%."
             }
           },
@@ -43843,8 +43843,8 @@
             "id": 185,
             "question": {
               "enString": "Car uses 15L for 180km. How many liters for 300km?",
-              "frenchString": "Car uses 15L for 180km. How many liters for 300km?",
-              "germanString": "Car uses 15L for 180km. How many liters for 300km?",
+              "frenchString": "Voiture utilise 15L pour 180km. Combien de litres pour 300km ?",
+              "germanString": "Auto braucht 15L für 180km. Wie viele Liter für 300km?",
               "vnString": "Ô tô đi 180 km dùng 15 lít xăng. Đi 300 km cần bao nhiêu lít?"
             },
             "answers": [
@@ -43881,8 +43881,8 @@
             },
             "hint": {
               "enString": "300 x 15 / 180 = 25 liters.",
-              "frenchString": "300 x 15 divisé par 180 égale 25 liters.",
-              "germanString": "300 x 15 geteilt durch 180 ist gleich 25 liters.",
+              "frenchString": "300 x 15 / 180 = 25 liters.",
+              "germanString": "300 x 15 / 180 = 25 liters.",
               "vnString": "300 x 15 : 180 = 25 lít."
             }
           }
@@ -43934,8 +43934,8 @@
             },
             "hint": {
               "enString": "2.5 x 2.5 = 6.25.",
-              "frenchString": "2.5 fois 2.5 égale 6.25.",
-              "germanString": "2.5 mal 2.5 ist gleich 6.25.",
+              "frenchString": "2.5 x 2.5 = 6.25.",
+              "germanString": "2.5 x 2.5 = 6.25.",
               "vnString": "2.5 x 2.5 = 6.25."
             }
           },
@@ -43943,8 +43943,8 @@
             "id": 187,
             "question": {
               "enString": "Square root of 1.44?",
-              "frenchString": "Square root of 1.44?",
-              "germanString": "Square root of 1.44?",
+              "frenchString": "Racine carrée de 1,44 ?",
+              "germanString": "Quadratwurzel von 1,44?",
               "vnString": "Căn bậc 2 của 1.44 là?"
             },
             "answers": [
@@ -43981,8 +43981,8 @@
             },
             "hint": {
               "enString": "sqrt(1.44) = 1.2 because 1.2 x 1.2 = 1.44.",
-              "frenchString": "sqrt(1.44) = 1.2 because 1.2 fois 1.2 égale 1.44.",
-              "germanString": "sqrt(1.44) = 1.2 because 1.2 mal 1.2 ist gleich 1.44.",
+              "frenchString": "sqrt(1.44) = 1.2 because 1.2 x 1.2 = 1.44.",
+              "germanString": "sqrt(1.44) = 1.2 because 1.2 x 1.2 = 1.44.",
               "vnString": "Căn(1.44) = 1.2 vì 1.2 x 1.2 = 1.44."
             }
           },
@@ -43990,8 +43990,8 @@
             "id": 188,
             "question": {
               "enString": "Area of circle radius 6cm (pi=3.14)?",
-              "frenchString": "Area of circle radius 6cm (pi=3.14)?",
-              "germanString": "Area of circle radius 6cm (pi=3.14)?",
+              "frenchString": "Aire du cercle rayon 6cm (pi=3,14) ?",
+              "germanString": "Fläche des Kreises Radius 6cm (pi=3,14)?",
               "vnString": "Diện tích hình tròn bán kính 6cm (pi=3.14) là?"
             },
             "answers": [
@@ -44028,8 +44028,8 @@
             },
             "hint": {
               "enString": "S = 3.14 x 36 = 113.04 cm2.",
-              "frenchString": "S = 3.14 fois 36 égale 113.04 cm2.",
-              "germanString": "S = 3.14 mal 36 ist gleich 113.04 cm2.",
+              "frenchString": "S = 3.14 x 36 = 113.04 cm2.",
+              "germanString": "S = 3.14 x 36 = 113.04 cm2.",
               "vnString": "S = 3.14 nhân 36 bằng 113.04 cm2."
             }
           },
@@ -44037,8 +44037,8 @@
             "id": 189,
             "question": {
               "enString": "Convert 4500g to kg?",
-              "frenchString": "Convert 4500g to kg?",
-              "germanString": "Convert 4500g to kg?",
+              "frenchString": "Convertir 4500g en kg ?",
+              "germanString": "4500g in kg umrechnen?",
               "vnString": "Đổi 4500g ra kg?"
             },
             "answers": [
@@ -44084,8 +44084,8 @@
             "id": 190,
             "question": {
               "enString": "Square side 4.5cm. Area?",
-              "frenchString": "Square side 4.5cm. Area?",
-              "germanString": "Square side 4.5cm. Area?",
+              "frenchString": "Carré côté 4,5cm. Aire ?",
+              "germanString": "Quadrat Seite 4,5cm. Fläche?",
               "vnString": "Cạnh hình vuông 4.5cm. Diện tích là?"
             },
             "answers": [
@@ -44122,8 +44122,8 @@
             },
             "hint": {
               "enString": "4.5 x 4.5 = 20.25 cm2.",
-              "frenchString": "4.5 fois 4.5 égale 20.25 cm2.",
-              "germanString": "4.5 mal 4.5 ist gleich 20.25 cm2.",
+              "frenchString": "4.5 x 4.5 = 20.25 cm2.",
+              "germanString": "4.5 x 4.5 = 20.25 cm2.",
               "vnString": "4.5 x 4.5 = 20.25 cm2."
             }
           }
@@ -44175,8 +44175,8 @@
             },
             "hint": {
               "enString": "5/6 x 3/10 = 15/60 = 1/4.",
-              "frenchString": "5/6 x 3 divisé par 10 égale 15/60 = 1/4.",
-              "germanString": "5/6 x 3 geteilt durch 10 ist gleich 15/60 = 1/4.",
+              "frenchString": "5/6 x 3/10 = 15/60 = 1/4.",
+              "germanString": "5/6 x 3/10 = 15/60 = 1/4.",
               "vnString": "5/6 x 3/10 = 15/60 = 1/4."
             }
           },
@@ -44222,8 +44222,8 @@
             },
             "hint": {
               "enString": "(4/9) / (8/27) = 4/9 x 27/8 = 108/72 = 3/2.",
-              "frenchString": "(4/9) / (8/27) = 4/9 x 27 divisé par 8 égale 108/72 = 3/2.",
-              "germanString": "(4/9) / (8/27) = 4/9 x 27 geteilt durch 8 ist gleich 108/72 = 3/2.",
+              "frenchString": "(4/9) / (8/27) = 4/9 x 27/8 = 108/72 = 3/2.",
+              "germanString": "(4/9) / (8/27) = 4/9 x 27/8 = 108/72 = 3/2.",
               "vnString": "4/9 : 8/27 = 4/9 x 27/8 = 108/72 = 3/2."
             }
           },
@@ -44231,8 +44231,8 @@
             "id": 193,
             "question": {
               "enString": "48 is what % of 64?",
-              "frenchString": "48 is what % of 64?",
-              "germanString": "48 is what % of 64?",
+              "frenchString": "48 est quel % de 64 ?",
+              "germanString": "48 ist wie viel % von 64?",
               "vnString": "Tỉ số phần trăm của 48 so với 64 là?"
             },
             "answers": [
@@ -44269,8 +44269,8 @@
             },
             "hint": {
               "enString": "48/64 = 0.75 = 75%.",
-              "frenchString": "48 divisé par 64 égale 0.75 = 75%.",
-              "germanString": "48 geteilt durch 64 ist gleich 0.75 = 75%.",
+              "frenchString": "48/64 = 0.75 = 75%.",
+              "germanString": "48/64 = 0.75 = 75%.",
               "vnString": "48/64 = 0.75 = 75%."
             }
           },
@@ -44278,8 +44278,8 @@
             "id": 194,
             "question": {
               "enString": "Rectangular garden 12.5m x 8.4m. Area?",
-              "frenchString": "Rectangular garden 12.5m x 8.4m. Area?",
-              "germanString": "Rectangular garden 12.5m x 8.4m. Area?",
+              "frenchString": "Jardin rectangulaire 12,5m × 8,4m. Aire ?",
+              "germanString": "Rechteckiger Garten 12,5m × 8,4m. Fläche?",
               "vnString": "Mảnh vườn chữ nhật 12,5 m × 8,4 m. Diện tích là?"
             },
             "answers": [
@@ -44316,8 +44316,8 @@
             },
             "hint": {
               "enString": "12.5 x 8.4 = 105 m2.",
-              "frenchString": "12.5 fois 8.4 égale 105 m2.",
-              "germanString": "12.5 mal 8.4 ist gleich 105 m2.",
+              "frenchString": "12.5 x 8.4 = 105 m2.",
+              "germanString": "12.5 x 8.4 = 105 m2.",
               "vnString": "12.5 x 8.4 = 105 m2."
             }
           },
@@ -44325,8 +44325,8 @@
             "id": 195,
             "question": {
               "enString": "Factory makes 1200 products/day. 5 days total?",
-              "frenchString": "Factory makes 1200 products/day. 5 days total?",
-              "germanString": "Factory makes 1200 products/day. 5 days total?",
+              "frenchString": "Usine produit 1200 articles/jour. 5 jours total ?",
+              "germanString": "Fabrik produziert 1200 Produkte/Tag. 5 Tage gesamt?",
               "vnString": "Nhà máy sản xuất 1200 sản phẩm/ngày. 5 ngày sản xuất được?"
             },
             "answers": [
@@ -44363,8 +44363,8 @@
             },
             "hint": {
               "enString": "1200 x 5 = 6000 products.",
-              "frenchString": "1200 fois 5 égale 6000 products.",
-              "germanString": "1200 mal 5 ist gleich 6000 products.",
+              "frenchString": "1200 × 5 = 6000 produits.",
+              "germanString": "1200 × 5 = 6000 Produkte.",
               "vnString": "1200 x 5 = 6000 sản phẩm."
             }
           }
@@ -44416,8 +44416,8 @@
             },
             "hint": {
               "enString": "3.14 x 16 = 50.24.",
-              "frenchString": "3.14 fois 16 égale 50.24.",
-              "germanString": "3.14 mal 16 ist gleich 50.24.",
+              "frenchString": "3.14 x 16 = 50.24.",
+              "germanString": "3.14 x 16 = 50.24.",
               "vnString": "3.14 nhân 16 bằng 50.24."
             }
           },
@@ -44463,8 +44463,8 @@
             },
             "hint": {
               "enString": "6.5 x 0.04 = 0.26.",
-              "frenchString": "6.5 fois 0.04 égale 0.26.",
-              "germanString": "6.5 mal 0.04 ist gleich 0.26.",
+              "frenchString": "6.5 x 0.04 = 0.26.",
+              "germanString": "6.5 x 0.04 = 0.26.",
               "vnString": "6.5 x 0.04 = 0.26."
             }
           },
@@ -44472,8 +44472,8 @@
             "id": 198,
             "question": {
               "enString": "Convert 2.45km to meters?",
-              "frenchString": "Convert 2.45km to meters?",
-              "germanString": "Convert 2.45km to meters?",
+              "frenchString": "Convertir 2,45km en mètres ?",
+              "germanString": "2,45km in Meter umrechnen?",
               "vnString": "Đổi 2.45km ra mét là?"
             },
             "answers": [
@@ -44510,8 +44510,8 @@
             },
             "hint": {
               "enString": "2.45 x 1000 = 2450 m.",
-              "frenchString": "2.45 fois 1000 égale 2450 m.",
-              "germanString": "2.45 mal 1000 ist gleich 2450 m.",
+              "frenchString": "2.45 x 1000 = 2450 m.",
+              "germanString": "2.45 x 1000 = 2450 m.",
               "vnString": "2.45 nhân 1000 bằng 2450 m."
             }
           },
@@ -44519,8 +44519,8 @@
             "id": 199,
             "question": {
               "enString": "Cylinder radius 5cm, height 12cm (V=pi x r2 x h). Volume?",
-              "frenchString": "Cylinder radius 5cm, height 12cm (V=pi x r2 x h). Volume?",
-              "germanString": "Cylinder radius 5cm, height 12cm (V=pi x r2 x h). Volume?",
+              "frenchString": "Cylindre rayon 5cm, hauteur 12cm (V=π×r²×h). Volume ?",
+              "germanString": "Zylinder Radius 5cm, Höhe 12cm (V=π×r²×h). Volumen?",
               "vnString": "Hình trụ bán kính 5cm, cao 12cm (V = π × r² × h). Thể tích là?"
             },
             "answers": [
@@ -44557,8 +44557,8 @@
             },
             "hint": {
               "enString": "V = 3.14 x 25 x 12 = 942 cm3.",
-              "frenchString": "V = 3.14 x 25 fois 12 égale 942 cm3.",
-              "germanString": "V = 3.14 x 25 mal 12 ist gleich 942 cm3.",
+              "frenchString": "V = 3.14 x 25 x 12 = 942 cm3.",
+              "germanString": "V = 3.14 x 25 x 12 = 942 cm3.",
               "vnString": "V = 3.14 x 25 nhân 12 bằng 942 cm3."
             }
           },
@@ -44566,8 +44566,8 @@
             "id": 200,
             "question": {
               "enString": "Stock price from 45500 to 52300. Percentage increase?",
-              "frenchString": "Stock price from 45500 to 52300. Percentage increase?",
-              "germanString": "Stock price from 45500 to 52300. Percentage increase?",
+              "frenchString": "Prix action de 45500 à 52300. Pourcentage augmentation ?",
+              "germanString": "Aktienkurs von 45500 auf 52300. Prozentuale Steigerung?",
               "vnString": "Giá cổ phiếu từ 45500 tăng lên 52300. Tỉ lệ tăng là?"
             },
             "answers": [
@@ -44604,8 +44604,8 @@
             },
             "hint": {
               "enString": "(52300-45500)/45500 x 100 approx 15%.",
-              "frenchString": "(52300-45500)/45500 x 100 approx 15%.",
-              "germanString": "(52300-45500)/45500 x 100 approx 15%.",
+              "frenchString": "(52300-45500)/45500 × 100 ≈ 15%.",
+              "germanString": "(52300-45500)/45500 × 100 ≈ 15%.",
               "vnString": "(52300-45500)/45500 x 100 = 14.95% xấp xỉ 15%."
             }
           }
@@ -44657,8 +44657,8 @@
             },
             "hint": {
               "enString": "0.125 x 64 = 8.",
-              "frenchString": "0.125 fois 64 égale 8.",
-              "germanString": "0.125 mal 64 ist gleich 8.",
+              "frenchString": "0.125 x 64 = 8.",
+              "germanString": "0.125 x 64 = 8.",
               "vnString": "0.125 nhân 64 bằng 8."
             }
           },
@@ -44704,8 +44704,8 @@
             },
             "hint": {
               "enString": "4.5 + 0.75 = 5.25.",
-              "frenchString": "4.5 plus 0.75 égale 5.25.",
-              "germanString": "4.5 plus 0.75 ist gleich 5.25.",
+              "frenchString": "4.5 + 0.75 = 5.25.",
+              "germanString": "4.5 + 0.75 = 5.25.",
               "vnString": "4.5 + 0.75 = 5.25."
             }
           },
@@ -44713,8 +44713,8 @@
             "id": 203,
             "question": {
               "enString": "Triangle with sides 5cm, 12cm, 13cm. What type?",
-              "frenchString": "Triangle with sides 5cm, 12cm, 13cm. What type?",
-              "germanString": "Triangle with sides 5cm, 12cm, 13cm. What type?",
+              "frenchString": "Triangle côtés 5cm, 12cm, 13cm. Quel type ?",
+              "germanString": "Dreieck mit Seiten 5cm, 12cm, 13cm. Welcher Typ?",
               "vnString": "Tam giác 3 cạnh 5cm, 12cm, 13cm là loại tam giác gì?"
             },
             "answers": [
@@ -44760,8 +44760,8 @@
             "id": 204,
             "question": {
               "enString": "Class 5A has 32 students. 87.5% remain. How many?",
-              "frenchString": "Class 5A has 32 students. 87.5% remain. How many?",
-              "germanString": "Class 5A has 32 students. 87.5% remain. How many?",
+              "frenchString": "Classe 5A a 32 élèves. 87,5% restent. Combien ?",
+              "germanString": "Klasse 5A hat 32 Schüler. 87,5% bleiben. Wie viele?",
               "vnString": "Lớp 5A có 32 học sinh. Còn lại 87.5%. Số học sinh còn là?"
             },
             "answers": [
@@ -44798,8 +44798,8 @@
             },
             "hint": {
               "enString": "32 x 0.875 = 28.",
-              "frenchString": "32 fois 0.875 égale 28.",
-              "germanString": "32 mal 0.875 ist gleich 28.",
+              "frenchString": "32 x 0.875 = 28.",
+              "germanString": "32 x 0.875 = 28.",
               "vnString": "32 x 0.875 = 28."
             }
           },
@@ -44807,8 +44807,8 @@
             "id": 205,
             "question": {
               "enString": "Revenue 450M VND, increases 20%. New revenue?",
-              "frenchString": "Revenue 450M VND, increases 20%. New revenue?",
-              "germanString": "Revenue 450M VND, increases 20%. New revenue?",
+              "frenchString": "Revenu 450M VND, augmente 20%. Nouveau revenu ?",
+              "germanString": "Umsatz 450M VND, steigt 20%. Neuer Umsatz?",
               "vnString": "Doanh thu 450 triệu, tăng 20%. Doanh thu mới là?"
             },
             "answers": [
@@ -44845,8 +44845,8 @@
             },
             "hint": {
               "enString": "450 x 1.20 = 540 million VND.",
-              "frenchString": "450 fois 1.20 égale 540 million VND.",
-              "germanString": "450 mal 1.20 ist gleich 540 million VND.",
+              "frenchString": "450 × 1,20 = 540 millions VND.",
+              "germanString": "450 × 1,20 = 540 Millionen VND.",
               "vnString": "450 x 1.20 = 540 triệu."
             }
           }
@@ -44898,8 +44898,8 @@
             },
             "hint": {
               "enString": "840 x 0.15 = 126.",
-              "frenchString": "840 fois 0.15 égale 126.",
-              "germanString": "840 mal 0.15 ist gleich 126.",
+              "frenchString": "840 x 0.15 = 126.",
+              "germanString": "840 x 0.15 = 126.",
               "vnString": "840 x 0.15 = 126."
             }
           },
@@ -44945,8 +44945,8 @@
             },
             "hint": {
               "enString": "2.4 x 1.5 = 3.6; 3.6 x 0.5 = 1.8.",
-              "frenchString": "2.4 fois 1.5 égale 3.6; 3.6 fois 0.5 égale 1.8.",
-              "germanString": "2.4 mal 1.5 ist gleich 3.6; 3.6 mal 0.5 ist gleich 1.8.",
+              "frenchString": "2.4 x 1.5 = 3.6; 3.6 x 0.5 = 1.8.",
+              "germanString": "2.4 x 1.5 = 3.6; 3.6 x 0.5 = 1.8.",
               "vnString": "2.4 x 1.5 = 3.6; 3.6 x 0.5 = 1.8."
             }
           },
@@ -44954,8 +44954,8 @@
             "id": 208,
             "question": {
               "enString": "Convert 3 hours 45 minutes to seconds?",
-              "frenchString": "Convert 3 hours 45 minutes to seconds?",
-              "germanString": "Convert 3 hours 45 minutes to seconds?",
+              "frenchString": "Convertir 3 heures 45 minutes en secondes ?",
+              "germanString": "3 Stunden 45 Minuten in Sekunden umrechnen?",
               "vnString": "Đổi 3 giờ 45 phút ra giây là bao nhiêu?"
             },
             "answers": [
@@ -44992,8 +44992,8 @@
             },
             "hint": {
               "enString": "3h 45min = 225 min = 225 x 60 = 13500 seconds.",
-              "frenchString": "3h 45min = 225 min = 225 fois 60 égale 13500 seconds.",
-              "germanString": "3h 45min = 225 min = 225 mal 60 ist gleich 13500 seconds.",
+              "frenchString": "3h 45min = 225 min = 225 × 60 = 13500 secondes.",
+              "germanString": "3h 45min = 225 min = 225 × 60 = 13500 Sekunden.",
               "vnString": "3 giờ 45 phút = 225 phút = 225 × 60 = 13500 giây."
             }
           },
@@ -45001,8 +45001,8 @@
             "id": 209,
             "question": {
               "enString": "Cone radius 7cm, height 24cm. Volume (V=1/3 x pi x r2 x h)?",
-              "frenchString": "Cone radius 7cm, height 24cm. Volume (V=1/3 x pi x r2 x h)?",
-              "germanString": "Cone radius 7cm, height 24cm. Volume (V=1/3 x pi x r2 x h)?",
+              "frenchString": "Cône rayon 7cm, hauteur 24cm. Volume (V=1/3×π×r²×h) ?",
+              "germanString": "Kegel Radius 7cm, Höhe 24cm. Volumen (V=1/3×π×r²×h)?",
               "vnString": "Hình nón bán kính 7cm, cao 24cm (V=1/3 x pi x r2 x h). Thể tích là?"
             },
             "answers": [
@@ -45039,8 +45039,8 @@
             },
             "hint": {
               "enString": "V = 1/3 x 3.14 x 49 x 24 = 1230.56 cm3.",
-              "frenchString": "V = 1/3 x 3.14 x 49 fois 24 égale 1230.56 cm3.",
-              "germanString": "V = 1/3 x 3.14 x 49 mal 24 ist gleich 1230.56 cm3.",
+              "frenchString": "V = 1/3 x 3.14 x 49 x 24 = 1230.56 cm3.",
+              "germanString": "V = 1/3 x 3.14 x 49 x 24 = 1230.56 cm3.",
               "vnString": "V = 1/3 x 3.14 x 49 nhân 24 bằng 1230.56 cm3."
             }
           },
@@ -45048,8 +45048,8 @@
             "id": 210,
             "question": {
               "enString": "Boat downstream 12km/h, current 3km/h. 60km takes how long?",
-              "frenchString": "Boat downstream 12km/h, current 3km/h. 60km takes how long?",
-              "germanString": "Boat downstream 12km/h, current 3km/h. 60km takes how long?",
+              "frenchString": "Bateau aval 12km/h, courant 3km/h. 60km prend combien de temps ?",
+              "germanString": "Boot flussabwärts 12km/h, Strömung 3km/h. 60km dauert wie lange?",
               "vnString": "Thuyền xuôi dòng 12 km/h, sông chảy 3 km/h. Đi 60 km mất bao lâu?"
             },
             "answers": [
@@ -45086,8 +45086,8 @@
             },
             "hint": {
               "enString": "Downstream speed = 12+3 = 15 km/h. T = 60/15 = 4 hours.",
-              "frenchString": "Downstream speed = 12 plus 3 égale 15 km/h. T = 60 divisé par 15 égale 4 hours.",
-              "germanString": "Downstream speed = 12 plus 3 ist gleich 15 km/h. T = 60 geteilt durch 15 ist gleich 4 hours.",
+              "frenchString": "Downstream speed = 12+3 = 15 km/h. T = 60/15 = 4 heures.",
+              "germanString": "Downstream speed = 12+3 = 15 km/h. T = 60/15 = 4 Stunden.",
               "vnString": "Tốc độ xuôi dòng = 12 + 3 = 15 km/h. T = 60 : 15 = 4 giờ."
             }
           }
@@ -45139,8 +45139,8 @@
             },
             "hint": {
               "enString": "7/12 + 5/8 = 14/24 + 15/24 = 29/24.",
-              "frenchString": "7/12 + 5 divisé par 8 égale 14/24 + 15 divisé par 24 égale 29/24.",
-              "germanString": "7/12 + 5 geteilt durch 8 ist gleich 14/24 + 15 geteilt durch 24 ist gleich 29/24.",
+              "frenchString": "7/12 + 5/8 = 14/24 + 15/24 = 29/24.",
+              "germanString": "7/12 + 5/8 = 14/24 + 15/24 = 29/24.",
               "vnString": "7/12 + 5/8 = 14/24 + 15/24 = 29/24."
             }
           },
@@ -45195,8 +45195,8 @@
             "id": 213,
             "question": {
               "enString": "60% of a number is 84. The number is?",
-              "frenchString": "60% of a number is 84. The number is?",
-              "germanString": "60% of a number is 84. The number is?",
+              "frenchString": "60% d'un nombre est 84. Le nombre est ?",
+              "germanString": "60% einer Zahl ist 84. Die Zahl ist?",
               "vnString": "60% của một số là 84. Số đó là?"
             },
             "answers": [
@@ -45233,8 +45233,8 @@
             },
             "hint": {
               "enString": "The number = 84 / 0.6 = 140.",
-              "frenchString": "The number = 84 divisé par 0.6 égale 140.",
-              "germanString": "The number = 84 geteilt durch 0.6 ist gleich 140.",
+              "frenchString": "The number = 84 / 0.6 = 140.",
+              "germanString": "The number = 84 / 0.6 = 140.",
               "vnString": "Số đó = 84 : 0.6 = 140."
             }
           },
@@ -45242,8 +45242,8 @@
             "id": 214,
             "question": {
               "enString": "Class 40 students, 18 excellent. Percentage?",
-              "frenchString": "Class 40 students, 18 excellent. Percentage?",
-              "germanString": "Class 40 students, 18 excellent. Percentage?",
+              "frenchString": "Classe 40 élèves, 18 excellents. Pourcentage ?",
+              "germanString": "Klasse 40 Schüler, 18 ausgezeichnet. Prozent?",
               "vnString": "Lớp học 40 em, có 18 em giỏi. Phần trăm học sinh giỏi là?"
             },
             "answers": [
@@ -45289,8 +45289,8 @@
             "id": 215,
             "question": {
               "enString": "Compound: 5M VND, 8%/year. Total after 2 years?",
-              "frenchString": "Compound: 5M VND, 8%/year. Total after 2 years?",
-              "germanString": "Compound: 5M VND, 8%/year. Total after 2 years?",
+              "frenchString": "Intérêt composé : 5M VND, 8%/an. Total après 2 ans ?",
+              "germanString": "Zinseszins: 5M VND, 8%/Jahr. Gesamt nach 2 Jahren?",
               "vnString": "Lãi kép: gửi 5 triệu, lãi suất 8%/năm. Sau 2 năm tổng tiền là?"
             },
             "answers": [
@@ -45327,8 +45327,8 @@
             },
             "hint": {
               "enString": "5 x (1.08)^2 = 5 x 1.1664 = 5.832 approx 5.83 million VND.",
-              "frenchString": "5 x (1.08)^2 = 5 fois 1.1664 égale 5.832 approx 5.83 million VND.",
-              "germanString": "5 x (1.08)^2 = 5 mal 1.1664 ist gleich 5.832 approx 5.83 million VND.",
+              "frenchString": "5 × (1,08)² = 5 × 1,1664 = 5,832 ≈ 5,83 millions VND.",
+              "germanString": "5 × (1,08)² = 5 × 1,1664 = 5,832 ≈ 5,83 Millionen VND.",
               "vnString": "5 x (1.08)^2 = 5 x 1.1664 = 5.832 xấp xỉ 5.83 triệu."
             }
           }
@@ -45380,8 +45380,8 @@
             },
             "hint": {
               "enString": "1.8 x (2.5 + 0.5) = 1.8 x 3 = 5.4.",
-              "frenchString": "1.8 x (2.5 + 0.5) = 1.8 fois 3 égale 5.4.",
-              "germanString": "1.8 x (2.5 + 0.5) = 1.8 mal 3 ist gleich 5.4.",
+              "frenchString": "1.8 x (2.5 + 0.5) = 1.8 x 3 = 5.4.",
+              "germanString": "1.8 x (2.5 + 0.5) = 1.8 x 3 = 5.4.",
               "vnString": "1.8 x (2.5 + 0.5) = 1.8 nhân 3 bằng 5.4."
             }
           },
@@ -45389,8 +45389,8 @@
             "id": 217,
             "question": {
               "enString": "Convert 0.005 ton to grams?",
-              "frenchString": "Convert 0.005 ton to grams?",
-              "germanString": "Convert 0.005 ton to grams?",
+              "frenchString": "Convertir 0,005 tonne en grammes ?",
+              "germanString": "0,005 Tonnen in Gramm umrechnen?",
               "vnString": "Đổi 0.005 tấn ra gam là bao nhiêu?"
             },
             "answers": [
@@ -45427,8 +45427,8 @@
             },
             "hint": {
               "enString": "0.005 ton = 0.005 x 1,000,000 = 5,000 grams.",
-              "frenchString": "0.005 ton = 0.005 x 1,000,000 = 5,000 grams.",
-              "germanString": "0.005 ton = 0.005 x 1,000,000 = 5,000 grams.",
+              "frenchString": "0,005 tonne = 0,005 × 1.000.000 = 5.000 grammes.",
+              "germanString": "0,005 Tonne = 0,005 × 1.000.000 = 5.000 Gramm.",
               "vnString": "0.005 tấn = 0.005 x 1000000 = 5000 gam."
             }
           },
@@ -45436,8 +45436,8 @@
             "id": 218,
             "question": {
               "enString": "Find x: 2x + 3.5 = 10.5",
-              "frenchString": "Find x: 2x + 3.5 = 10.5",
-              "germanString": "Find x: 2x + 3.5 = 10.5",
+              "frenchString": "Trouver x : 2x + 3,5 = 10,5",
+              "germanString": "Finde x: 2x + 3,5 = 10,5",
               "vnString": "Tìm x: 2x + 3.5 = 10.5"
             },
             "answers": [
@@ -45474,8 +45474,8 @@
             },
             "hint": {
               "enString": "2x = 10.5 - 3.5 = 7; x = 7/2 = 3.5.",
-              "frenchString": "2x = 10.5 moins 3.5 égale 7; x = 7 divisé par 2 égale 3.5.",
-              "germanString": "2x = 10.5 minus 3.5 ist gleich 7; x = 7 geteilt durch 2 ist gleich 3.5.",
+              "frenchString": "2x = 10.5 - 3.5 = 7; x = 7/2 = 3.5.",
+              "germanString": "2x = 10.5 - 3.5 = 7; x = 7/2 = 3.5.",
               "vnString": "2x = 10.5 - 3.5 = 7; x = 7:2 = 3.5."
             }
           },
@@ -45483,8 +45483,8 @@
             "id": 219,
             "question": {
               "enString": "Total surface area of cube with side 4cm?",
-              "frenchString": "Total surface area of cube with side 4cm?",
-              "germanString": "Total surface area of cube with side 4cm?",
+              "frenchString": "Surface totale du cube de côté 4cm ?",
+              "germanString": "Gesamtoberfläche des Würfels mit Seite 4cm?",
               "vnString": "Tổng diện tích mặt ngoài hình lập phương cạnh 4 cm là?"
             },
             "answers": [
@@ -45521,8 +45521,8 @@
             },
             "hint": {
               "enString": "6 x 4^2 = 6 x 16 = 96 cm2.",
-              "frenchString": "6 x 4^2 = 6 fois 16 égale 96 cm2.",
-              "germanString": "6 x 4^2 = 6 mal 16 ist gleich 96 cm2.",
+              "frenchString": "6 x 4^2 = 6 x 16 = 96 cm2.",
+              "germanString": "6 x 4^2 = 6 x 16 = 96 cm2.",
               "vnString": "6 x 4^2 = 6 nhân 16 bằng 96 cm2."
             }
           },
@@ -45530,8 +45530,8 @@
             "id": 220,
             "question": {
               "enString": "Object falls from 80m. t = sqrt(2h/g), g=10. t = ?",
-              "frenchString": "Object falls from 80m. t = sqrt(2h/g), g=10. t = ?",
-              "germanString": "Object falls from 80m. t = sqrt(2h/g), g=10. t = ?",
+              "frenchString": "Objet tombe de 80m. t = √(2h/g), g=10. t = ?",
+              "germanString": "Objekt fällt von 80m. t = √(2h/g), g=10. t = ?",
               "vnString": "Vật rơi tự do cao 80m. t = căn(2h/g) với g=10. t bằng?"
             },
             "answers": [
@@ -45568,8 +45568,8 @@
             },
             "hint": {
               "enString": "t = sqrt(2x80/10) = sqrt(16) = 4 seconds.",
-              "frenchString": "t = sqrt(2x80/10) = sqrt(16) = 4 seconds.",
-              "germanString": "t = sqrt(2x80/10) = sqrt(16) = 4 seconds.",
+              "frenchString": "t = sqrt(2x80/10) = sqrt(16) = 4 secondes.",
+              "germanString": "t = sqrt(2x80/10) = sqrt(16) = 4 Sekunden.",
               "vnString": "t = căn(2x80/10) = căn(16) = 4 giây."
             }
           }
@@ -45621,8 +45621,8 @@
             },
             "hint": {
               "enString": "99 x 101 = (100-1)(100+1) = 10000 - 1 = 9999.",
-              "frenchString": "99 x 101 = (100-1)(100+1) = 10000 moins 1 égale 9999.",
-              "germanString": "99 x 101 = (100-1)(100+1) = 10000 minus 1 ist gleich 9999.",
+              "frenchString": "99 x 101 = (100-1)(100+1) = 10000 - 1 = 9999.",
+              "germanString": "99 x 101 = (100-1)(100+1) = 10000 - 1 = 9999.",
               "vnString": "99 x 101 = (100-1)(100+1) = 10000 trừ 1 bằng 9999."
             }
           },
@@ -45668,8 +45668,8 @@
             },
             "hint": {
               "enString": "0.25 x 0.04 = 0.01.",
-              "frenchString": "0.25 fois 0.04 égale 0.01.",
-              "germanString": "0.25 mal 0.04 ist gleich 0.01.",
+              "frenchString": "0.25 x 0.04 = 0.01.",
+              "germanString": "0.25 x 0.04 = 0.01.",
               "vnString": "0.25 x 0.04 = 0.01."
             }
           },
@@ -45677,8 +45677,8 @@
             "id": 223,
             "question": {
               "enString": "Square pyramid: base 10x10cm, height 12cm (V=1/3xSxh). Volume?",
-              "frenchString": "Square pyramid: base 10x10cm, height 12cm (V=1/3xSxh). Volume?",
-              "germanString": "Square pyramid: base 10x10cm, height 12cm (V=1/3xSxh). Volume?",
+              "frenchString": "Pyramide carrée : base 10×10cm, hauteur 12cm (V=1/3×S×h). Volume ?",
+              "germanString": "Quadratische Pyramide: Basis 10×10cm, Höhe 12cm (V=1/3×S×h). Volumen?",
               "vnString": "Hình chóp vuông đáy 10 × 10 cm, cao 12 cm (V = 1/3 × S × h). Thể tích là?"
             },
             "answers": [
@@ -45715,8 +45715,8 @@
             },
             "hint": {
               "enString": "V = 1/3 x 100 x 12 = 400 cm3.",
-              "frenchString": "V = 1/3 x 100 fois 12 égale 400 cm3.",
-              "germanString": "V = 1/3 x 100 mal 12 ist gleich 400 cm3.",
+              "frenchString": "V = 1/3 x 100 x 12 = 400 cm3.",
+              "germanString": "V = 1/3 x 100 x 12 = 400 cm3.",
               "vnString": "V = 1/3 x 100 nhân 12 bằng 400 cm3."
             }
           },
@@ -45724,8 +45724,8 @@
             "id": 224,
             "question": {
               "enString": "Boat upstream 48km in 4 hours. Current 3km/h. Still water speed?",
-              "frenchString": "Boat upstream 48km in 4 hours. Current 3km/h. Still water speed?",
-              "germanString": "Boat upstream 48km in 4 hours. Current 3km/h. Still water speed?",
+              "frenchString": "Bateau amont 48km en 4 heures. Courant 3km/h. Vitesse eau calme ?",
+              "germanString": "Boot flussaufwärts 48km in 4 Stunden. Strömung 3km/h. Geschwindigkeit im ruhigen Wasser?",
               "vnString": "Thuyền ngược dòng đi 48 km mất 4 giờ. Dòng chảy 3 km/h. Tốc độ trong nước yên là?"
             },
             "answers": [
@@ -45762,8 +45762,8 @@
             },
             "hint": {
               "enString": "Upstream speed = 48/4 = 12 km/h. Still water = 12 + 3 = 15 km/h.",
-              "frenchString": "Upstream speed = 48 divisé par 4 égale 12 km/h. Still water = 12 plus 3 égale 15 km/h.",
-              "germanString": "Upstream speed = 48 geteilt durch 4 ist gleich 12 km/h. Still water = 12 plus 3 ist gleich 15 km/h.",
+              "frenchString": "Upstream speed = 48/4 = 12 km/h. Still water = 12 + 3 = 15 km/h.",
+              "germanString": "Upstream speed = 48/4 = 12 km/h. Still water = 12 + 3 = 15 km/h.",
               "vnString": "Tốc độ ngược dòng = 48 : 4 = 12 km/h. Tốc độ trong nước yên = 12 + 3 = 15 km/h."
             }
           },
@@ -45771,8 +45771,8 @@
             "id": 225,
             "question": {
               "enString": "% increase formula: (new-old)/old x 100. From 80 to 92, % increase?",
-              "frenchString": "% increase formula: (new-old)/old x 100. From 80 to 92, % increase?",
-              "germanString": "% increase formula: (new-old)/old x 100. From 80 to 92, % increase?",
+              "frenchString": "Formule % augmentation : (nouveau-ancien)/ancien × 100. De 80 à 92, % augmentation ?",
+              "germanString": "% Steigerungsformel: (neu-alt)/alt × 100. Von 80 auf 92, % Steigerung?",
               "vnString": "Công thức tính phần trăm tăng: (mới − cũ) / cũ × 100. Từ 80 lên 92, tăng bao nhiêu %?"
             },
             "answers": [
@@ -45809,8 +45809,8 @@
             },
             "hint": {
               "enString": "(92-80)/80 x 100 = 12/80 x 100 = 15%.",
-              "frenchString": "(92-80)/80 fois 100 égale 12/80 fois 100 égale 15%.",
-              "germanString": "(92-80)/80 mal 100 ist gleich 12/80 mal 100 ist gleich 15%.",
+              "frenchString": "(92-80)/80 x 100 = 12/80 x 100 = 15%.",
+              "germanString": "(92-80)/80 x 100 = 12/80 x 100 = 15%.",
               "vnString": "(92-80)/80 nhân 100 bằng 12/80 nhân 100 bằng 15%."
             }
           }
