@@ -32945,8 +32945,8 @@
             "id": 134,
             "question": {
               "enString": "Value of 3a + 2b when a=5, b=4?",
-              "frenchString": "Valeur de 3a + 2b quand Un=5, b=4 ?",
-              "germanString": "Wert von 3a + 2b wenn Ein=5, b=4?",
+              "frenchString": "Valeur de 3a + 2b quand a=5, b=4 ?",
+              "germanString": "Wert von 3a + 2b wenn a=5, b=4?",
               "vnString": "Giá trị của 3a + 2b khi a=5 và b=4 là?"
             },
             "answers": [
