@@ -865,7 +865,7 @@
             },
             "hint": {
               "enString": "Compare the numbers and place them from smallest to largest. The smallest is 1, then 2, 4, 6, and 9.",
-              "frenchString": "Compare les nombres et place-les du plus petit au plus grand. Le plus petit est 1, puis 2, 4, 6 et 9.",
+              "frenchString": "Compare les nombres et position-les du plus petit au plus grand. Le plus petit est 1, puis 2, 4, 6 et 9.",
               "germanString": "Vergleiche die Zahlen und ordne sie von der kleinsten zur größten: 1, 2, 4, 6, 9.",
               "vnString": "So sánh các số và sắp xếp từ bé đến lớn. Nhỏ nhất là 1, sau đó là 2, 4, 6 và 9."
             }
@@ -912,7 +912,7 @@
             },
             "hint": {
               "enString": "Compare the numbers and arrange them from largest to smallest. The largest is 8, then 6, 4, 3, and 1.",
-              "frenchString": "Compare les nombres et place-les du plus grand au plus petit. Le plus grand est 8, puis 6, 4, 3 et 1.",
+              "frenchString": "Compare les nombres et position-les du plus grand au plus petit. Le plus grand est 8, puis 6, 4, 3 et 1.",
               "germanString": "Vergleiche die Zahlen und ordne sie von der größten zur kleinsten: 8, 6, 4, 3, 1.",
               "vnString": "So sánh các số và sắp xếp từ lớn đến bé. Lớn nhất là 8, sau đó là 6, 4, 3 và 1."
             }
@@ -6455,8 +6455,8 @@
             },
             "hint": {
               "enString": "Each increases by 5. Next is 25.",
-              "frenchString": "chacun increases by 5. Next is 25.",
-              "germanString": "jeder increases by 5. Next is 25.",
+              "frenchString": "chacun augmente de 5. Suivant est 25.",
+              "germanString": "jeder erhöht sich um 5. Nächste ist 25.",
               "vnString": "Mỗi số tăng 5. Tiếp theo là 25."
             }
           },
@@ -6464,7 +6464,7 @@
             "id": 135,
             "question": {
               "enString": "An has 10 marbles, gives 3 away. How many left?",
-              "frenchString": "An a 10 billes, en donne 3. Combien lui reste-t-il ?",
+              "frenchString": "An Un 10 billes, en donne 3. Combien lui reste-t-il ?",
               "germanString": "An hat 10 Murmeln, gibt 3 weg. Wie viele bleiben?",
               "vnString": "An có 10 viên bi, cho bạn 3 viên. Còn lại bao nhiêu?"
             },
@@ -6602,8 +6602,8 @@
             },
             "hint": {
               "enString": "30 is smaller than 33.",
-              "frenchString": "30 est plus petit than 33.",
-              "germanString": "30 ist kleiner than 33.",
+              "frenchString": "30 est plus petit que 33.",
+              "germanString": "30 ist kleiner als 33.",
               "vnString": "30 nhỏ hơn 33."
             }
           },
@@ -6611,7 +6611,7 @@
             "id": 138,
             "question": {
               "enString": "How many days are in a week?",
-              "frenchString": "Combien de jours y a-t-il dans une semaine ?",
+              "frenchString": "Combien de jours y Un-t-il dans une semaine ?",
               "germanString": "Wie viele Tage hat eine Woche?",
               "vnString": "Một tuần có bao nhiêu ngày?"
             },
@@ -6649,8 +6649,8 @@
             },
             "hint": {
               "enString": "A week has 7 days.",
-              "frenchString": "A semaine has 7 jours.",
-              "germanString": "A Woche has 7 Tage.",
+              "frenchString": "Une semaine Un 7 jours.",
+              "germanString": "Eine Woche hat 7 Tage.",
               "vnString": "Một tuần có 7 ngày."
             }
           },
@@ -6852,7 +6852,7 @@
             "id": 143,
             "question": {
               "enString": "Number 45 has how many tens and units?",
-              "frenchString": "Le nombre 45 a combien de dizaines et d'unités ?",
+              "frenchString": "Le nombre 45 Un combien de dizaines et d'unités ?",
               "germanString": "Die Zahl 45 hat wie viele Zehner und Einer?",
               "vnString": "Số 45 gồm mấy chục và mấy đơn vị?"
             },
@@ -6946,7 +6946,7 @@
             "id": 145,
             "question": {
               "enString": "Class has 20 students, 5 more join. Total?",
-              "frenchString": "La classe a 20 élèves, 5 de plus rejoignent. Total ?",
+              "frenchString": "La classe Un 20 élèves, 5 de plus rejoignent. Total ?",
               "germanString": "Die Klasse hat 20 Schüler, 5 weitere kommen dazu. Gesamt?",
               "vnString": "Lớp có 20 học sinh, thêm 5 học sinh. Tổng là?"
             },
@@ -7037,8 +7037,8 @@
             },
             "hint": {
               "enString": "11 is between 10 and 12.",
-              "frenchString": "11 est entre 10 and 12.",
-              "germanString": "11 liegt zwischen 10 and 12.",
+              "frenchString": "11 est entre 10 et 12.",
+              "germanString": "11 liegt zwischen 10 und 12.",
               "vnString": "Số 11 đứng giữa 10 và 12."
             }
           },
@@ -7131,8 +7131,8 @@
             },
             "hint": {
               "enString": "A month has about 4 weeks.",
-              "frenchString": "A mois has environ 4 semaines.",
-              "germanString": "A Monat has etwa 4 Wochen.",
+              "frenchString": "Un mois Un environ 4 semaines.",
+              "germanString": "Ein Monat hat etwa 4 Wochen.",
               "vnString": "Một tháng có khoảng 4 tuần."
             }
           },
@@ -7419,8 +7419,8 @@
             },
             "hint": {
               "enString": "Each increases by 2. Next is 10.",
-              "frenchString": "chacun increases by 2. Next is 10.",
-              "germanString": "jeder increases by 2. Next is 10.",
+              "frenchString": "chacun augmente de 2. Suivant est 10.",
+              "germanString": "jeder erhöht sich um 2. Nächste ist 10.",
               "vnString": "Mỗi số tăng 2. Tiếp theo là 10."
             }
           },
@@ -7428,7 +7428,7 @@
             "id": 155,
             "question": {
               "enString": "Child has 25 stickers, gives 7 away. How many left?",
-              "frenchString": "L'enfant a 25 autocollants, en donne 7. Combien lui en reste-t-il ?",
+              "frenchString": "L'enfant Un 25 autocollants, en donne 7. Combien lui en reste-t-il ?",
               "germanString": "Das Kind hat 25 Aufkleber, gibt 7 weg. Wie viele bleiben?",
               "vnString": "Bé có 25 nhãn vở, tặng bạn 7 cái. Còn lại bao nhiêu?"
             },
@@ -7660,8 +7660,8 @@
             },
             "hint": {
               "enString": "Each increases by 10. Next is 50.",
-              "frenchString": "chacun increases by 10. Next is 50.",
-              "germanString": "jeder increases by 10. Next is 50.",
+              "frenchString": "chacun augmente de 10. Suivant est 50.",
+              "germanString": "jeder erhöht sich um 10. Nächste ist 50.",
               "vnString": "Mỗi số tăng 10. Tiếp theo là 50."
             }
           },
@@ -7669,7 +7669,7 @@
             "id": 160,
             "question": {
               "enString": "Garden has 24 flowers, 6 more bloom. Total?",
-              "frenchString": "Le jardin a 24 fleurs, 6 de plus fleurissent. Total ?",
+              "frenchString": "Le jardin Un 24 fleurs, 6 de plus fleurissent. Total ?",
               "germanString": "Der Garten hat 24 Blumen, 6 weitere blühen. Gesamt?",
               "vnString": "Vườn có 24 bông hoa, nở thêm 6 bông. Tổng là?"
             },
@@ -7816,7 +7816,7 @@
             "id": 163,
             "question": {
               "enString": "Number 63 has how many tens and units?",
-              "frenchString": "Le nombre 63 a combien de dizaines et d'unités ?",
+              "frenchString": "Le nombre 63 Un combien de dizaines et d'unités ?",
               "germanString": "Die Zahl 63 hat wie viele Zehner und Einer?",
               "vnString": "Số 63 gồm mấy chục và mấy đơn vị?"
             },
@@ -7910,7 +7910,7 @@
             "id": 165,
             "question": {
               "enString": "Desk has 12 pens, 4 taken. How many left?",
-              "frenchString": "Le bureau a 12 stylos, 4 pris. Combien en reste-t-il ?",
+              "frenchString": "Le bureau Un 12 stylos, 4 pris. Combien en reste-t-il ?",
               "germanString": "Der Schreibtisch hat 12 Stifte, 4 genommen. Wie viele bleiben?",
               "vnString": "Bàn có 12 cái bút, lấy đi 4 cái. Còn lại bao nhiêu?"
             },
@@ -8151,7 +8151,7 @@
             "id": 170,
             "question": {
               "enString": "Box has 40 candies, 15 eaten. How many left?",
-              "frenchString": "La boîte a 40 bonbons, 15 mangés. Combien en reste-t-il ?",
+              "frenchString": "La boîte Un 40 bonbons, 15 mangés. Combien en reste-t-il ?",
               "germanString": "Die Schachtel hat 40 Bonbons, 15 gegessen. Wie viele bleiben?",
               "vnString": "Hộp có 40 viên kẹo, ăn 15 viên. Còn lại bao nhiêu?"
             },
@@ -8383,8 +8383,8 @@
             },
             "hint": {
               "enString": "Each decreases by 10. Next is 60.",
-              "frenchString": "chacun decreases by 10. Next is 60.",
-              "germanString": "jeder decreases by 10. Next is 60.",
+              "frenchString": "chacun diminue de 10. Suivant est 60.",
+              "germanString": "jeder verringert sich um 10. Nächste ist 60.",
               "vnString": "Mỗi số giảm 10. Tiếp theo là 60."
             }
           },
@@ -14702,7 +14702,7 @@
             },
             "hint": {
               "enString": "To find the value of the digit 8 in 287, determine its place value. The correct answer is 80.",
-              "frenchString": "Pour trouver la valeur du chiffre 8 dans 287, déterminez sa valeur de place. La réponse correcte est 80.",
+              "frenchString": "Pour trouver la valeur du chiffre 8 dans 287, déterminez sa valeur de position. La réponse correcte est 80.",
               "germanString": "Um den Wert der Ziffer 8 in 287 zu finden, bestimme ihren Stellenwert. Die richtige Antwort ist 80.",
               "vnString": "Để tìm giá trị của chữ số 8 trong 287, xác định giá trị vị trí của nó. Đáp án đúng là 80."
             }
@@ -15869,7 +15869,7 @@
             "id": 155,
             "question": {
               "enString": "1 box has 5 pens, 6 boxes total. How many pens?",
-              "frenchString": "1 boîte(s) a 5 stylos, 6 boîtes au total. Combien de stylos ?",
+              "frenchString": "1 boîte(s) Un 5 stylos, 6 boîtes au total. Combien de stylos ?",
               "germanString": "1 Schachtel(n) hat 5 Stifte, 6 Schachteln insgesamt. Wie viele Stifte?",
               "vnString": "Một hộp có 5 cái bút, có 6 hộp. Tổng là?"
             },
@@ -16110,7 +16110,7 @@
             "id": 160,
             "question": {
               "enString": "36 students divided into 4 groups. Each group has?",
-              "frenchString": "36 élèves répartis en 4 groupes. Chaque groupe a ?",
+              "frenchString": "36 élèves répartis en 4 groupes. Chaque groupe Un ?",
               "germanString": "36 Schüler in 4 Gruppen aufgeteilt. Jede Gruppe hat?",
               "vnString": "36 học sinh chia đều vào 4 nhóm. Mỗi nhóm có bao nhiêu?"
             },
@@ -16592,7 +16592,7 @@
             "id": 170,
             "question": {
               "enString": "Store has 120 shirts, sells 48. How many left?",
-              "frenchString": "Le magasin a 120 chemises, en vend 48. Combien en reste-t-il ?",
+              "frenchString": "Le magasin Un 120 chemises, en vend 48. Combien en reste-t-il ?",
               "germanString": "Das Geschäft hat 120 Hemden, verkauft 48. Wie viele bleiben?",
               "vnString": "Cửa hàng có 120 cái áo, bán 48 cái. Còn lại bao nhiêu?"
             },
@@ -17315,7 +17315,7 @@
             "id": 185,
             "question": {
               "enString": "Tank has 150 fish, 75 more added. Total?",
-              "frenchString": "Aquarium a 150 poissons, 75 ajoutés. Total ?",
+              "frenchString": "Aquarium Un 150 poissons, 75 ajoutés. Total ?",
               "germanString": "Aquarium hat 150 Fische, 75 hinzugefügt. Gesamt?",
               "vnString": "Bể cá có 150 con, thêm 75 con. Tổng là?"
             },
@@ -18038,7 +18038,7 @@
             "id": 200,
             "question": {
               "enString": "School has 8 classes with 35 students each. Total?",
-              "frenchString": "École a 8 classes de 35 élèves chacune. Total ?",
+              "frenchString": "École Un 8 classes de 35 élèves chacune. Total ?",
               "germanString": "Schule hat 8 Klassen mit je 35 Schülern. Gesamt?",
               "vnString": "Trường có 8 lớp, mỗi lớp 35 học sinh. Tổng là?"
             },
@@ -24495,8 +24495,8 @@
             },
             "hint": {
               "enString": "In 7285, the hundreds digit is 2.",
-              "frenchString": "In 7285, the centaines digit is 2.",
-              "germanString": "In 7285, the Hunderter digit is 2.",
+              "frenchString": "Dans 7285, le chiffre des centaines est 2.",
+              "germanString": "in 7285 ist die Hunderterziffer 2.",
               "vnString": "7285: chữ số hàng trăm là 2."
             }
           },
@@ -24689,8 +24689,8 @@
             },
             "hint": {
               "enString": "A regular year has 365 days.",
-              "frenchString": "A regular année has 365 jours.",
-              "germanString": "A regular Jahr has 365 Tage.",
+              "frenchString": "Une année normale a 365 jours.",
+              "germanString": "Ein normales Jahr hat 365 Tage.",
               "vnString": "1 năm thường có 365 ngày."
             }
           },
@@ -24792,7 +24792,7 @@
             "id": 140,
             "question": {
               "enString": "Store has 3 types of shirts, 48 of each. Total?",
-              "frenchString": "Magasin a 3 types de chemises, 48 de chaque. Total ?",
+              "frenchString": "Magasin Un 3 types de chemises, 48 de chaque. Total ?",
               "germanString": "Geschäft hat 3 Hemdentypen, je 48. Gesamt?",
               "vnString": "Cửa hàng có 3 loại áo, mỗi loại 48 cái. Tổng là?"
             },
@@ -25274,7 +25274,7 @@
             "id": 150,
             "question": {
               "enString": "Garden has 9 rows, 45 trees each. Total?",
-              "frenchString": "Jardin a 9 rangées, 45 arbres chacune. Total ?",
+              "frenchString": "Jardin Un 9 rangées, 45 arbres chacune. Total ?",
               "germanString": "Garten hat 9 Reihen, je 45 Bäume. Gesamt?",
               "vnString": "Vườn có 9 hàng cây, mỗi hàng 45 cây. Tổng là?"
             },
@@ -25459,8 +25459,8 @@
             },
             "hint": {
               "enString": "47 is odd because it's not divisible by 2.",
-              "frenchString": "47 est impair car it's not divisible by 2.",
-              "germanString": "47 ist ungerade weil it's not divisible by 2.",
+              "frenchString": "47 est impair car n'est pas divisible par 2.",
+              "germanString": "47 ist ungerade weil nicht teilbar durch 2.",
               "vnString": "47 là s lẻ vì không chia hết cho 2."
             }
           },
@@ -25515,7 +25515,7 @@
             "id": 155,
             "question": {
               "enString": "Class 3A has 32 students, 3B has 35. Total?",
-              "frenchString": "Classe 3A a 32 élèves, 3B a 35. Total ?",
+              "frenchString": "Classe 3A Un 32 élèves, 3B Un 35. Total ?",
               "germanString": "Klasse 3A hat 32 Schüler, 3B hat 35. Gesamt?",
               "vnString": "Lớp 3A có 32 học sinh, lớp 3B có 35. Tổng là?"
             },
@@ -26623,7 +26623,7 @@
             },
             "hint": {
               "enString": "To solve 'Two growers harvested 72 quintals of rice. The first field yielded 18 quintals more than the second. How many germ rice did each plan yield?', set up an equation to find the amounts and solve. The correct answer is 45; 27.",
-              "frenchString": "Pour résoudre 'Deux cultivateurs ont récolté 72 quintaux de riz. Le premier champ a produit 18 quintaux de plus que le second. Combien de quintaux chaque champ a-t-il produit ?', mettez en place une équation pour trouver les quantités et résolvez. La réponse correcte est 45 ; 27.",
+              "frenchString": "Pour résoudre 'Deux cultivateurs ont récolté 72 quintaux de riz. Le premier champ a produit 18 quintaux de plus que le second. Combien de quintaux chaque champ a-t-il produit ?', mettez en position une équation pour trouver les quantités et résolvez. La réponse correcte est 45 ; 27.",
               "germanString": "Um 'Zwei Erzeuger haben 72 Zentner Reis geerntet. Das erste Feld brachte 18 Zentner mehr als das zweite ein. Wie viel Reis hat jedes Feld produziert?', stelle eine Gleichung auf, um die Mengen zu finden und löse sie. Die richtige Antwort ist 45; 27.",
               "vnString": "Để giải 'Hai người trồng đã thu hoạch 72 tạ gạo. Cánh đồng đầu tiên thu hoạch được nhiều hơn cánh đồng thứ hai 18 tạ. Mỗi cánh đồng thu hoạch bao nhiêu gạo?', thiết lập phương trình để tìm số lượng và giải. Đáp án đúng là 45; 27."
             }
@@ -28598,7 +28598,7 @@
             },
             "hint": {
               "enString": "To solve 'Suitable number to fill in the place of 5ton 85kg = ...................... kg', convert tons to kilograms and add the additional kilograms. The correct answer is 5085.",
-              "frenchString": "Pour résoudre 'Nombre approprié pour remplir la place de 5ton 85kg = ...................... kg', convertissez les tonnes en kilogrammes et ajoutez les kilogrammes supplémentaires. La réponse correcte est 5085.",
+              "frenchString": "Pour résoudre 'Nombre approprié pour remplir la position de 5ton 85kg = ...................... kg', convertissez les tonnes en kilogrammes et ajoutez les kilogrammes supplémentaires. La réponse correcte est 5085.",
               "germanString": "Um 'Geeignete Zahl, um den Platz von 5ton 85kg = ...................... kg auszufüllen', Tonnen in Kilogramm umrechnen und die zusätzlichen Kilogramm hinzufügen. Die richtige Antwort ist 5085.",
               "vnString": "Để giải 'Số thích hợp để điền vào chỗ trống 5 tấn 85kg = ...................... kg', chuyển đổi tấn thành kilogram và cộng thêm kilogram bổ sung. Đáp án đúng là 5085."
             }
@@ -28745,7 +28745,7 @@
             },
             "hint": {
               "enString": "To solve 'Find a natural number with 3 digits knowing that the unit digit is 7. If we move the digit 7 from the unit to the hundreds place, we get a new number that is 2 times the old number plus 21.', set up an equation to solve. The correct answer is 357.",
-              "frenchString": "Pour résoudre 'Trouvez un nombre naturel à 3 chiffres sachant que le chiffre des unités est 7. Si nous déplaçons le chiffre 7 de l'unité au rang des centaines, nous obtenons un nouveau nombre qui est 2 fois le vieux nombre plus 21.', mettez en place une équation pour résoudre. La réponse correcte est 357.",
+              "frenchString": "Pour résoudre 'Trouvez un nombre naturel à 3 chiffres sachant que le chiffre des unités est 7. Si nous déplaçons le chiffre 7 de l'unité au rang des centaines, nous obtenons un nouveau nombre qui est 2 fois le vieux nombre plus 21.', mettez en position une équation pour résoudre. La réponse correcte est 357.",
               "germanString": "Um 'Finde eine dreiziffrige natürliche Zahl, bei der die Einerstelle 7 ist. Wenn die 7 von der Einerstelle zur Hunderterstelle verschoben wird, wird die neue Zahl doppelt so groß wie die alte Zahl plus 21.' zu lösen, stelle die Gleichung auf, um das Problem zu lösen. Die richtige Antwort ist 357.",
               "vnString": "Để giải 'Tìm một số tự nhiên có 3 chữ số biết rằng chữ số đơn vị là 7. Nếu di chuyển chữ số 7 từ đơn vị sang hàng trăm, ta được số mới gấp 2 lần số cũ cộng 21.', thiết lập phương trình để giải. Đáp án đúng là 357."
             }
@@ -32945,8 +32945,8 @@
             "id": 134,
             "question": {
               "enString": "Value of 3a + 2b when a=5, b=4?",
-              "frenchString": "Valeur de 3a + 2b quand a=5, b=4 ?",
-              "germanString": "Wert von 3a + 2b wenn a=5, b=4?",
+              "frenchString": "Valeur de 3a + 2b quand Un=5, b=4 ?",
+              "germanString": "Wert von 3a + 2b wenn Ein=5, b=4?",
               "vnString": "Giá trị của 3a + 2b khi a=5 và b=4 là?"
             },
             "answers": [
@@ -33418,8 +33418,8 @@
             },
             "hint": {
               "enString": "Digit 8 is in ten-thousands place, value = 80000.",
-              "frenchString": "Digit 8 is in ten-milliers place, Valeur = 80000.",
-              "germanString": "Digit 8 is in ten-Tausender place, Wert = 80000.",
+              "frenchString": "chiffre 8 est dans dizaine de milliers, Valeur = 80000.",
+              "germanString": "Ziffer 8 ist in Zehntausenderstelle, Wert = 80000.",
               "vnString": "Chữ số 8 ở hàng chục nghìn, giá trị = 80000."
             }
           },
@@ -33956,8 +33956,8 @@
             "id": 155,
             "question": {
               "enString": "City B is 15% more than city A (2,500,000). Population of B?",
-              "frenchString": "Ville B est 15% de plus que ville A (2.500.000). Population de B ?",
-              "germanString": "Stadt B ist 15% mehr als Stadt A (2.500.000). Bevölkerung von B?",
+              "frenchString": "Ville B est 15% de plus que ville Un (2.500.000). Population de B ?",
+              "germanString": "Stadt B ist 15% mehr als Stadt Ein (2.500.000). Bevölkerung von B?",
               "vnString": "Dân số TP B hơn TP A (2500000 người) 15%. Dân số B là?"
             },
             "answers": [
@@ -36363,7 +36363,7 @@
             },
             "hint": {
               "enString": "To solve this, recognize that the 3 in 97,032 is in the hundredths place, so its value is 0.03. The correct answer is 0.03.",
-              "frenchString": "Pour résoudre ceci, reconnaissez que le 3 dans 97 032 est à la place des centièmes, donc sa valeur est 0,03. La réponse correcte est 0,03.",
+              "frenchString": "Pour résoudre ceci, reconnaissez que le 3 dans 97 032 est à la position des centièmes, donc sa valeur est 0,03. La réponse correcte est 0,03.",
               "germanString": "Um dies zu lösen, erkenne, dass die 3 in 97.032 an der Hundertstelstelle steht, daher ist ihr Wert 0.03. Die richtige Antwort ist 0.03.",
               "vnString": "Để giải bài toán này, nhận ra rằng số 3 trong 97,032 nằm ở hàng phần trăm, nên giá trị của nó là 0.03. Đáp án đúng là 0.03."
             }
@@ -36992,7 +36992,7 @@
             },
             "hint": {
               "enString": "To solve this, look at the position of digit 8 in 135.48. It is in the hundredths place, which corresponds to 8 parts per hundred or 8 percent. The correct answer is '8 percent.'",
-              "frenchString": "Pour résoudre ceci, regardez la position du chiffre 8 dans 135,48. Il est à la place des centièmes, ce qui correspond à 8 parties pour cent ou 8 pour cent. La réponse correcte est '8 pour cent'.",
+              "frenchString": "Pour résoudre ceci, regardez la position du chiffre 8 dans 135,48. Il est à la position des centièmes, ce qui correspond à 8 parties pour cent ou 8 pour cent. La réponse correcte est '8 pour cent'.",
               "germanString": "Um dies zu lösen, betrachte die Position der Ziffer 8 in 135.48. Sie befindet sich an der Hundertstelstelle, was 8 Teile pro Hundert oder 8 Prozent entspricht. Die richtige Antwort ist '8 Prozent.'",
               "vnString": "Để giải bài toán này, xem vị trí của chữ số 8 trong 135.48. Nó nằm ở hàng phần trăm, tương đương với 8 phần trăm. Đáp án đúng là '8 phần trăm.'"
             }
@@ -37186,7 +37186,7 @@
             },
             "hint": {
               "enString": "To solve this, compare the two 3s in 135.43. The 3 on the left is in the tens place, which is 1000 times greater than the 3 on the right, which is in the tenths place. The correct answer is 1000.",
-              "frenchString": "Pour résoudre ceci, comparez les deux 3 dans 135,43. Le 3 de gauche est à la place des dizaines, ce qui est 1000 fois plus grand que le 3 de droite, qui est à la place des dixièmes. La réponse correcte est 1000.",
+              "frenchString": "Pour résoudre ceci, comparez les deux 3 dans 135,43. Le 3 de gauche est à la position des dizaines, ce qui est 1000 fois plus grand que le 3 de droite, qui est à la position des dixièmes. La réponse correcte est 1000.",
               "germanString": "Um dies zu lösen, vergleiche die beiden 3er in 135.43. Die 3 auf der linken Seite befindet sich an der Zehnerstelle, was 1000 mal größer ist als die 3 auf der rechten Seite, die sich an der Zehntelstelle befindet. Die richtige Antwort ist 1000.",
               "vnString": "Để giải bài toán này, so sánh hai số 3 trong 135.43. Số 3 bên trái nằm ở hàng chục, lớn hơn 1000 lần so với số 3 bên phải, nằm ở hàng phần mười. Đáp án đúng là 1000."
             }
@@ -44760,7 +44760,7 @@
             "id": 204,
             "question": {
               "enString": "Class 5A has 32 students. 87.5% remain. How many?",
-              "frenchString": "Classe 5A a 32 élèves. 87,5% restent. Combien ?",
+              "frenchString": "Classe 5A Un 32 élèves. 87,5% restent. Combien ?",
               "germanString": "Klasse 5A hat 32 Schüler. 87,5% bleiben. Wie viele?",
               "vnString": "Lớp 5A có 32 học sinh. Còn lại 87.5%. Số học sinh còn là?"
             },
