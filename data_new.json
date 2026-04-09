@@ -6167,8 +6167,8 @@
             },
             "hint": {
               "enString": "The number right after 19 is 20.",
-              "frenchString": "The number right after 19 is 20.",
-              "germanString": "The number right after 19 is 20.",
+              "frenchString": "Le nombre juste après 19 est 20.",
+              "germanString": "Die Zahl direkt nach 19 ist 20.",
               "vnString": "Số liền sau 19 là 20."
             }
           },
@@ -6214,8 +6214,8 @@
             },
             "hint": {
               "enString": "The number right before 15 is 14.",
-              "frenchString": "The number right before 15 is 14.",
-              "germanString": "The number right before 15 is 14.",
+              "frenchString": "Le nombre juste avant 15 est 14.",
+              "germanString": "Die Zahl direkt vor 15 ist 14.",
               "vnString": "Số liền trước 15 là 14."
             }
           },
@@ -6261,8 +6261,8 @@
             },
             "hint": {
               "enString": "7 + 4 = 11 animals.",
-              "frenchString": "7 + 4 = 11 animals.",
-              "germanString": "7 + 4 = 11 animals.",
+              "frenchString": "7 + 4 = 11 animaux.",
+              "germanString": "7 + 4 = 11 Tiere.",
               "vnString": "7 + 4 = 11 con."
             }
           }
@@ -6408,8 +6408,8 @@
             },
             "hint": {
               "enString": "21 is greater than 18.",
-              "frenchString": "21 is greater than 18.",
-              "germanString": "21 is greater than 18.",
+              "frenchString": "21 est plus grand que 18.",
+              "germanString": "21 ist größer als 18.",
               "vnString": "21 lớn hơn 18."
             }
           },
@@ -6455,8 +6455,8 @@
             },
             "hint": {
               "enString": "Each increases by 5. Next is 25.",
-              "frenchString": "Each increases by 5. Next is 25.",
-              "germanString": "Each increases by 5. Next is 25.",
+              "frenchString": "chacun increases by 5. Next is 25.",
+              "germanString": "jeder increases by 5. Next is 25.",
               "vnString": "Mỗi số tăng 5. Tiếp theo là 25."
             }
           },
@@ -6602,8 +6602,8 @@
             },
             "hint": {
               "enString": "30 is smaller than 33.",
-              "frenchString": "30 est plus petit que 33.",
-              "germanString": "30 ist kleiner als 33.",
+              "frenchString": "30 est plus petit than 33.",
+              "germanString": "30 ist kleiner than 33.",
               "vnString": "30 nhỏ hơn 33."
             }
           },
@@ -6649,8 +6649,8 @@
             },
             "hint": {
               "enString": "A week has 7 days.",
-              "frenchString": "Une semaine a 7 jours.",
-              "germanString": "Eine Woche hat 7 Tage.",
+              "frenchString": "A semaine has 7 jours.",
+              "germanString": "A Woche has 7 Tage.",
               "vnString": "Một tuần có 7 ngày."
             }
           },
@@ -7037,8 +7037,8 @@
             },
             "hint": {
               "enString": "11 is between 10 and 12.",
-              "frenchString": "11 est entre 10 et 12.",
-              "germanString": "11 liegt zwischen 10 und 12.",
+              "frenchString": "11 est entre 10 and 12.",
+              "germanString": "11 liegt zwischen 10 and 12.",
               "vnString": "Số 11 đứng giữa 10 và 12."
             }
           },
@@ -7131,8 +7131,8 @@
             },
             "hint": {
               "enString": "A month has about 4 weeks.",
-              "frenchString": "Un mois a environ 4 semaines.",
-              "germanString": "Ein Monat hat etwa 4 Wochen.",
+              "frenchString": "A mois has environ 4 semaines.",
+              "germanString": "A Monat has etwa 4 Wochen.",
               "vnString": "Một tháng có khoảng 4 tuần."
             }
           },
@@ -7419,8 +7419,8 @@
             },
             "hint": {
               "enString": "Each increases by 2. Next is 10.",
-              "frenchString": "Each increases by 2. Next is 10.",
-              "germanString": "Each increases by 2. Next is 10.",
+              "frenchString": "chacun increases by 2. Next is 10.",
+              "germanString": "jeder increases by 2. Next is 10.",
               "vnString": "Mỗi số tăng 2. Tiếp theo là 10."
             }
           },
@@ -7466,8 +7466,8 @@
             },
             "hint": {
               "enString": "25 - 7 = 18 stickers.",
-              "frenchString": "25 - 7 = 18 stickers.",
-              "germanString": "25 - 7 = 18 stickers.",
+              "frenchString": "25 - 7 = 18 autocollants.",
+              "germanString": "25 - 7 = 18 Aufkleber.",
               "vnString": "25 - 7 = 18 nhãn."
             }
           }
@@ -7519,8 +7519,8 @@
             },
             "hint": {
               "enString": "The smallest two-digit number is 10.",
-              "frenchString": "The smallest two-digit number is 10.",
-              "germanString": "The smallest two-digit number is 10.",
+              "frenchString": "Le plus petit nombre à deux chiffres est 10.",
+              "germanString": "Die kleinste zweistellige Zahl ist 10.",
               "vnString": "Số nhỏ nhất có hai chữ số là 10."
             }
           },
@@ -7660,8 +7660,8 @@
             },
             "hint": {
               "enString": "Each increases by 10. Next is 50.",
-              "frenchString": "Each increases by 10. Next is 50.",
-              "germanString": "Each increases by 10. Next is 50.",
+              "frenchString": "chacun increases by 10. Next is 50.",
+              "germanString": "jeder increases by 10. Next is 50.",
               "vnString": "Mỗi số tăng 10. Tiếp theo là 50."
             }
           },
@@ -7707,8 +7707,8 @@
             },
             "hint": {
               "enString": "24 + 6 = 30 flowers.",
-              "frenchString": "24 + 6 = 30 flowers.",
-              "germanString": "24 + 6 = 30 flowers.",
+              "frenchString": "24 + 6 = 30 fleurs.",
+              "germanString": "24 + 6 = 30 Blumen.",
               "vnString": "24 + 6 = 30 bông."
             }
           }
@@ -7854,8 +7854,8 @@
             },
             "hint": {
               "enString": "63 = 6 tens + 3 units.",
-              "frenchString": "63 = 6 tens + 3 units.",
-              "germanString": "63 = 6 tens + 3 units.",
+              "frenchString": "63 = 6 dizaines + 3 unités.",
+              "germanString": "63 = 6 Zehner + 3 Einer.",
               "vnString": "63 = 6 chục + 3 đơn vị."
             }
           },
@@ -7948,8 +7948,8 @@
             },
             "hint": {
               "enString": "12 - 4 = 8 pens.",
-              "frenchString": "12 - 4 = 8 pens.",
-              "germanString": "12 - 4 = 8 pens.",
+              "frenchString": "12 - 4 = 8 stylos.",
+              "germanString": "12 - 4 = 8 Stifte.",
               "vnString": "12 - 4 = 8 cái bút."
             }
           }
@@ -8048,8 +8048,8 @@
             },
             "hint": {
               "enString": "The number right after 99 is 100.",
-              "frenchString": "The number right after 99 is 100.",
-              "germanString": "The number right after 99 is 100.",
+              "frenchString": "Le nombre juste après 99 est 100.",
+              "germanString": "Die Zahl direkt nach 99 ist 100.",
               "vnString": "Số liền sau 99 là 100."
             }
           },
@@ -8189,8 +8189,8 @@
             },
             "hint": {
               "enString": "40 - 15 = 25 candies.",
-              "frenchString": "40 - 15 = 25 candies.",
-              "germanString": "40 - 15 = 25 candies.",
+              "frenchString": "40 - 15 = 25 bonbons.",
+              "germanString": "40 - 15 = 25 Bonbons.",
               "vnString": "40 - 15 = 25 viên."
             }
           }
@@ -8289,8 +8289,8 @@
             },
             "hint": {
               "enString": "Order: 7, 9, 15, 22. 2nd is 9.",
-              "frenchString": "Order: 7, 9, 15, 22. 2nd is 9.",
-              "germanString": "Order: 7, 9, 15, 22. 2nd is 9.",
+              "frenchString": "Ordre : 7, 9, 15, 22. 2ème est 9.",
+              "germanString": "Reihenfolge: 7, 9, 15, 22. 2. ist 9.",
               "vnString": "Thứ tự: 7, 9, 15, 22. Số thứ hai là 9."
             }
           },
@@ -8383,8 +8383,8 @@
             },
             "hint": {
               "enString": "Each decreases by 10. Next is 60.",
-              "frenchString": "Each decreases by 10. Next is 60.",
-              "germanString": "Each decreases by 10. Next is 60.",
+              "frenchString": "chacun decreases by 10. Next is 60.",
+              "germanString": "jeder decreases by 10. Next is 60.",
               "vnString": "Mỗi số giảm 10. Tiếp theo là 60."
             }
           },
@@ -8430,8 +8430,8 @@
             },
             "hint": {
               "enString": "50 - 28 = 22 apples.",
-              "frenchString": "50 - 28 = 22 apples.",
-              "germanString": "50 - 28 = 22 apples.",
+              "frenchString": "50 - 28 = 22 pommes.",
+              "germanString": "50 - 28 = 22 Äpfel.",
               "vnString": "50 - 28 = 22 quả."
             }
           }
@@ -15907,8 +15907,8 @@
             },
             "hint": {
               "enString": "5 x 6 = 30 pens.",
-              "frenchString": "5 x 6 = 30 pens.",
-              "germanString": "5 x 6 = 30 pens.",
+              "frenchString": "5 x 6 = 30 stylos.",
+              "germanString": "5 x 6 = 30 Stifte.",
               "vnString": "5 x 6 = 30 cái bút."
             }
           }
@@ -16148,8 +16148,8 @@
             },
             "hint": {
               "enString": "36 / 4 = 9 students.",
-              "frenchString": "36 / 4 = 9 students.",
-              "germanString": "36 / 4 = 9 students.",
+              "frenchString": "36 / 4 = 9 élèves.",
+              "germanString": "36 / 4 = 9 Schüler.",
               "vnString": "36 : 4 = 9 học sinh."
             }
           }
@@ -16583,8 +16583,8 @@
             },
             "hint": {
               "enString": "Perimeter = 4 x 15 = 60 cm.",
-              "frenchString": "Perimeter = 4 x 15 = 60 cm.",
-              "germanString": "Perimeter = 4 x 15 = 60 cm.",
+              "frenchString": "Périmètre = 4 x 15 = 60 cm.",
+              "germanString": "Umfang = 4 x 15 = 60 cm.",
               "vnString": "Chu vi = 4 x 15 = 60 cm."
             }
           },
@@ -16630,8 +16630,8 @@
             },
             "hint": {
               "enString": "120 - 48 = 72 shirts.",
-              "frenchString": "120 - 48 = 72 shirts.",
-              "germanString": "120 - 48 = 72 shirts.",
+              "frenchString": "120 - 48 = 72 chemises.",
+              "germanString": "120 - 48 = 72 Hemden.",
               "vnString": "120 - 48 = 72 cái áo."
             }
           }
@@ -16824,8 +16824,8 @@
             },
             "hint": {
               "enString": "Area = 12 x 5 = 60 cm2.",
-              "frenchString": "Area = 12 x 5 = 60 cm2.",
-              "germanString": "Area = 12 x 5 = 60 cm2.",
+              "frenchString": "Aire = 12 x 5 = 60 cm2.",
+              "germanString": "Fläche = 12 x 5 = 60 cm2.",
               "vnString": "Diện tích = 12 x 5 = 60 cm2."
             }
           },
@@ -17065,8 +17065,8 @@
             },
             "hint": {
               "enString": "Perimeter = 2 x (8 + 5) = 26 cm.",
-              "frenchString": "Perimeter = 2 x (8 + 5) = 26 cm.",
-              "germanString": "Perimeter = 2 x (8 + 5) = 26 cm.",
+              "frenchString": "Périmètre = 2 x (8 + 5) = 26 cm.",
+              "germanString": "Umfang = 2 x (8 + 5) = 26 cm.",
               "vnString": "Chu vi = 2 x (8 + 5) = 26 cm."
             }
           },
@@ -17353,8 +17353,8 @@
             },
             "hint": {
               "enString": "150 + 75 = 225 fish.",
-              "frenchString": "150 + 75 = 225 fish.",
-              "germanString": "150 + 75 = 225 fish.",
+              "frenchString": "150 + 75 = 225 poissons.",
+              "germanString": "150 + 75 = 225 Fische.",
               "vnString": "150 + 75 = 225 con."
             }
           }
@@ -17501,7 +17501,7 @@
             "hint": {
               "enString": "24 is divisible by 2 because 24/2 = 12.",
               "frenchString": "24 est divisible par 2 car 24/2 = 12.",
-              "germanString": "24 ist durch 2 teilbar weil 24/2 = 12.",
+              "germanString": "24 ist teilbar durch 2 weil 24/2 = 12.",
               "vnString": "24 chia hết cho 2 vì 24 : 2 = 12."
             }
           },
@@ -17742,7 +17742,7 @@
             "hint": {
               "enString": "35 is divisible by 5 because 35/5=7.",
               "frenchString": "35 est divisible par 5 car 35/5=7.",
-              "germanString": "35 ist durch 5 teilbar weil 35/5=7.",
+              "germanString": "35 ist teilbar durch 5 weil 35/5=7.",
               "vnString": "35 chia hết cho 5 vì 35 : 5 = 7."
             }
           },
@@ -17982,8 +17982,8 @@
             },
             "hint": {
               "enString": "The largest 3-digit number is 999.",
-              "frenchString": "The largest 3-digit number is 999.",
-              "germanString": "The largest 3-digit number is 999.",
+              "frenchString": "Le plus grand nombre à 3 chiffres est 999.",
+              "germanString": "Die größte 3-stellige Zahl ist 999.",
               "vnString": "Số lớn nhất có 3 chữ số là 999."
             }
           },
@@ -18029,8 +18029,8 @@
             },
             "hint": {
               "enString": "Perimeter = 4 x 9 = 36 cm.",
-              "frenchString": "Perimeter = 4 x 9 = 36 cm.",
-              "germanString": "Perimeter = 4 x 9 = 36 cm.",
+              "frenchString": "Périmètre = 4 x 9 = 36 cm.",
+              "germanString": "Umfang = 4 x 9 = 36 cm.",
               "vnString": "Chu vi = 4 x 9 = 36 cm."
             }
           },
@@ -18076,8 +18076,8 @@
             },
             "hint": {
               "enString": "8 x 35 = 280 students.",
-              "frenchString": "8 x 35 = 280 students.",
-              "germanString": "8 x 35 = 280 students.",
+              "frenchString": "8 x 35 = 280 élèves.",
+              "germanString": "8 x 35 = 280 Schüler.",
               "vnString": "8 x 35 = 280 học sinh."
             }
           }
@@ -24495,8 +24495,8 @@
             },
             "hint": {
               "enString": "In 7285, the hundreds digit is 2.",
-              "frenchString": "In 7285, the hundreds digit is 2.",
-              "germanString": "In 7285, the hundreds digit is 2.",
+              "frenchString": "In 7285, the centaines digit is 2.",
+              "germanString": "In 7285, the Hunderter digit is 2.",
               "vnString": "7285: chữ số hàng trăm là 2."
             }
           },
@@ -24589,8 +24589,8 @@
             },
             "hint": {
               "enString": "144 / 12 = 12 candies.",
-              "frenchString": "144 / 12 = 12 candies.",
-              "germanString": "144 / 12 = 12 candies.",
+              "frenchString": "144 / 12 = 12 bonbons.",
+              "germanString": "144 / 12 = 12 Bonbons.",
               "vnString": "144 : 12 = 12 viên."
             }
           }
@@ -24689,8 +24689,8 @@
             },
             "hint": {
               "enString": "A regular year has 365 days.",
-              "frenchString": "A regular year has 365 days.",
-              "germanString": "A regular year has 365 days.",
+              "frenchString": "A regular année has 365 jours.",
+              "germanString": "A regular Jahr has 365 Tage.",
               "vnString": "1 năm thường có 365 ngày."
             }
           },
@@ -24830,8 +24830,8 @@
             },
             "hint": {
               "enString": "3 x 48 = 144 shirts.",
-              "frenchString": "3 x 48 = 144 shirts.",
-              "germanString": "3 x 48 = 144 shirts.",
+              "frenchString": "3 x 48 = 144 chemises.",
+              "germanString": "3 x 48 = 144 Hemden.",
               "vnString": "3 x 48 = 144 cái."
             }
           }
@@ -25024,8 +25024,8 @@
             },
             "hint": {
               "enString": "Perimeter = 4 x 25 = 100 cm.",
-              "frenchString": "Perimeter = 4 x 25 = 100 cm.",
-              "germanString": "Perimeter = 4 x 25 = 100 cm.",
+              "frenchString": "Périmètre = 4 x 25 = 100 cm.",
+              "germanString": "Umfang = 4 x 25 = 100 cm.",
               "vnString": "Chu vi = 4 x 25 = 100 cm."
             }
           },
@@ -25265,8 +25265,8 @@
             },
             "hint": {
               "enString": "Area = 16 x 16 = 256 cm2.",
-              "frenchString": "Area = 16 x 16 = 256 cm2.",
-              "germanString": "Area = 16 x 16 = 256 cm2.",
+              "frenchString": "Aire = 16 x 16 = 256 cm2.",
+              "germanString": "Fläche = 16 x 16 = 256 cm2.",
               "vnString": "Diện tích = 16 x 16 = 256 cm2."
             }
           },
@@ -25312,8 +25312,8 @@
             },
             "hint": {
               "enString": "9 x 45 = 405 trees.",
-              "frenchString": "9 x 45 = 405 trees.",
-              "germanString": "9 x 45 = 405 trees.",
+              "frenchString": "9 x 45 = 405 arbres.",
+              "germanString": "9 x 45 = 405 Bäume.",
               "vnString": "9 x 45 = 405 cây."
             }
           }
@@ -25459,8 +25459,8 @@
             },
             "hint": {
               "enString": "47 is odd because it's not divisible by 2.",
-              "frenchString": "47 est impair car non divisible par 2.",
-              "germanString": "47 ist ungerade weil nicht durch 2 teilbar.",
+              "frenchString": "47 est impair car it's not divisible by 2.",
+              "germanString": "47 ist ungerade weil it's not divisible by 2.",
               "vnString": "47 là s lẻ vì không chia hết cho 2."
             }
           },
@@ -25553,8 +25553,8 @@
             },
             "hint": {
               "enString": "32 + 35 = 67 students.",
-              "frenchString": "32 + 35 = 67 students.",
-              "germanString": "32 + 35 = 67 students.",
+              "frenchString": "32 + 35 = 67 élèves.",
+              "germanString": "32 + 35 = 67 Schüler.",
               "vnString": "32 + 35 = 67 học sinh."
             }
           }
@@ -25794,8 +25794,8 @@
             },
             "hint": {
               "enString": "1200 - 350 = 850 liters.",
-              "frenchString": "1200 - 350 = 850 liters.",
-              "germanString": "1200 - 350 = 850 liters.",
+              "frenchString": "1200 - 350 = 850 litres.",
+              "germanString": "1200 - 350 = 850 Liter.",
               "vnString": "1200 - 350 = 850 lít."
             }
           }
@@ -25988,8 +25988,8 @@
             },
             "hint": {
               "enString": "6 + 8 + 10 = 24. Smallest is 6.",
-              "frenchString": "6 + 8 + 10 = 24. Smallest is 6.",
-              "germanString": "6 + 8 + 10 = 24. Smallest is 6.",
+              "frenchString": "6 + 8 + 10 = 24. Le plus petit est 6.",
+              "germanString": "6 + 8 + 10 = 24. Die kleinste ist 6.",
               "vnString": "6 + 8 + 10 = 24. Số nhỏ nhất là 6."
             }
           },
@@ -26229,8 +26229,8 @@
             },
             "hint": {
               "enString": "Width = (48/2) - 16 = 24 - 16 = 8 cm.",
-              "frenchString": "Width = (48/2) - 16 = 24 - 16 = 8 cm.",
-              "germanString": "Width = (48/2) - 16 = 24 - 16 = 8 cm.",
+              "frenchString": "largeur = (48/2) - 16 = 24 - 16 = 8 cm.",
+              "germanString": "Breite = (48/2) - 16 = 24 - 16 = 8 cm.",
               "vnString": "Chiều rộng = (48 : 2) - 16 = 24 - 16 = 8 cm."
             }
           },
@@ -26470,8 +26470,8 @@
             },
             "hint": {
               "enString": "Area = (24+16)x10/2 = 200 cm2.",
-              "frenchString": "Area = (24+16)x10/2 = 200 cm2.",
-              "germanString": "Area = (24+16)x10/2 = 200 cm2.",
+              "frenchString": "Aire = (24+16)x10/2 = 200 cm2.",
+              "germanString": "Fläche = (24+16)x10/2 = 200 cm2.",
               "vnString": "Diện tích = (24+16)x10: 2 = 200 cm2."
             }
           },
@@ -26517,8 +26517,8 @@
             },
             "hint": {
               "enString": "5000 - 3x750 = 2750 ml = 2.75 liters.",
-              "frenchString": "5000 - 3x750 = 2750 ml = 2.75 liters.",
-              "germanString": "5000 - 3x750 = 2750 ml = 2.75 liters.",
+              "frenchString": "5000 - 3x750 = 2750 ml = 2.75 litres.",
+              "germanString": "5000 - 3x750 = 2750 ml = 2.75 Liter.",
               "vnString": "5000 - 3x750 = 5000 - 2250 = 2750 ml = 2.75 lít."
             }
           }
@@ -32742,8 +32742,8 @@
             },
             "hint": {
               "enString": "3/4 = 0.75 > 2/3 = 0.667, so 3/4 is larger.",
-              "frenchString": "3/4 = 0,75 > 2/3 = 0,667, donc 3/4 est plus grand.",
-              "germanString": "3/4 = 0,75 > 2/3 = 0,667, also ist 3/4 größer.",
+              "frenchString": "3/4 = 0.75 > 2/3 = 0.667, donc 3/4 est plus grand.",
+              "germanString": "3/4 = 0.75 > 2/3 = 0.667, also 3/4 ist größer.",
               "vnString": "3/4 = 0.75 > 2/3 = 0.667, nên 3/4 lớn hơn."
             }
           },
@@ -33130,8 +33130,8 @@
             },
             "hint": {
               "enString": "Square root of 196 = 14 because 14x14=196.",
-              "frenchString": "Square root of 196 = 14 because 14x14=196.",
-              "germanString": "Square root of 196 = 14 because 14x14=196.",
+              "frenchString": "Racine carrée of 196 = 14 car 14x14=196.",
+              "germanString": "Quadratwurzel of 196 = 14 weil 14x14=196.",
               "vnString": "Căn bậc 2 của 196 = 14 vì 14x14=196."
             }
           },
@@ -33271,8 +33271,8 @@
             },
             "hint": {
               "enString": "12 x 48 = 576 passengers.",
-              "frenchString": "12 × 48 = 576 passagers.",
-              "germanString": "12 × 48 = 576 Passagiere.",
+              "frenchString": "12 x 48 = 576 passagers.",
+              "germanString": "12 x 48 = 576 Passagiere.",
               "vnString": "12 x 48 = 576 hành khách."
             }
           }
@@ -33418,8 +33418,8 @@
             },
             "hint": {
               "enString": "Digit 8 is in ten-thousands place, value = 80000.",
-              "frenchString": "Digit 8 is in ten-thousands place, value = 80000.",
-              "germanString": "Digit 8 is in ten-thousands place, value = 80000.",
+              "frenchString": "Digit 8 is in ten-milliers place, Valeur = 80000.",
+              "germanString": "Digit 8 is in ten-Tausender place, Wert = 80000.",
               "vnString": "Chữ số 8 ở hàng chục nghìn, giá trị = 80000."
             }
           },
@@ -33706,8 +33706,8 @@
             },
             "hint": {
               "enString": "Small base = 12cm. S = (24+12)x15/2 = 270 cm2.",
-              "frenchString": "Small base = 12cm. S = (24+12)x15/2 = 270 cm2.",
-              "germanString": "Small base = 12cm. S = (24+12)x15/2 = 270 cm2.",
+              "frenchString": "Petite base = 12cm. S = (24+12)×15/2 = 270 cm².",
+              "germanString": "Kleine Basis = 12cm. S = (24+12)×15/2 = 270 cm².",
               "vnString": "Đáy nhỏ = 12cm. S = (24+12)x15:2 = 270 cm2."
             }
           },
@@ -33900,8 +33900,8 @@
             },
             "hint": {
               "enString": "GCD(48, 72) = 24.",
-              "frenchString": "GCD(48, 72) = 24.",
-              "germanString": "GCD(48, 72) = 24.",
+              "frenchString": "PGCD(48, 72) = 24.",
+              "germanString": "GGT(48, 72) = 24.",
               "vnString": "GCD(48, 72) = 24."
             }
           },
@@ -33947,8 +33947,8 @@
             },
             "hint": {
               "enString": "LCM(6, 8) = 24.",
-              "frenchString": "LCM(6, 8) = 24.",
-              "germanString": "LCM(6, 8) = 24.",
+              "frenchString": "PPCM(6, 8) = 24.",
+              "germanString": "KGV(6, 8) = 24.",
               "vnString": "LCM(6, 8) = 24."
             }
           },
@@ -34141,8 +34141,8 @@
             },
             "hint": {
               "enString": "Obtuse angle: between 90 and 180 degrees. 120 degrees is obtuse.",
-              "frenchString": "Obtuse angle: between 90 and 180 degrees. 120 degrees is obtuse.",
-              "germanString": "Obtuse angle: between 90 and 180 degrees. 120 degrees is obtuse.",
+              "frenchString": "Angle obtus : entre 90 et 180 degrés. 120 degrés est obtus.",
+              "germanString": "Stumpfer Winkel: zwischen 90 und 180 Grad. 120 Grad ist stumpf.",
               "vnString": "Góc tù: lớn hơn 90 và nhỏ hơn 180 độ. 120 độ là góc tù."
             }
           },
@@ -34235,8 +34235,8 @@
             },
             "hint": {
               "enString": "8 x 1.12 = 8.96 million VND.",
-              "frenchString": "8 x 1.12 = 8.96 millions VND.",
-              "germanString": "8 x 1.12 = 8.96 Millionen VND.",
+              "frenchString": "8 × 1,12 = 8,96 millions VND.",
+              "germanString": "8 × 1,12 = 8,96 Millionen VND.",
               "vnString": "8 x 1.12 = 8.96 triệu."
             }
           }
@@ -34576,8 +34576,8 @@
             },
             "hint": {
               "enString": "59 is prime (divisible only by 1 and itself).",
-              "frenchString": "59 is prime (divisible only by 1 and itself).",
-              "germanString": "59 is prime (divisible only by 1 and itself).",
+              "frenchString": "59 est premier (divisible uniquement par 1 et lui-même).",
+              "germanString": "59 ist eine Primzahl (nur durch 1 und sich selbst teilbar).",
               "vnString": "59 là số nguyên tố (chỉ chia hết cho 1 và chính nó)."
             }
           },
@@ -34958,8 +34958,8 @@
             },
             "hint": {
               "enString": "Interest = 10 x 6% x 3 = 1.8 million VND.",
-              "frenchString": "Interest = 10 x 6% x 3 = 1.8 millions VND.",
-              "germanString": "Interest = 10 x 6% x 3 = 1.8 Millionen VND.",
+              "frenchString": "Intérêt = 10 x 6% x 3 = 1.8 million VND.",
+              "germanString": "Zinsen = 10 x 6% x 3 = 1.8 million VND.",
               "vnString": "Lãi = 10 x 6% x 3 = 1.8 triệu."
             }
           }
@@ -43881,8 +43881,8 @@
             },
             "hint": {
               "enString": "300 x 15 / 180 = 25 liters.",
-              "frenchString": "300 x 15 / 180 = 25 liters.",
-              "germanString": "300 x 15 / 180 = 25 liters.",
+              "frenchString": "300 x 15 / 180 = 25 litres.",
+              "germanString": "300 x 15 / 180 = 25 Liter.",
               "vnString": "300 x 15 : 180 = 25 lít."
             }
           }
@@ -43981,8 +43981,8 @@
             },
             "hint": {
               "enString": "sqrt(1.44) = 1.2 because 1.2 x 1.2 = 1.44.",
-              "frenchString": "sqrt(1.44) = 1.2 because 1.2 x 1.2 = 1.44.",
-              "germanString": "sqrt(1.44) = 1.2 because 1.2 x 1.2 = 1.44.",
+              "frenchString": "sqrt(1.44) = 1.2 car 1.2 x 1.2 = 1.44.",
+              "germanString": "sqrt(1.44) = 1.2 weil 1.2 x 1.2 = 1.44.",
               "vnString": "Căn(1.44) = 1.2 vì 1.2 x 1.2 = 1.44."
             }
           },
@@ -44363,8 +44363,8 @@
             },
             "hint": {
               "enString": "1200 x 5 = 6000 products.",
-              "frenchString": "1200 × 5 = 6000 produits.",
-              "germanString": "1200 × 5 = 6000 Produkte.",
+              "frenchString": "1200 x 5 = 6000 produits.",
+              "germanString": "1200 x 5 = 6000 Produkte.",
               "vnString": "1200 x 5 = 6000 sản phẩm."
             }
           }
@@ -44604,8 +44604,8 @@
             },
             "hint": {
               "enString": "(52300-45500)/45500 x 100 approx 15%.",
-              "frenchString": "(52300-45500)/45500 × 100 ≈ 15%.",
-              "germanString": "(52300-45500)/45500 × 100 ≈ 15%.",
+              "frenchString": "(52300-45500)/45500 x 100 ≈ 15%.",
+              "germanString": "(52300-45500)/45500 x 100 ≈ 15%.",
               "vnString": "(52300-45500)/45500 x 100 = 14.95% xấp xỉ 15%."
             }
           }
@@ -44751,8 +44751,8 @@
             },
             "hint": {
               "enString": "5^2 + 12^2 = 169 = 13^2. This is a right triangle.",
-              "frenchString": "5^2 + 12^2 = 169 = 13^2. This is a right triangle.",
-              "germanString": "5^2 + 12^2 = 169 = 13^2. This is a right triangle.",
+              "frenchString": "5² + 12² = 169 = 13². C'est un triangle rectangle.",
+              "germanString": "5² + 12² = 169 = 13². Das ist ein rechtwinkliges Dreieck.",
               "vnString": "5^2 + 12^2 = 169 = 13^2. Đây là tam giác vuông."
             }
           },
@@ -45086,8 +45086,8 @@
             },
             "hint": {
               "enString": "Downstream speed = 12+3 = 15 km/h. T = 60/15 = 4 hours.",
-              "frenchString": "Downstream speed = 12+3 = 15 km/h. T = 60/15 = 4 heures.",
-              "germanString": "Downstream speed = 12+3 = 15 km/h. T = 60/15 = 4 Stunden.",
+              "frenchString": "Vitesse en aval = 12+3 = 15 km/h. T = 60/15 = 4 heures.",
+              "germanString": "Geschwindigkeit flussabwärts = 12+3 = 15 km/h. T = 60/15 = 4 Stunden.",
               "vnString": "Tốc độ xuôi dòng = 12 + 3 = 15 km/h. T = 60 : 15 = 4 giờ."
             }
           }
@@ -45233,8 +45233,8 @@
             },
             "hint": {
               "enString": "The number = 84 / 0.6 = 140.",
-              "frenchString": "The number = 84 / 0.6 = 140.",
-              "germanString": "The number = 84 / 0.6 = 140.",
+              "frenchString": "Le nombre = 84 / 0,6 = 140.",
+              "germanString": "Die Zahl = 84 / 0,6 = 140.",
               "vnString": "Số đó = 84 : 0.6 = 140."
             }
           },
@@ -45427,8 +45427,8 @@
             },
             "hint": {
               "enString": "0.005 ton = 0.005 x 1,000,000 = 5,000 grams.",
-              "frenchString": "0,005 tonne = 0,005 × 1.000.000 = 5.000 grammes.",
-              "germanString": "0,005 Tonne = 0,005 × 1.000.000 = 5.000 Gramm.",
+              "frenchString": "0.005 tonne = 0.005 x 1,000,000 = 5,000 grammes.",
+              "germanString": "0.005 Tonne = 0.005 x 1,000,000 = 5,000 Gramm.",
               "vnString": "0.005 tấn = 0.005 x 1000000 = 5000 gam."
             }
           },
@@ -45715,8 +45715,8 @@
             },
             "hint": {
               "enString": "V = 1/3 x 100 x 12 = 400 cm3.",
-              "frenchString": "V = 1/3 x 100 x 12 = 400 cm3.",
-              "germanString": "V = 1/3 x 100 x 12 = 400 cm3.",
+              "frenchString": "V = 1/3 × 100 × 12 = 400 cm³.",
+              "germanString": "V = 1/3 × 100 × 12 = 400 cm³.",
               "vnString": "V = 1/3 x 100 nhân 12 bằng 400 cm3."
             }
           },
@@ -45762,8 +45762,8 @@
             },
             "hint": {
               "enString": "Upstream speed = 48/4 = 12 km/h. Still water = 12 + 3 = 15 km/h.",
-              "frenchString": "Upstream speed = 48/4 = 12 km/h. Still water = 12 + 3 = 15 km/h.",
-              "germanString": "Upstream speed = 48/4 = 12 km/h. Still water = 12 + 3 = 15 km/h.",
+              "frenchString": "Vitesse en amont = 48/4 = 12 km/h. Eau calme = 12 + 3 = 15 km/h.",
+              "germanString": "Geschwindigkeit flussaufwärts = 48/4 = 12 km/h. Ruhiges Wasser = 12 + 3 = 15 km/h.",
               "vnString": "Tốc độ ngược dòng = 48 : 4 = 12 km/h. Tốc độ trong nước yên = 12 + 3 = 15 km/h."
             }
           },
